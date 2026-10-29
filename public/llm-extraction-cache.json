@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0-smart-quota-guard",
-  "updatedAtISO": "2026-10-29T15:29:12.338Z",
+  "updatedAtISO": "2026-10-29T16:01:02.079Z",
   "entries": {
     "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default#tienda-inglesa": {
       "cacheKey": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default#tienda-inglesa|5c29aa69485b73689a3c1622eabc220d64e86d981951387f127003e27bdb7a5f",
@@ -959,6 +959,30 @@
       "bannerCount": 1,
       "pdfCount": 0,
       "cachedAtISO": "2026-10-29T15:29:12.337Z",
+      "modelUsed": "gemini-2.5-flash",
+      "items": []
+    },
+    "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/midland-hotel.html": {
+      "cacheKey": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/midland-hotel.html|930dd735921b0a07982088c8867b94897126dae2782b6fe8cb0eb8bbf4733af7",
+      "sourceUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/midland-hotel.html",
+      "bank": "BBVA",
+      "title": "Midland Hotel",
+      "contentSha256": "930dd735921b0a07982088c8867b94897126dae2782b6fe8cb0eb8bbf4733af7",
+      "bannerCount": 8,
+      "pdfCount": 9,
+      "cachedAtISO": "2026-10-29T16:00:57.136Z",
+      "modelUsed": "gemini-2.5-flash",
+      "items": []
+    },
+    "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-butaca.html": {
+      "cacheKey": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-butaca.html|2a2cfa06bf0619fc5db1b2ce43e7580a353692d4b87c26f3e7b6a493fe2262aa",
+      "sourceUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-butaca.html",
+      "bank": "BBVA",
+      "title": "Peñarol - Descuento en compra y renovación de butacas",
+      "contentSha256": "2a2cfa06bf0619fc5db1b2ce43e7580a353692d4b87c26f3e7b6a493fe2262aa",
+      "bannerCount": 8,
+      "pdfCount": 9,
+      "cachedAtISO": "2026-10-29T16:01:01.585Z",
       "modelUsed": "gemini-2.5-flash",
       "items": []
     }

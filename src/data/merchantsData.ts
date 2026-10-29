@@ -3,7 +3,7 @@ import { Merchant } from '../types/discount';
 // GENERADO por scripts/deep-scraper/deep-crawler-engine.cjs — NO EDITAR A MANO.
 // Cada regla incluye 'evidence' (texto de la fuente oficial) y 'verifiedAtISO'.
 export const DATA_LAST_UPDATED = '2026-10-29';
-export const DATA_VERIFIED_AT = '2026-10-29T15:29:13.146Z';
+export const DATA_VERIFIED_AT = '2026-10-29T16:01:02.836Z';
 
 export const MERCHANTS_DATA: Merchant[] = [
   {
@@ -362,6 +362,35 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "b00e56bec9a692642094d0c44fd302925237ebfa6b71a3b727b77c7cd8a437ad",
         "evidence": "BROU: \"El Dorado - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Hogar El Dorado El Dorado 10 % DTO Aprovecha estos beneficios en El Dorado con las tarjetas seleccionadas de \"",
         "verifiedAtISO": "2026-10-29T15:17:53.837Z"
+      },
+      {
+        "id": "el-dorado-brou-recompensa-15",
+        "cardIds": [
+          "brou-recompensa",
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 15,
+        "days": [
+          "Martes",
+          "Jueves"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": 2000,
+        "capPeriod": "mes",
+        "conditions": "15% de descuento con tarjetas BROU seleccionadas. Tope $2000.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/hogar/SUPERMERCADOS-EL-DORADO",
+        "legalTextHash": "b00e56bec9a692642094d0c44fd302925237ebfa6b71a3b727b77c7cd8a437ad",
+        "evidence": "BROU: \"El Dorado - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Hogar El Dorado El Dorado 10 % DTO Aprovecha estos beneficios en El Dorado con las tarjetas seleccionadas de \"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -5769,6 +5798,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "d998f836ff72581f7cfc3f4cd5c26a9b296fb292d3285361034a74f5a2baefd4",
         "evidence": "BROU: \"TOTO - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios TOTO TOTO 25 % DTO 15 % DTO 25% y 15% de descuento los lunes, martes y miércoles en TOTO. Vigencia: 31/\"",
         "verifiedAtISO": "2026-10-29T15:17:53.837Z"
+      },
+      {
+        "id": "toto-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/moda/toto",
+        "legalTextHash": "d998f836ff72581f7cfc3f4cd5c26a9b296fb292d3285361034a74f5a2baefd4",
+        "evidence": "BROU: \"TOTO - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios TOTO TOTO 25 % DTO 15 % DTO 25% y 15% de descuento los lunes, martes y miércoles en TOTO. Vigencia: 31/\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -6386,6 +6448,40 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "37832134854686ce87315cf62121444a28ccb223c0d405a3e94660690bcbe79f",
         "evidence": "BROU: \"skechers - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios skechers skechers 25 % DTO 15 % DTO 25 y 15% de descuento los lunes, martes y miércoles en SKECHERS\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "skechers-brou-recompensa-20",
+        "cardIds": [
+          "brou-recompensa",
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 20,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "20% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/moda/skechers",
+        "legalTextHash": "37832134854686ce87315cf62121444a28ccb223c0d405a3e94660690bcbe79f",
+        "evidence": "BROU: \"skechers - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios skechers skechers 25 % DTO 15 % DTO 25 y 15% de descuento los lunes, martes y miércoles en SKECHERS\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -6673,6 +6769,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "ee6de25d9943cf4c4c3f5253850d74f781356f3571437cb01f75a1f7235d2a06",
         "evidence": "BROU: \"IPlace - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Tecnología IPlace IPlace 15 % DTO 15% de descuento en artículos seleccionados y hasta 24 cuotas sin recargo en t\"",
         "verifiedAtISO": "2026-10-29T15:17:53.837Z"
+      },
+      {
+        "id": "iplace-brou-credito-recompensa-25",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 25,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "25% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/tecnologia/iplace",
+        "legalTextHash": "ee6de25d9943cf4c4c3f5253850d74f781356f3571437cb01f75a1f7235d2a06",
+        "evidence": "BROU: \"IPlace - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Tecnología IPlace IPlace 15 % DTO 15% de descuento en artículos seleccionados y hasta 24 cuotas sin recargo en t\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -86163,6 +86292,37 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "46d6170b5b3f08a1f4a3f604bd01cf024e7a7e70c44f3036b762d6cc50320b0f",
         "evidence": "BROU: \"Beneficios Para Vos con BROU A MANO Comercios - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Beneficios Para Vos con BROU A MANO Comercios Beneficios Para \"",
         "verifiedAtISO": "2026-10-29T15:17:53.837Z"
+      },
+      {
+        "id": "beneficios-para-vos-con-brou-a-mano-comercios-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": 3000,
+        "capPeriod": "mes",
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas. Tope $3000.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
+        "legalTextHash": "46d6170b5b3f08a1f4a3f604bd01cf024e7a7e70c44f3036b762d6cc50320b0f",
+        "evidence": "BROU: \"Beneficios Para Vos con BROU A MANO Comercios - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Beneficios Para Vos con BROU A MANO Comercios Beneficios Para \"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -87169,6 +87329,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "430d084b4e097507cf894e69e09a1d7ffbb91c3f37a617532bbf4ee115db9812",
         "evidence": "BROU: \"Paprika - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Moda Paprika Paprika 20 % DTO 10 % DTO Beneficios en Paprika con las tarjetas seleccionadas de Tu Banco Vigenci\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "paprika-brou-credito-recompensa-50",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 50,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "50% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/moda/paprika",
+        "legalTextHash": "430d084b4e097507cf894e69e09a1d7ffbb91c3f37a617532bbf4ee115db9812",
+        "evidence": "BROU: \"Paprika - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Moda Paprika Paprika 20 % DTO 10 % DTO Beneficios en Paprika con las tarjetas seleccionadas de Tu Banco Vigenci\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -87310,6 +87503,35 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "d7771f4ec1cbead2574911831bb9e16ebf1a145d6788c3d9860d50dbb9c32cba",
         "evidence": "BROU: \"GR Joyeros - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios GR Joyeros GR Joyeros 15 % DTO 15% de descuento con todas las tarjetas del Banco República. Obten\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "moda-joyeros-gr-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
+        "legalTextHash": "d7771f4ec1cbead2574911831bb9e16ebf1a145d6788c3d9860d50dbb9c32cba",
+        "evidence": "BROU: \"GR Joyeros - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios GR Joyeros GR Joyeros 15 % DTO 15% de descuento con todas las tarjetas del Banco República. Obten\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -87553,6 +87775,68 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "beaa46ab65976117c14587678509dba8ae4f606ffedea232d447b712d9bef3db",
         "evidence": "BROU: \"Banco Hipotecario del Uruguay - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Banco Hipotecario del Uruguay Banco Hipotecario del Uruguay Beneficios exclusi\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "banco-hipotecario-del-uruguay-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
+        "legalTextHash": "beaa46ab65976117c14587678509dba8ae4f606ffedea232d447b712d9bef3db",
+        "evidence": "BROU: \"Banco Hipotecario del Uruguay - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Banco Hipotecario del Uruguay Banco Hipotecario del Uruguay Beneficios exclusi\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
+      },
+      {
+        "id": "banco-hipotecario-del-uruguay-brou-credito-recompensa-50",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 50,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "50% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
+        "legalTextHash": "beaa46ab65976117c14587678509dba8ae4f606ffedea232d447b712d9bef3db",
+        "evidence": "BROU: \"Banco Hipotecario del Uruguay - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Banco Hipotecario del Uruguay Banco Hipotecario del Uruguay Beneficios exclusi\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -89803,6 +90087,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "650e116421bc042dd0150e26b450db0b62937d666c139d5d5b883f09e362d160",
         "evidence": "BROU: \"Cine Doré Minas - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Doré Minas Cine Doré Minas 2x1 en tus entradas con los Medios de Pago seleccionados d\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "cinedore-entretenimiento-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
+        "legalTextHash": "650e116421bc042dd0150e26b450db0b62937d666c139d5d5b883f09e362d160",
+        "evidence": "BROU: \"Cine Doré Minas - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Doré Minas Cine Doré Minas 2x1 en tus entradas con los Medios de Pago seleccionados d\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -90133,6 +90450,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "0273a021267282fb82eb4eb32ef0e1f44797e4e8ab84509ec076757d12c6831a",
         "evidence": "BROU: \"Cine Teatro Atenas de Young - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Atenas de Young Cine Teatro Atenas de Young 2x1 en tus entradas co\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "cine-teatro-atenas-de-young-brou-credito-recompensa-25",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 25,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "25% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
+        "legalTextHash": "0273a021267282fb82eb4eb32ef0e1f44797e4e8ab84509ec076757d12c6831a",
+        "evidence": "BROU: \"Cine Teatro Atenas de Young - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Atenas de Young Cine Teatro Atenas de Young 2x1 en tus entradas co\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -90213,6 +90563,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "c3b4020e9b325f4d4192ea29917d98c95749efee6a20669e7139652f4a6267d4",
         "evidence": "BROU: \"Micromentor - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Micromentor Micromentor Hacé crecer tu pequeño negocio con el asesoramiento de mentores expert\"",
         "verifiedAtISO": "2026-10-29T15:17:53.837Z"
+      },
+      {
+        "id": "micromentor-pymes-brou-credito-recompensa-50",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 50,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "50% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
+        "legalTextHash": "c3b4020e9b325f4d4192ea29917d98c95749efee6a20669e7139652f4a6267d4",
+        "evidence": "BROU: \"Micromentor - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Micromentor Micromentor Hacé crecer tu pequeño negocio con el asesoramiento de mentores expert\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -90407,6 +90790,72 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "ca53688e17a1a39205e17858a7c6f0b308f5fdc97c25f1aceef24b03c7a34922",
         "evidence": "BROU: \"Cine Colonia Shopping - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Colonia Shopping Cine Colonia Shopping 2x1 en tus entradas con los Medios de Pa\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "cinecolonia-entrenimiento-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
+        "legalTextHash": "ca53688e17a1a39205e17858a7c6f0b308f5fdc97c25f1aceef24b03c7a34922",
+        "evidence": "BROU: \"Cine Colonia Shopping - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Colonia Shopping Cine Colonia Shopping 2x1 en tus entradas con los Medios de Pa\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
+      },
+      {
+        "id": "cinecolonia-entrenimiento-brou-credito-recompensa-25",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 25,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "25% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
+        "legalTextHash": "ca53688e17a1a39205e17858a7c6f0b308f5fdc97c25f1aceef24b03c7a34922",
+        "evidence": "BROU: \"Cine Colonia Shopping - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Colonia Shopping Cine Colonia Shopping 2x1 en tus entradas con los Medios de Pa\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -90550,6 +90999,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "fd998d06f7a8194ea39bef02cbe3837224edb5f5d0c4d9afbc3018890c327e28",
         "evidence": "BROU: \"Teatro El Galpón - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Teatro El Galpón Teatro El Galpón 2x1 en entradas con medios de pago seleccionados 2 x 1 \"",
         "verifiedAtISO": "2026-10-29T15:17:53.837Z"
+      },
+      {
+        "id": "elgalpon-entretenimiento-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
+        "legalTextHash": "fd998d06f7a8194ea39bef02cbe3837224edb5f5d0c4d9afbc3018890c327e28",
+        "evidence": "BROU: \"Teatro El Galpón - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Teatro El Galpón Teatro El Galpón 2x1 en entradas con medios de pago seleccionados 2 x 1 \"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -91047,6 +91529,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "8bfde002b9e0b962bd35c93bd8f3c1a6d650669a67432227d4f40ca0769c87d9",
         "evidence": "BROU: \"Cine Teatro Municipal de Treinta y Tres - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Municipal de Treinta y Tres Cine Teatro Municipal de T\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "cineteatromunicipal-entretenimiento-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
+        "legalTextHash": "8bfde002b9e0b962bd35c93bd8f3c1a6d650669a67432227d4f40ca0769c87d9",
+        "evidence": "BROU: \"Cine Teatro Municipal de Treinta y Tres - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Municipal de Treinta y Tres Cine Teatro Municipal de T\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },
@@ -91507,6 +92022,39 @@ export const MERCHANTS_DATA: Merchant[] = [
         "legalTextHash": "96838212868a4357db81fe147014fb7e0a80ad40faac7f52640f0c343c537c54",
         "evidence": "BROU: \"Cine Mercedes Digital - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Mercedes Digital Cine Mercedes Digital 2x1 en tus entradas con todas las tarjet\"",
         "verifiedAtISO": "2026-10-29T15:26:18.596Z"
+      },
+      {
+        "id": "cinemercedes-espectaculos-brou-credito-recompensa-30",
+        "cardIds": [
+          "brou-credito-recompensa",
+          "brou-gold",
+          "brou-platinum",
+          "brou-black"
+        ],
+        "percentage": 30,
+        "days": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ],
+        "refundType": "Estado de cuenta",
+        "maxCapUYU": null,
+        "capNotPublished": true,
+        "conditions": "30% de descuento con tarjetas BROU seleccionadas.",
+        "requiresSpecificPaymentApp": null,
+        "validUntilISO": "2026-12-31",
+        "allowedDepartments": [
+          "Montevideo",
+          "Todo el país"
+        ],
+        "sourceCatalogUrl": "https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
+        "legalTextHash": "96838212868a4357db81fe147014fb7e0a80ad40faac7f52640f0c343c537c54",
+        "evidence": "BROU: \"Cine Mercedes Digital - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Mercedes Digital Cine Mercedes Digital 2x1 en tus entradas con todas las tarjet\"",
+        "verifiedAtISO": "2026-10-29T16:00:35.214Z"
       }
     ]
   },

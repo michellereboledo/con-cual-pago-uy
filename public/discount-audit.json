@@ -1,11 +1,11 @@
 {
-  "auditedAtISO": "2026-10-29T15:26:18.596Z",
-  "candidateRules": 2323,
-  "verifiedRules": 2323,
+  "auditedAtISO": "2026-10-29T16:00:35.214Z",
+  "candidateRules": 2340,
+  "verifiedRules": 2340,
   "droppedRules": 0,
   "merchants": 1100,
   "rulesByBank": {
-    "BROU": 235,
+    "BROU": 252,
     "OCA": 37,
     "BBVA": 616,
     "MIDINERO": 2,
@@ -98,6 +98,14 @@
       "merchant": "Supermercados El Dorado",
       "ruleId": "el-dorado-brou-recompensa-30",
       "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/hogar/SUPERMERCADOS-EL-DORADO",
+      "ok": true,
+      "evidence": "BROU: \"El Dorado - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Hogar El Dorado El Dorado 10 % DTO Aprovecha estos beneficios en El Dorado con las tarjetas seleccionadas de \""
+    },
+    {
+      "merchant": "Supermercados El Dorado",
+      "ruleId": "el-dorado-brou-recompensa-15",
+      "percentage": 15,
       "url": "https://beneficios.brou.com.uy/hogar/SUPERMERCADOS-EL-DORADO",
       "ok": true,
       "evidence": "BROU: \"El Dorado - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Hogar El Dorado El Dorado 10 % DTO Aprovecha estos beneficios en El Dorado con las tarjetas seleccionadas de \""
@@ -1271,6 +1279,14 @@
       "evidence": "BROU: \"TOTO - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios TOTO TOTO 25 % DTO 15 % DTO 25% y 15% de descuento los lunes, martes y miércoles en TOTO. Vigencia: 31/\""
     },
     {
+      "merchant": "TOTO Calzados",
+      "ruleId": "toto-brou-credito-recompensa-30",
+      "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/moda/toto",
+      "ok": true,
+      "evidence": "BROU: \"TOTO - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios TOTO TOTO 25 % DTO 15 % DTO 25% y 15% de descuento los lunes, martes y miércoles en TOTO. Vigencia: 31/\""
+    },
+    {
       "merchant": "Óptica Florida",
       "ruleId": "oflorida-oca-25",
       "percentage": 20,
@@ -1399,6 +1415,14 @@
       "evidence": "BROU: \"skechers - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios skechers skechers 25 % DTO 15 % DTO 25 y 15% de descuento los lunes, martes y miércoles en SKECHERS\""
     },
     {
+      "merchant": "Skechers Uruguay",
+      "ruleId": "skechers-brou-recompensa-20",
+      "percentage": 20,
+      "url": "https://beneficios.brou.com.uy/moda/skechers",
+      "ok": true,
+      "evidence": "BROU: \"skechers - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios skechers skechers 25 % DTO 15 % DTO 25 y 15% de descuento los lunes, martes y miércoles en SKECHERS\""
+    },
+    {
       "merchant": "Universo Binario",
       "ruleId": "ubinario-midinero-20",
       "percentage": 20,
@@ -1450,6 +1474,14 @@
       "merchant": "iPlace (Apple Premium Reseller)",
       "ruleId": "iplace-brou-recompensa-50",
       "percentage": 50,
+      "url": "https://beneficios.brou.com.uy/tecnologia/iplace",
+      "ok": true,
+      "evidence": "BROU: \"IPlace - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Tecnología IPlace IPlace 15 % DTO 15% de descuento en artículos seleccionados y hasta 24 cuotas sin recargo en t\""
+    },
+    {
+      "merchant": "iPlace (Apple Premium Reseller)",
+      "ruleId": "iplace-brou-credito-recompensa-25",
+      "percentage": 25,
       "url": "https://beneficios.brou.com.uy/tecnologia/iplace",
       "ok": true,
       "evidence": "BROU: \"IPlace - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Tecnología IPlace IPlace 15 % DTO 15% de descuento en artículos seleccionados y hasta 24 cuotas sin recargo en t\""
@@ -17263,6 +17295,14 @@
       "evidence": "BROU: \"Beneficios Para Vos con BROU A MANO Comercios - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Beneficios Para Vos con BROU A MANO Comercios Beneficios Para \""
     },
     {
+      "merchant": "Beneficios Para Vos Con Brou A Mano Comercios",
+      "ruleId": "beneficios-para-vos-con-brou-a-mano-comercios-brou-credito-recompensa-30",
+      "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
+      "ok": true,
+      "evidence": "BROU: \"Beneficios Para Vos con BROU A MANO Comercios - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Beneficios Para Vos con BROU A MANO Comercios Beneficios Para \""
+    },
+    {
       "merchant": "Confiteria Carrera 2026",
       "ruleId": "confiteria-carrera-2026-brou-recompensa-25",
       "percentage": 25,
@@ -17495,6 +17535,14 @@
       "evidence": "BROU: \"Paprika - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Moda Paprika Paprika 20 % DTO 10 % DTO Beneficios en Paprika con las tarjetas seleccionadas de Tu Banco Vigenci\""
     },
     {
+      "merchant": "Paprika",
+      "ruleId": "paprika-brou-credito-recompensa-50",
+      "percentage": 50,
+      "url": "https://beneficios.brou.com.uy/moda/paprika",
+      "ok": true,
+      "evidence": "BROU: \"Paprika - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Moda Paprika Paprika 20 % DTO 10 % DTO Beneficios en Paprika con las tarjetas seleccionadas de Tu Banco Vigenci\""
+    },
+    {
       "merchant": "Moda Joyeros GR",
       "ruleId": "moda-joyeros-gr-brou-recompensa-15",
       "percentage": 15,
@@ -17522,6 +17570,14 @@
       "merchant": "Moda Joyeros GR",
       "ruleId": "moda-joyeros-gr-brou-credito-recompensa-50",
       "percentage": 50,
+      "url": "https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
+      "ok": true,
+      "evidence": "BROU: \"GR Joyeros - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios GR Joyeros GR Joyeros 15 % DTO 15% de descuento con todas las tarjetas del Banco República. Obten\""
+    },
+    {
+      "merchant": "Moda Joyeros GR",
+      "ruleId": "moda-joyeros-gr-brou-credito-recompensa-30",
+      "percentage": 30,
       "url": "https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
       "ok": true,
       "evidence": "BROU: \"GR Joyeros - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios GR Joyeros GR Joyeros 15 % DTO 15% de descuento con todas las tarjetas del Banco República. Obten\""
@@ -17578,6 +17634,22 @@
       "merchant": "Banco Hipotecario Del Uruguay",
       "ruleId": "banco-hipotecario-del-uruguay-brou-recompensa-10",
       "percentage": 10,
+      "url": "https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
+      "ok": true,
+      "evidence": "BROU: \"Banco Hipotecario del Uruguay - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Banco Hipotecario del Uruguay Banco Hipotecario del Uruguay Beneficios exclusi\""
+    },
+    {
+      "merchant": "Banco Hipotecario Del Uruguay",
+      "ruleId": "banco-hipotecario-del-uruguay-brou-credito-recompensa-30",
+      "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
+      "ok": true,
+      "evidence": "BROU: \"Banco Hipotecario del Uruguay - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Banco Hipotecario del Uruguay Banco Hipotecario del Uruguay Beneficios exclusi\""
+    },
+    {
+      "merchant": "Banco Hipotecario Del Uruguay",
+      "ruleId": "banco-hipotecario-del-uruguay-brou-credito-recompensa-50",
+      "percentage": 50,
       "url": "https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
       "ok": true,
       "evidence": "BROU: \"Banco Hipotecario del Uruguay - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Beneficios Banco Hipotecario del Uruguay Banco Hipotecario del Uruguay Beneficios exclusi\""
@@ -18103,6 +18175,14 @@
       "evidence": "BROU: \"Cine Doré Minas - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Doré Minas Cine Doré Minas 2x1 en tus entradas con los Medios de Pago seleccionados d\""
     },
     {
+      "merchant": "CineDore Entretenimiento",
+      "ruleId": "cinedore-entretenimiento-brou-credito-recompensa-30",
+      "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
+      "ok": true,
+      "evidence": "BROU: \"Cine Doré Minas - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Doré Minas Cine Doré Minas 2x1 en tus entradas con los Medios de Pago seleccionados d\""
+    },
+    {
       "merchant": "Cine Uama Carmelo",
       "ruleId": "cine-uama-carmelo-brou-recompensa-30",
       "percentage": 30,
@@ -18175,6 +18255,14 @@
       "evidence": "BROU: \"Cine Teatro Atenas de Young - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Atenas de Young Cine Teatro Atenas de Young 2x1 en tus entradas co\""
     },
     {
+      "merchant": "Cine Teatro Atenas De Young",
+      "ruleId": "cine-teatro-atenas-de-young-brou-credito-recompensa-25",
+      "percentage": 25,
+      "url": "https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
+      "ok": true,
+      "evidence": "BROU: \"Cine Teatro Atenas de Young - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Atenas de Young Cine Teatro Atenas de Young 2x1 en tus entradas co\""
+    },
+    {
       "merchant": "Micromentor Pymes",
       "ruleId": "micromentor-pymes-brou-recompensa-20",
       "percentage": 20,
@@ -18186,6 +18274,14 @@
       "merchant": "Micromentor Pymes",
       "ruleId": "micromentor-pymes-brou-recompensa-30",
       "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
+      "ok": true,
+      "evidence": "BROU: \"Micromentor - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Micromentor Micromentor Hacé crecer tu pequeño negocio con el asesoramiento de mentores expert\""
+    },
+    {
+      "merchant": "Micromentor Pymes",
+      "ruleId": "micromentor-pymes-brou-credito-recompensa-50",
+      "percentage": 50,
       "url": "https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
       "ok": true,
       "evidence": "BROU: \"Micromentor - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Micromentor Micromentor Hacé crecer tu pequeño negocio con el asesoramiento de mentores expert\""
@@ -18231,6 +18327,22 @@
       "evidence": "BROU: \"Cine Colonia Shopping - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Colonia Shopping Cine Colonia Shopping 2x1 en tus entradas con los Medios de Pa\""
     },
     {
+      "merchant": "CineColonia Entrenimiento",
+      "ruleId": "cinecolonia-entrenimiento-brou-credito-recompensa-30",
+      "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
+      "ok": true,
+      "evidence": "BROU: \"Cine Colonia Shopping - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Colonia Shopping Cine Colonia Shopping 2x1 en tus entradas con los Medios de Pa\""
+    },
+    {
+      "merchant": "CineColonia Entrenimiento",
+      "ruleId": "cinecolonia-entrenimiento-brou-credito-recompensa-25",
+      "percentage": 25,
+      "url": "https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
+      "ok": true,
+      "evidence": "BROU: \"Cine Colonia Shopping - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Colonia Shopping Cine Colonia Shopping 2x1 en tus entradas con los Medios de Pa\""
+    },
+    {
       "merchant": "ElGalpon Entretenimiento",
       "ruleId": "elgalpon-entretenimiento-brou-recompensa-20",
       "percentage": 20,
@@ -18258,6 +18370,14 @@
       "merchant": "ElGalpon Entretenimiento",
       "ruleId": "elgalpon-entretenimiento-brou-recompensa-15",
       "percentage": 15,
+      "url": "https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
+      "ok": true,
+      "evidence": "BROU: \"Teatro El Galpón - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Teatro El Galpón Teatro El Galpón 2x1 en entradas con medios de pago seleccionados 2 x 1 \""
+    },
+    {
+      "merchant": "ElGalpon Entretenimiento",
+      "ruleId": "elgalpon-entretenimiento-brou-credito-recompensa-30",
+      "percentage": 30,
       "url": "https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
       "ok": true,
       "evidence": "BROU: \"Teatro El Galpón - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Teatro El Galpón Teatro El Galpón 2x1 en entradas con medios de pago seleccionados 2 x 1 \""
@@ -18383,6 +18503,14 @@
       "evidence": "BROU: \"Cine Teatro Municipal de Treinta y Tres - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Municipal de Treinta y Tres Cine Teatro Municipal de T\""
     },
     {
+      "merchant": "CineTeatroMunicipal Entretenimiento",
+      "ruleId": "cineteatromunicipal-entretenimiento-brou-credito-recompensa-30",
+      "percentage": 30,
+      "url": "https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
+      "ok": true,
+      "evidence": "BROU: \"Cine Teatro Municipal de Treinta y Tres - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Teatro Municipal de Treinta y Tres Cine Teatro Municipal de T\""
+    },
+    {
       "merchant": "Grupocine2x1 Espectaculos",
       "ruleId": "grupocine2x1-espectaculos-brou-recompensa-15",
       "percentage": 15,
@@ -18482,6 +18610,14 @@
       "merchant": "CineMercedes Espectaculos",
       "ruleId": "cinemercedes-espectaculos-brou-credito-recompensa-50",
       "percentage": 50,
+      "url": "https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
+      "ok": true,
+      "evidence": "BROU: \"Cine Mercedes Digital - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Mercedes Digital Cine Mercedes Digital 2x1 en tus entradas con todas las tarjet\""
+    },
+    {
+      "merchant": "CineMercedes Espectaculos",
+      "ruleId": "cinemercedes-espectaculos-brou-credito-recompensa-30",
+      "percentage": 30,
       "url": "https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
       "ok": true,
       "evidence": "BROU: \"Cine Mercedes Digital - Beneficios BROU SOLICITÁ TU TARJETA DE CRÉDITO Sorteos Contacto Solicitá tu tarjeta de crédito Sorteos Contacto Inicio Espectáculos Cine Mercedes Digital Cine Mercedes Digital 2x1 en tus entradas con todas las tarjet\""
