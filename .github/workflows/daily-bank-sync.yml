@@ -33,8 +33,8 @@ jobs:
       - name: 2. Setup Node.js 20
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: '22'
+          #cache: 'npm'
 
       - name: 3. Install Dependencies & Playwright Chromium
         run: |
