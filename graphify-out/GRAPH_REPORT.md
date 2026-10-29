@@ -3,18 +3,18 @@
 > Generated deterministically via AST & structural analysis (`scripts/graphify-ast.cjs`). Zero LLM tokens used.
 
 ## Corpus Summary
-- **Files Scanned:** `34`
-- **Total Words:** `299,950`
-- **Total Graph Nodes:** `515`
-- **Total Directed Edges:** `1047` (`EXTRACTED`: 880, `INFERRED`: 167)
-- **Cross-Community Bridges:** `853`
+- **Files Scanned:** `35`
+- **Total Words:** `227,348`
+- **Total Graph Nodes:** `454`
+- **Total Directed Edges:** `921` (`EXTRACTED`: 753, `INFERRED`: 168)
+- **Cross-Community Bridges:** `724`
 
 ## Top 10 God Nodes (Central Architectural Hubs)
 
 | Rank | Node Label | Kind | Source File | In-Degree | Out-Degree | Total Degree |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
-| 1 | `merchantsData.ts` | `module` | `src/data/merchantsData.ts` | 5 | 353 | **358** |
-| 2 | `live-bank-verifier-server.cjs` | `module` | `scripts/live-bank-verifier-server.cjs` | 0 | 350 | **350** |
+| 1 | `merchantsData.ts` | `module` | `src/data/merchantsData.ts` | 5 | 288 | **293** |
+| 2 | `live-bank-verifier-server.cjs` | `module` | `scripts/live-bank-verifier-server.cjs` | 0 | 285 | **285** |
 | 3 | `engine.ts` | `module` | `src/lib/engine.ts` | 6 | 47 | **53** |
 | 4 | `App.tsx` | `module` | `src/App.tsx` | 1 | 45 | **46** |
 | 5 | `CalculatorSheet.tsx` | `module` | `src/components/CalculatorSheet.tsx` | 1 | 27 | **28** |
@@ -33,9 +33,9 @@
 | `verified-data` | 4 | `src/data/cards.ts`, `src/data/merchantsData.ts`, `DATA_LAST_UPDATED`, `DATA_VERIFIED_AT` |
 | `hooks-motion` | 6 | `src/hooks/useGsapChoreography.ts`, `getGsap`, `useAnimatedUYU`, `useGsapCardFan` |
 | `fiscal-bank-engine` | 73 | `src/lib/bank-scraper-pipeline.ts`, `VerifiedCardTier`, `VerifiedDiscountRecord`, `LiveProbeResponse` |
-| `verification-pipeline` | 42 | `scripts/android-test-runner.cjs`, `sleep`, `scripts/audit-discounts.cjs`, `fold` |
+| `verification-pipeline` | 46 | `scripts/android-test-runner.cjs`, `sleep`, `scripts/audit-data-accuracy.cjs`, `loadMerchantsData` |
 | `android-native` | 3 | `android-app/app/src/main/java/com/example/concualpagouy/MainActivity.java`, `MainActivity`, `AndroidBankVerifier` |
-| `bank-catalogs` | 348 | `//www.itau.com.uy/inst/beneficios.html`, `//www.santander.com.uy/beneficios`, `//beneficios.brou.com.uy/`, `//www.scotiabank.com.uy/Personas/Tarjetas/Programas-de-premios/home-tarjetas` |
+| `bank-catalogs` | 283 | `//www.itau.com.uy/inst/beneficios.html`, `//www.santander.com.uy/beneficios`, `//beneficios.brou.com.uy/`, `//www.scotiabank.com.uy/Personas/Tarjetas/Programas-de-premios/home-tarjetas` |
 
 ## Architectural Call & Verification Flow
 

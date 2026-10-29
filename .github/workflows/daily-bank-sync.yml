@@ -54,8 +54,9 @@ jobs:
         run: |
           node --experimental-websocket scripts/deep-scraper/deep-crawler-engine.cjs --sync-app || node scripts/deep-scraper/deep-crawler-engine.cjs --sync-app
 
-      - name: 5. Verify Zero-Fake Gate & Engineering Constraints
+      - name: 5. Verify Strict Data Accuracy & Zero-Duplication Gate
         run: |
+          node scripts/audit-data-accuracy.cjs
           if [ -f "scripts/ponytail-audit.cjs" ]; then
             node scripts/ponytail-audit.cjs || true
           fi

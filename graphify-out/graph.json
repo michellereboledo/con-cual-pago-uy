@@ -3,9 +3,9 @@
   "multigraph": false,
   "graph": {
     "name": "con-cual-pago-uy-knowledge-graph",
-    "generatedAt": "2026-10-29T15:22:30.185Z",
-    "total_files": 34,
-    "total_words": 299950,
+    "generatedAt": "2026-10-29T16:32:55.502Z",
+    "total_files": 35,
+    "total_words": 227348,
     "god_nodes": [
       {
         "id": "file:src/data/merchantsData.ts",
@@ -13,8 +13,8 @@
         "kind": "module",
         "source_file": "src/data/merchantsData.ts",
         "in_degree": 5,
-        "out_degree": 353,
-        "total_degree": 358
+        "out_degree": 288,
+        "total_degree": 293
       },
       {
         "id": "file:scripts/live-bank-verifier-server.cjs",
@@ -22,8 +22,8 @@
         "kind": "module",
         "source_file": "scripts/live-bank-verifier-server.cjs",
         "in_degree": 0,
-        "out_degree": 350,
-        "total_degree": 350
+        "out_degree": 285,
+        "total_degree": 285
       },
       {
         "id": "file:src/lib/engine.ts",
@@ -104,9 +104,9 @@
       "verified-data": 4,
       "hooks-motion": 6,
       "fiscal-bank-engine": 73,
-      "verification-pipeline": 42,
+      "verification-pipeline": 46,
       "android-native": 3,
-      "bank-catalogs": 348
+      "bank-catalogs": 283
     }
   },
   "nodes": [
@@ -1103,6 +1103,30 @@
       "community": "verification-pipeline"
     },
     {
+      "id": "file:scripts/audit-data-accuracy.cjs",
+      "label": "audit-data-accuracy.cjs",
+      "source_file": "scripts/audit-data-accuracy.cjs",
+      "source_location": "L1",
+      "kind": "module",
+      "community": "verification-pipeline"
+    },
+    {
+      "id": "sym:scripts/audit-data-accuracy.cjs#loadMerchantsData",
+      "label": "loadMerchantsData",
+      "source_file": "scripts/audit-data-accuracy.cjs",
+      "source_location": "L22",
+      "kind": "function",
+      "community": "verification-pipeline"
+    },
+    {
+      "id": "sym:scripts/audit-data-accuracy.cjs#runStrictDataAudit",
+      "label": "runStrictDataAudit",
+      "source_file": "scripts/audit-data-accuracy.cjs",
+      "source_location": "L31",
+      "kind": "function",
+      "community": "verification-pipeline"
+    },
+    {
       "id": "file:scripts/audit-discounts.cjs",
       "label": "audit-discounts.cjs",
       "source_file": "scripts/audit-discounts.cjs",
@@ -1226,7 +1250,7 @@
       "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#loadDotEnv",
       "label": "loadDotEnv",
       "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
-      "source_location": "L39",
+      "source_location": "L38",
       "kind": "function",
       "community": "verification-pipeline"
     },
@@ -1234,7 +1258,7 @@
       "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#parseSpanishDateISO",
       "label": "parseSpanishDateISO",
       "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
-      "source_location": "L124",
+      "source_location": "L129",
       "kind": "function",
       "community": "verification-pipeline"
     },
@@ -1242,7 +1266,7 @@
       "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#parseDaysOfWeek",
       "label": "parseDaysOfWeek",
       "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
-      "source_location": "L139",
+      "source_location": "L144",
       "kind": "function",
       "community": "verification-pipeline"
     },
@@ -1250,7 +1274,7 @@
       "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#inferCategoryFromText",
       "label": "inferCategoryFromText",
       "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
-      "source_location": "L160",
+      "source_location": "L166",
       "kind": "function",
       "community": "verification-pipeline"
     },
@@ -1258,7 +1282,7 @@
       "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#loadLlmCache",
       "label": "loadLlmCache",
       "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
-      "source_location": "L195",
+      "source_location": "L270",
       "kind": "function",
       "community": "verification-pipeline"
     },
@@ -1266,7 +1290,15 @@
       "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#saveLlmCache",
       "label": "saveLlmCache",
       "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
-      "source_location": "L208",
+      "source_location": "L283",
+      "kind": "function",
+      "community": "verification-pipeline"
+    },
+    {
+      "id": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#deduplicateAndPurifyMerchants",
+      "label": "deduplicateAndPurifyMerchants",
+      "source_file": "scripts/deep-scraper/deep-crawler-engine.cjs",
+      "source_location": "L1120",
       "kind": "function",
       "community": "verification-pipeline"
     },
@@ -2191,14 +2223,6 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-thermal.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-parque-posadas.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -2391,22 +2415,6 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-oasis-termal.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/costa-colonia-boutique-hotel.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/santillana.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -2543,6 +2551,30 @@
       "community": "bank-catalogs"
     },
     {
+      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
+      "label": "bbva.com.uy (HTTP 200)",
+      "source_file": "public/live-bank-hashes.json",
+      "source_location": "L1",
+      "kind": "official_bank_catalog",
+      "community": "bank-catalogs"
+    },
+    {
+      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
+      "label": "bbva.com.uy (HTTP 200)",
+      "source_file": "public/live-bank-hashes.json",
+      "source_location": "L1",
+      "kind": "official_bank_catalog",
+      "community": "bank-catalogs"
+    },
+    {
+      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
+      "label": "bbva.com.uy (HTTP 200)",
+      "source_file": "public/live-bank-hashes.json",
+      "source_location": "L1",
+      "kind": "official_bank_catalog",
+      "community": "bank-catalogs"
+    },
+    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -2559,7 +2591,23 @@
       "community": "bank-catalogs"
     },
     {
+      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
+      "label": "bbva.com.uy (HTTP 200)",
+      "source_file": "public/live-bank-hashes.json",
+      "source_location": "L1",
+      "kind": "official_bank_catalog",
+      "community": "bank-catalogs"
+    },
+    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
+      "label": "bbva.com.uy (HTTP 200)",
+      "source_file": "public/live-bank-hashes.json",
+      "source_location": "L1",
+      "kind": "official_bank_catalog",
+      "community": "bank-catalogs"
+    },
+    {
+      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
       "source_location": "L1",
@@ -2599,6 +2647,14 @@
       "community": "bank-catalogs"
     },
     {
+      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
+      "label": "bbva.com.uy (HTTP 200)",
+      "source_file": "public/live-bank-hashes.json",
+      "source_location": "L1",
+      "kind": "official_bank_catalog",
+      "community": "bank-catalogs"
+    },
+    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -2616,62 +2672,6 @@
     },
     {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/aquarella-hotel.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
       "source_location": "L1",
@@ -2815,14 +2815,6 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/2122-art-design.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/belen-sagasti-peluqueria.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -2895,14 +2887,6 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Descuento_de_bienvenida.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/miercoles-25.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -2952,14 +2936,6 @@
     },
     {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/buybox.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/alamo-rent-a-car.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
       "source_location": "L1",
@@ -3471,23 +3447,7 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/consolid.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
       "source_location": "L1",
@@ -3504,14 +3464,6 @@
     },
     {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/grido.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/stop-n-dance.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
       "source_location": "L1",
@@ -3663,22 +3615,6 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Abtour_Turismo_Internacional.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour-turismo-nacional.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -3759,22 +3695,6 @@
       "community": "bank-catalogs"
     },
     {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-cuota-y-butaca.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-cuota.html",
-      "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/city-fitness.html",
       "label": "bbva.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
@@ -3817,414 +3737,6 @@
     {
       "id": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/alianza-cultural-Uruguay-EstadosUnidos.html",
       "label": "bbva.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-arcadia",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/gastronomia/confitera-liondor",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-la-navicella--hotel-del-lago",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/gastronomia/beneficios-para-vos-con-brou-a-mano-comercios",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/gastronomia/confiteria_carrera_2026",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/gastronomia/Recompensa-Supermercados",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/cuatroases",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/Beneficios-LaDolfina",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/toto",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/skechers",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/pappolino",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/guapa",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/paprika",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/moda/lorenza-indumentaria-femenina",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/novatex",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-en-cifer",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/BarracaMalvin_Hogar",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-aguerrebere",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-para-vos-con-brou-a-mano-comercios",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/espacio-mascota",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/micro-macro",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/macro-mercado",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/Recompensa-Supermercados",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/tienda-inglesa",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/red-expres",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/hogar/carlos-gutierrez",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/tecnologia/iplace",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/tecnologia/Superventas_Tecnologia",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/BeneficioAUF",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/country-atlantida",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/beneficios-fubb2026",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/liga-soriano",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/MIBROUANTEL",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/Cine_sarandi_Salto",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-uama-carmelo",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/CineChaplin_Entretenimiento",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/preventa-exclusiva--final-conmebol-libertadores-2026",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/multipagos_ebrou",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/ensenanza/fundacion-de-cultura-universitaria",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/ensenanza/Executive",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
-      "source_file": "public/live-bank-hashes.json",
-      "source_location": "L1",
-      "kind": "official_bank_catalog",
-      "community": "bank-catalogs"
-    },
-    {
-      "id": "catalog:https://beneficios.brou.com.uy/ensenanza/ViniciusDeMoraes",
-      "label": "beneficios.brou.com.uy (HTTP 200)",
       "source_file": "public/live-bank-hashes.json",
       "source_location": "L1",
       "kind": "official_bank_catalog",
@@ -5449,6 +4961,22 @@
       "confidence": "EXTRACTED"
     },
     {
+      "source": "file:scripts/audit-data-accuracy.cjs",
+      "target": "sym:scripts/audit-data-accuracy.cjs#loadMerchantsData",
+      "_src": "file:scripts/audit-data-accuracy.cjs",
+      "_tgt": "sym:scripts/audit-data-accuracy.cjs#loadMerchantsData",
+      "relation": "defines",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/audit-data-accuracy.cjs",
+      "target": "sym:scripts/audit-data-accuracy.cjs#runStrictDataAudit",
+      "_src": "file:scripts/audit-data-accuracy.cjs",
+      "_tgt": "sym:scripts/audit-data-accuracy.cjs#runStrictDataAudit",
+      "relation": "defines",
+      "confidence": "EXTRACTED"
+    },
+    {
       "source": "file:scripts/audit-discounts.cjs",
       "target": "sym:scripts/audit-discounts.cjs#fold",
       "_src": "file:scripts/audit-discounts.cjs",
@@ -5573,6 +5101,14 @@
       "target": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#saveLlmCache",
       "_src": "file:scripts/deep-scraper/deep-crawler-engine.cjs",
       "_tgt": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#saveLlmCache",
+      "relation": "defines",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/deep-scraper/deep-crawler-engine.cjs",
+      "target": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#deduplicateAndPurifyMerchants",
+      "_src": "file:scripts/deep-scraper/deep-crawler-engine.cjs",
+      "_tgt": "sym:scripts/deep-scraper/deep-crawler-engine.cjs#deduplicateAndPurifyMerchants",
       "relation": "defines",
       "confidence": "EXTRACTED"
     },
@@ -6644,6 +6180,14 @@
       "source": "file:scripts/android-test-runner.cjs",
       "target": "sym:src/types/discount.ts#Merchant",
       "_src": "file:scripts/android-test-runner.cjs",
+      "_tgt": "sym:src/types/discount.ts#Merchant",
+      "relation": "calls",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "file:scripts/audit-data-accuracy.cjs",
+      "target": "sym:src/types/discount.ts#Merchant",
+      "_src": "file:scripts/audit-data-accuracy.cjs",
       "_tgt": "sym:src/types/discount.ts#Merchant",
       "relation": "calls",
       "confidence": "INFERRED"
@@ -8530,22 +8074,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-thermal.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-thermal.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-thermal.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-thermal.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-parque-posadas.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-parque-posadas.html",
@@ -8930,38 +8458,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-oasis-termal.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-oasis-termal.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-oasis-termal.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-oasis-termal.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/costa-colonia-boutique-hotel.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/costa-colonia-boutique-hotel.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/costa-colonia-boutique-hotel.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/costa-colonia-boutique-hotel.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/santillana.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/santillana.html",
@@ -9234,6 +8730,54 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
+      "_src": "file:src/data/merchantsData.ts",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
+      "relation": "verifies_catalog",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/live-bank-verifier-server.cjs",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
+      "_src": "file:scripts/live-bank-verifier-server.cjs",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
+      "relation": "probes_live",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:src/data/merchantsData.ts",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
+      "_src": "file:src/data/merchantsData.ts",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
+      "relation": "verifies_catalog",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/live-bank-verifier-server.cjs",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
+      "_src": "file:scripts/live-bank-verifier-server.cjs",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
+      "relation": "probes_live",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:src/data/merchantsData.ts",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
+      "_src": "file:src/data/merchantsData.ts",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
+      "relation": "verifies_catalog",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/live-bank-verifier-server.cjs",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
+      "_src": "file:scripts/live-bank-verifier-server.cjs",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
+      "relation": "probes_live",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html",
@@ -9266,6 +8810,22 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
+      "_src": "file:src/data/merchantsData.ts",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
+      "relation": "verifies_catalog",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/live-bank-verifier-server.cjs",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
+      "_src": "file:scripts/live-bank-verifier-server.cjs",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
+      "relation": "probes_live",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
@@ -9277,6 +8837,22 @@
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
       "_src": "file:scripts/live-bank-verifier-server.cjs",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
+      "relation": "probes_live",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:src/data/merchantsData.ts",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
+      "_src": "file:src/data/merchantsData.ts",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
+      "relation": "verifies_catalog",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/live-bank-verifier-server.cjs",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
+      "_src": "file:scripts/live-bank-verifier-server.cjs",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
       "relation": "probes_live",
       "confidence": "EXTRACTED"
     },
@@ -9346,6 +8922,22 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
+      "_src": "file:src/data/merchantsData.ts",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
+      "relation": "verifies_catalog",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:scripts/live-bank-verifier-server.cjs",
+      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
+      "_src": "file:scripts/live-bank-verifier-server.cjs",
+      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
+      "relation": "probes_live",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html",
@@ -9389,118 +8981,6 @@
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html",
       "_src": "file:scripts/live-bank-verifier-server.cjs",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/aquarella-hotel.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/aquarella-hotel.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/aquarella-hotel.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/aquarella-hotel.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
       "relation": "probes_live",
       "confidence": "EXTRACTED"
     },
@@ -9778,22 +9258,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/2122-art-design.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/2122-art-design.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/2122-art-design.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/2122-art-design.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/belen-sagasti-peluqueria.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/belen-sagasti-peluqueria.html",
@@ -9938,22 +9402,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Descuento_de_bienvenida.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Descuento_de_bienvenida.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Descuento_de_bienvenida.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Descuento_de_bienvenida.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/miercoles-25.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/miercoles-25.html",
@@ -10061,22 +9509,6 @@
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/buybox.html",
       "_src": "file:scripts/live-bank-verifier-server.cjs",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/buybox.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/alamo-rent-a-car.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/alamo-rent-a-car.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/alamo-rent-a-car.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/alamo-rent-a-car.html",
       "relation": "probes_live",
       "confidence": "EXTRACTED"
     },
@@ -11090,22 +10522,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html",
@@ -11117,22 +10533,6 @@
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html",
       "_src": "file:scripts/live-bank-verifier-server.cjs",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/consolid.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/consolid.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/consolid.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/consolid.html",
       "relation": "probes_live",
       "confidence": "EXTRACTED"
     },
@@ -11165,22 +10565,6 @@
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/grido.html",
       "_src": "file:scripts/live-bank-verifier-server.cjs",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/grido.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/stop-n-dance.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/stop-n-dance.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/stop-n-dance.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/stop-n-dance.html",
       "relation": "probes_live",
       "confidence": "EXTRACTED"
     },
@@ -11474,38 +10858,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Abtour_Turismo_Internacional.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Abtour_Turismo_Internacional.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Abtour_Turismo_Internacional.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Abtour_Turismo_Internacional.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour-turismo-nacional.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour-turismo-nacional.html",
@@ -11666,38 +11018,6 @@
     },
     {
       "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-cuota-y-butaca.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-cuota-y-butaca.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-cuota-y-butaca.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-cuota-y-butaca.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-cuota.html",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-cuota.html",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-cuota.html",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-cuota.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/city-fitness.html",
       "_src": "file:src/data/merchantsData.ts",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/city-fitness.html",
@@ -11789,822 +11109,6 @@
       "target": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/alianza-cultural-Uruguay-EstadosUnidos.html",
       "_src": "file:scripts/live-bank-verifier-server.cjs",
       "_tgt": "catalog:https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/alianza-cultural-Uruguay-EstadosUnidos.html",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-arcadia",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-arcadia",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-arcadia",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-arcadia",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/confitera-liondor",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/confitera-liondor",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/confitera-liondor",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/confitera-liondor",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-la-navicella--hotel-del-lago",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-la-navicella--hotel-del-lago",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-la-navicella--hotel-del-lago",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/restaurante-la-navicella--hotel-del-lago",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/beneficios-para-vos-con-brou-a-mano-comercios",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/beneficios-para-vos-con-brou-a-mano-comercios",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/beneficios-para-vos-con-brou-a-mano-comercios",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/beneficios-para-vos-con-brou-a-mano-comercios",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/confiteria_carrera_2026",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/confiteria_carrera_2026",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/confiteria_carrera_2026",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/confiteria_carrera_2026",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/Recompensa-Supermercados",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/Recompensa-Supermercados",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/gastronomia/Recompensa-Supermercados",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/gastronomia/Recompensa-Supermercados",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/cuatroases",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/cuatroases",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/cuatroases",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/cuatroases",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/Beneficios-LaDolfina",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/Beneficios-LaDolfina",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/Beneficios-LaDolfina",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/Beneficios-LaDolfina",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/toto",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/toto",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/toto",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/toto",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/skechers",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/skechers",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/skechers",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/skechers",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/pappolino",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/pappolino",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/pappolino",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/pappolino",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/guapa",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/guapa",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/guapa",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/guapa",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/paprika",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/paprika",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/paprika",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/paprika",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/lorenza-indumentaria-femenina",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/lorenza-indumentaria-femenina",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/moda/lorenza-indumentaria-femenina",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/moda/lorenza-indumentaria-femenina",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/novatex",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/novatex",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/novatex",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/novatex",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-en-cifer",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-en-cifer",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-en-cifer",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-en-cifer",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/BarracaMalvin_Hogar",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/BarracaMalvin_Hogar",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/BarracaMalvin_Hogar",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/BarracaMalvin_Hogar",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-aguerrebere",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-aguerrebere",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-aguerrebere",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-aguerrebere",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-para-vos-con-brou-a-mano-comercios",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-para-vos-con-brou-a-mano-comercios",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-para-vos-con-brou-a-mano-comercios",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/beneficios-para-vos-con-brou-a-mano-comercios",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/espacio-mascota",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/espacio-mascota",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/espacio-mascota",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/espacio-mascota",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/micro-macro",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/micro-macro",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/micro-macro",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/micro-macro",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/macro-mercado",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/macro-mercado",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/macro-mercado",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/macro-mercado",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/Recompensa-Supermercados",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/Recompensa-Supermercados",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/Recompensa-Supermercados",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/Recompensa-Supermercados",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/tienda-inglesa",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/tienda-inglesa",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/tienda-inglesa",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/tienda-inglesa",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/red-expres",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/red-expres",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/red-expres",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/red-expres",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/carlos-gutierrez",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/carlos-gutierrez",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/hogar/carlos-gutierrez",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/hogar/carlos-gutierrez",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/tecnologia/iplace",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/tecnologia/iplace",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/tecnologia/iplace",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/tecnologia/iplace",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/tecnologia/Superventas_Tecnologia",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/tecnologia/Superventas_Tecnologia",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/tecnologia/Superventas_Tecnologia",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/tecnologia/Superventas_Tecnologia",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/BeneficioAUF",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/BeneficioAUF",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/BeneficioAUF",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/BeneficioAUF",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/country-atlantida",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/country-atlantida",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/country-atlantida",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/country-atlantida",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/beneficios-fubb2026",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/beneficios-fubb2026",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/beneficios-fubb2026",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/beneficios-fubb2026",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/liga-soriano",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/liga-soriano",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/liga-soriano",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/liga-soriano",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/MIBROUANTEL",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/MIBROUANTEL",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/MIBROUANTEL",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/MIBROUANTEL",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/Cine_sarandi_Salto",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/Cine_sarandi_Salto",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/Cine_sarandi_Salto",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/Cine_sarandi_Salto",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-uama-carmelo",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-uama-carmelo",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-uama-carmelo",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-uama-carmelo",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/micromentor_pymes",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineChaplin_Entretenimiento",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineChaplin_Entretenimiento",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineChaplin_Entretenimiento",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineChaplin_Entretenimiento",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/preventa-exclusiva--final-conmebol-libertadores-2026",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/preventa-exclusiva--final-conmebol-libertadores-2026",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/preventa-exclusiva--final-conmebol-libertadores-2026",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/preventa-exclusiva--final-conmebol-libertadores-2026",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/multipagos_ebrou",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/multipagos_ebrou",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/multipagos_ebrou",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/multipagos_ebrou",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/ensenanza/fundacion-de-cultura-universitaria",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/ensenanza/fundacion-de-cultura-universitaria",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/ensenanza/fundacion-de-cultura-universitaria",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/ensenanza/fundacion-de-cultura-universitaria",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/ensenanza/Executive",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/ensenanza/Executive",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/ensenanza/Executive",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/ensenanza/Executive",
-      "relation": "probes_live",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:src/data/merchantsData.ts",
-      "target": "catalog:https://beneficios.brou.com.uy/ensenanza/ViniciusDeMoraes",
-      "_src": "file:src/data/merchantsData.ts",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/ensenanza/ViniciusDeMoraes",
-      "relation": "verifies_catalog",
-      "confidence": "EXTRACTED"
-    },
-    {
-      "source": "file:scripts/live-bank-verifier-server.cjs",
-      "target": "catalog:https://beneficios.brou.com.uy/ensenanza/ViniciusDeMoraes",
-      "_src": "file:scripts/live-bank-verifier-server.cjs",
-      "_tgt": "catalog:https://beneficios.brou.com.uy/ensenanza/ViniciusDeMoraes",
       "relation": "probes_live",
       "confidence": "EXTRACTED"
     }

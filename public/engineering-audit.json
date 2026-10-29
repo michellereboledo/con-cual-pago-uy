@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:39:58.794Z",
+  "generatedAt": "2026-10-29T16:32:57.452Z",
   "totalChecks": 28,
   "passedChecks": 28,
   "failedChecks": 0,
@@ -14,13 +14,13 @@
     "dietrichgebert/ponytail"
   ],
   "graphMetrics": {
-    "totalFiles": 34,
-    "totalNodes": 515,
-    "totalEdges": 1047,
-    "extractedEdges": 880
+    "totalFiles": 35,
+    "totalNodes": 454,
+    "totalEdges": 921,
+    "extractedEdges": 753
   },
   "discountAuditSummary": {
-    "verifiedRules": 2323
+    "verifiedRules": 1775
   },
   "shortcuts": [],
   "checks": [
@@ -112,13 +112,13 @@
       "category": "greensock/gsap",
       "name": "GSAP 3.12.5 Bundled in Single-File Production Output",
       "passed": true,
-      "detail": "index.html size 8080.5 KB"
+      "detail": "index.html size 7102.4 KB"
     },
     {
       "category": "Graphify-Labs/graphify",
       "name": "Deterministic AST Knowledge Graph (graphify-out/graph.json + GRAPH_REPORT.md)",
       "passed": true,
-      "detail": "515 nodes · 1047 edges (880 EXTRACTED across 34 files)"
+      "detail": "454 nodes · 921 edges (753 EXTRACTED across 35 files)"
     },
     {
       "category": "multica-ai/andrej-karpathy-skills",
@@ -166,7 +166,7 @@
       "category": "Zero-Fake Engine",
       "name": "100% Verified Bank Discounts (public/discount-audit.json)",
       "passed": true,
-      "detail": "2323/2323 rules verified across 1100 merchants"
+      "detail": "1775/1775 rules verified across 1033 merchants"
     },
     {
       "category": "Legal & Privacy (UY)",

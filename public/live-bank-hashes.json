@@ -5,7 +5,7 @@
     "sha256": "000944f270bc02aff13c0ceb3b25e68706359ebcb559e147f26b8c51293b7c31",
     "bytes": 136758,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios": {
     "status": 200,
@@ -13,7 +13,7 @@
     "sha256": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
     "bytes": 1857370,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/": {
     "status": 200,
@@ -21,15 +21,15 @@
     "sha256": "ac3551754e949d51536e570c343d773c66866bbaa50af80dae9635f7b9c575dd",
     "bytes": 75789,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.scotiabank.com.uy/Personas/Tarjetas/Programas-de-premios/home-tarjetas": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "a5758646da2efef1a1a004cf17055c2d315f071c80ab2b45735bcba91435d8f8",
-    "bytes": 110112,
+    "bytes": 110115,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas.html": {
     "status": 200,
@@ -37,7 +37,7 @@
     "sha256": "d33456925bb79fe1425633bfd1cfd33a25759a29c9e30ae944549366f265666a",
     "bytes": 208612,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://oca.uy/beneficios/": {
     "status": 200,
@@ -45,31 +45,31 @@
     "sha256": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
     "bytes": 51277,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.creditel.com.uy/": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "a1a68b09f223c4b0a08e8ef9da635141b096b2b9392ffcebcacfd1ff60637df4",
-    "bytes": 130321,
+    "bytes": 130320,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/tienda-inglesa": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "02dd1e6c6b72831d68d54489cf376f0df639f73974ac1cc4f7b047c05eb13491",
-    "bytes": 71025,
+    "sha256": "6a1b8b98d739df6aacbba28367c35b58419891ee26716820ef4abb450c2cebb9",
+    "bytes": 70708,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/tata-2026": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7d21119edc1f35bd626758fc5f05b54e75de33790781e3f2e01d2658a789026c",
+    "sha256": "43fd43ab75f46e3b66c706b6fad90155876795bc6ab408281a94e5c7d1adf2ca",
     "bytes": 64822,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/miercoles-10.html": {
     "status": 200,
@@ -77,7 +77,7 @@
     "sha256": "5430c749b572701bbf7a1c00ff67df5edc29c3cb5dd3341a710e8f928ffca541",
     "bytes": 166072,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.midinero.com.uy/beneficios/": {
     "status": 200,
@@ -85,23 +85,23 @@
     "sha256": "e57e7d7803c107af6b71d713a97218588b82a95569a4a68ba85b52e693a19771",
     "bytes": 162075,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/hogar/SUPERMERCADOS-EL-DORADO": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b00e56bec9a692642094d0c44fd302925237ebfa6b71a3b727b77c7cd8a437ad",
-    "bytes": 71432,
+    "sha256": "bdcbd848ba68ab878d5ae9342d295df9a59352b564b26b9dcc3f1b3a401ae4cb",
+    "bytes": 71369,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/macro-mercado": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6c7ac014847f17c05e234296d7fca30ce50e4a3aaba77f309c2c6df0dd3ac6fe",
-    "bytes": 70687,
+    "sha256": "f02e4ef4fec3efec5dc0104e725eec7b2ae9abaff7fa8267c78972d90a7f459c",
+    "bytes": 71032,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.itau.com.uy/inst/aci/inst_camp.xml": {
     "status": 200,
@@ -109,39 +109,39 @@
     "sha256": "6e3846a7ea44aa8cf64ec7bea6cc143cc42af7a76b4dc36dbaf8107d2024abad",
     "bytes": 183955,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
-    "bytes": 531460,
+    "bytes": 531463,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/red-expres": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "98d4beb4972fe4db922b55cc45c39e9a49f29a8f8187b9b77287323593f9bd32",
-    "bytes": 70699,
+    "sha256": "5a40c8a3d1e354983770ae9320adf996a7f1eda4516656a7a4656bcb162f7e25",
+    "bytes": 70802,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/farmashop": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "d2c7f649edb974c224589f0d32755826823562348b1946f09ebac193dd7f0d13",
-    "bytes": 238718,
+    "bytes": 238719,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/salud-estetica/Farmacias": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "46f3055b2b91a9e49d8844150ae8f3bfdca1a538e1c693e3f5d78dd51861041b",
-    "bytes": 70801,
+    "sha256": "2498c43f9b2071f102aea26e6141a97d16d9ca0a45e7f6f34bd11257105241da",
+    "bytes": 70628,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farma-glam.html": {
     "status": 200,
@@ -149,7 +149,7 @@
     "sha256": "75aa3c587d6e0e2b2d1fdabb2c590654fb8c3b14c380c61c7e6e37dd30b5cbae",
     "bytes": 179683,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacity.html": {
     "status": 200,
@@ -157,15 +157,15 @@
     "sha256": "b25078280211629145d735ea652bea3606ee85ec8aa10976f2effc49d9cc07d1",
     "bytes": 173688,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/transporte/Recompensa-Combustible": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6f530e60a5ffa2bf90a05fa8dbc37b2c086c2cfc0e0d2f2447e828a175e794a2",
-    "bytes": 70557,
+    "sha256": "6496ab0192f91dcf15f3890b0f0eef0fecb000331ccf34ac85bdacb3ace89038",
+    "bytes": 70492,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.itau.com.uy/inst/restaurantespersonalbank.html": {
     "status": 200,
@@ -173,7 +173,7 @@
     "sha256": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
     "bytes": 207773,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.itau.com.uy/inst/restaurantesplatinum.html": {
     "status": 200,
@@ -181,7 +181,7 @@
     "sha256": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
     "bytes": 192662,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.itau.com.uy/inst/restaurantes.html": {
     "status": 200,
@@ -189,7 +189,7 @@
     "sha256": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
     "bytes": 193377,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/restaurante-garcia": {
     "status": 200,
@@ -197,7 +197,7 @@
     "sha256": "929254e1532d3e3143959652e58f11403600d94c2ac307f8c93fe2fee07f3b2c",
     "bytes": 252683,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/la-pasiva-arocena": {
     "status": 200,
@@ -205,15 +205,15 @@
     "sha256": "408667ab99a362539990c027faff87001549fa37723720c1d39027bdcd6e239f",
     "bytes": 250286,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/facal": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "249d4542a03a2d01547a0be9ceb740627d1a166661414c5983dda578a4454bf7",
-    "bytes": 249996,
+    "bytes": 249993,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/dakota-steakhouse-bar": {
     "status": 200,
@@ -221,7 +221,7 @@
     "sha256": "7fd04c1d7840cc0e4214df9e98928c79dd6ecf0c4c111fa410ccb5cdb3e7b0ec",
     "bytes": 250899,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/montevideo-beer-company": {
     "status": 200,
@@ -229,7 +229,7 @@
     "sha256": "9cee2d06a0df1bb55acc9619c9228b64f57891b0a6d83ed61cdd35c8a0caa6ba",
     "bytes": 255251,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/bruta": {
     "status": 200,
@@ -237,31 +237,31 @@
     "sha256": "f2c6c13d63efe98bccf8662b208274315580566f4054caf49df597364e0dc155",
     "bytes": 249935,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/umami": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "ff8cf2505b3db91dcaf4d70260b9470fe704f47f29c81efa7145c6c31d7c3eed",
-    "bytes": 252126,
+    "bytes": 252124,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/restaurante-arcadia": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "59c82d83e6c869489fb8130a3f71e5317c3e13b5a7b10a11adc0ce0a31e830c4",
+    "sha256": "53d500c3574f7f5c127e5c70886d241165e7612b80ed66fa816b2387ed8ee609",
     "bytes": 67304,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/restaurante-la-navicella--hotel-del-lago": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "a022f0ff5d62542b53511e91ab3c2a83dc1562d8f3e7291adc5877e63b40ce29",
+    "sha256": "605d90ef5572e382f4d4d8a894a6b590ef8028edd311a67acc3189dea80cfe87",
     "bytes": 67504,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/heladeria-lekker": {
     "status": 200,
@@ -269,7 +269,7 @@
     "sha256": "ad0cafe5128f06bca1d09d70c95273bccc68b7ad433561fb6e54b2d1b5b8f5bc",
     "bytes": 250089,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/porto-vanila": {
     "status": 200,
@@ -277,39 +277,39 @@
     "sha256": "f3ffb55bfad2176f0a057edb990c840f42fc138d005ca38843702d06e85cde6a",
     "bytes": 240605,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/la-cigale": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "f41d6bebe77e1484d0ab78adeeac67061aff40ff1f0515498c64857fdae6ca6b",
-    "bytes": 277639,
+    "bytes": 277640,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/pedidosya-0": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "91e1d468e8fafeef33fdd80270107c9e191fdcc5859d2d1cf2025b95c433f730",
-    "bytes": 238374,
+    "bytes": 238375,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/indian": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "233da731aa8f5929992bd4f1356760e4607de5e40163f12b2cd1434a234db660",
-    "bytes": 324068,
+    "bytes": 324069,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/lemon": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "56762da456fef171b57b376070cf0bd825070a8b653e751e424fcb75c86660ae",
-    "bytes": 292945,
+    "bytes": 292946,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js": {
     "status": 200,
@@ -317,55 +317,55 @@
     "sha256": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
     "bytes": 1191428,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/toto": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1f32185126946f0b2ef01f18f841e4a7fc69706c3e1f3c631d511b34da078b91",
-    "bytes": 71828,
+    "sha256": "865e5c6bc047f52f80cbd32101d073fb5449fa2570ccce89e19aab60e68f99ca",
+    "bytes": 71645,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/hush-puppies": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "9c8e75994a48d309f3805d41700b81cfc1bccb8377801f4b6ca77b9ec0a09eb5",
-    "bytes": 267077,
+    "bytes": 267079,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/columbia": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "632b7fbed801d62594e26f7e3a67da0eb0d6a885bef546917b69ccd8f1a3eca2",
-    "bytes": 238372,
+    "bytes": 238373,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/north-face": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "6f7a585d7436f90cd5f22a43bf5f6fb65c119afc404d790ae61637a9a5aff36e",
-    "bytes": 248675,
+    "bytes": 248676,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/rotunda": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "a2b8e3269e33f43ddb08c1f8bee34ad8dfea0bdafbecaeb146115fb64448cdf1",
-    "bytes": 264820,
+    "bytes": 264819,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/skechers": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "fd08ee5c35d4778dd38a23449903d8002374ab5ff72328235a04a069a9e1586f",
-    "bytes": 70388,
+    "sha256": "8c38b1394ad46a467ccfed78d2ba07126352fd67f8b1d6c98e92f48e03ca533a",
+    "bytes": 70334,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/arredo": {
     "status": 200,
@@ -373,7 +373,7 @@
     "sha256": "760badf93b848f105ed0fe324b286185317ae3fdf51fcd18b94e30cb6c18e773",
     "bytes": 279529,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/mundo-mac": {
     "status": 200,
@@ -381,31 +381,31 @@
     "sha256": "ad626209b5bafe40842d5ebfd0163496d2ba73ef715b6400207ac3384e7bc0bd",
     "bytes": 238794,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/iplace": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "cee6b24593bf73e98f567ccd4974fdb417005a38845f07a6266f5de0d6ccbd60",
-    "bytes": 71207,
+    "sha256": "92e38b51870c9a31687574d497057a78d1a7d47e797b41c449f7570e14c8b933",
+    "bytes": 71153,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/samsung": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "aec8f3000290a1cb3bdb3878c10d445d800fbf9ce509252199a301a48c784df7",
-    "bytes": 253690,
+    "bytes": 253689,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/bookshop": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "b05d243291e9d23a8234877cd01c45642eadc753f8da18ace5579162f33298c5",
-    "bytes": 238863,
+    "bytes": 238864,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/puro-verso.html": {
     "status": 200,
@@ -413,15 +413,15 @@
     "sha256": "751158e003fc94e6df32da7e51e367c81299436071a806713f7b41e745c78705",
     "bytes": 171609,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/espectaculos/LifeCinemas": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "983836208635abb93219b8644a13c99a67ef20e490d6b3184fdf81e3c6da99f9",
-    "bytes": 72080,
+    "sha256": "b9d1205081d951065df5db5a9acda7a4b5124add8dbd305ad4755a56b607e47b",
+    "bytes": 72041,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/Life_Cinemas.html": {
     "status": 200,
@@ -429,2358 +429,1838 @@
     "sha256": "70f5a42df887584696f22aa90654c2c28665d20244b603d5670f0754901065bf",
     "bytes": 168565,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/espectaculos/Cinemateca_Entretenimiento": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "84d5b8c8c8421c8d24a1ee57a1a32657c138b2cf55c3bee230b02790b3d4dabe",
-    "bytes": 72377,
+    "sha256": "fa2c46750e2d771b3e33213958e9f2ead45c395d5076d1e2f37e64bd40d74df5",
+    "bytes": 72072,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/espectaculos/Beneficio-SODRE": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c9aeb855df7395c3906b8092de1726be99184fca5d0ad8a290868fb7928545a9",
-    "bytes": 73631,
+    "sha256": "3cedd4d0706d8e77174294910c715de0b1b697067807b43a41590c1a61eeb3e3",
+    "bytes": 73826,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/espectaculos/Grupocine2x1_Espectaculos": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d952daf0fe94922ef606ecf4d888017a212cb70d23180b92dbc06d3228987334",
-    "bytes": 72466,
+    "sha256": "d3df3a3a5fe6d763bd76188a2a54b2fd94cc8de9455aba9e02b7f32b4ae80428",
+    "bytes": 72521,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://beneficios.brou.com.uy/ensenanza/cabify": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "328a1dde20584885bf2fa5f8c11fd1aad3a670a06b26a7599e5ab900300ec865",
+    "sha256": "f2c4fe57670c4589f201988d77bddc1a935ef4c1dd22d06b375214954a187ccd",
     "bytes": 64196,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.santander.com.uy/beneficios/buquebus": {
     "status": 200,
     "httpStatus": 200,
     "sha256": "835c0801cb4d5ca896f97941e094bb85910cd8591f9e2e29b6c8276ac4ff3969",
-    "bytes": 239318,
+    "bytes": 239316,
     "latencyMs": 120,
-    "checkedAtISO": "2026-10-29T11:56:23.556Z"
+    "checkedAtISO": "2026-10-29T16:20:00.926Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/xiaomi.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "56c3813cf5f90d85e173e5c9034fd889f0d83c14c840273b9d706143f62778ca",
+    "sha256": "04e2029b1b6c699543fdc8b0eac1306edd5e8097efc624273bad31f238c4449a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Clementine_Natural.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "041ca59a5091261ab67bd60953472d0819b85d3197dd740156d3cd7a2ca2fbd4",
+    "sha256": "f69e554acef62265b92368db24abeddd5b347e824d131766068d395695cc89ce",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Zanetti.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "033d84d78cff98c0a56cc5940785cfdb2ee1774d0416d10e817647a7e44fc6c6",
+    "sha256": "0e3bcc4ce2d022f96c822010f3512b4162eb8cdaa34a484f55c9cd7ece5b1bdb",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Alfabeta.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "74b7acaa5a64d0d99463ede5881c566d59341a9ceac84f91cdc80abc9e80a9bf",
+    "sha256": "1a46e37fd99b9b8f62b29d1a12de6e9445701924bc08801bbc4d1abaaf71cb64",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/universo-binario.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "a0fd6c232197a42b0934492b133ff936c700931a4995b612fe85fbcd1f767228",
+    "sha256": "d8b92326e9f5443b7f4c1a7903a111582ccb590aab0be0c3a0799d5dc5e769e8",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/hacienda-tierra-negra.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "eca069a67b268879cb45099e974cd8c4be2c5c6eb6f6f73a48b7221f5e80c874",
+    "sha256": "b29584ff45395bb4923cfc1e73c6791b8c0fc928c77b2ecb2eced081d1083c5b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-morrina.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b6fbe0b2c2d5006c4ca1d3e99fc836d1657e6ff3171db123962b3e104ccfad08",
+    "sha256": "e4d7c018df76a1ae747c96ca0b719430a186eccc36e24dd852c9bca174a092c3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/tropical-smoothies.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "26b5a03f3bb6e86c61d352886eb52fb9fb8e97b32c52bb29ba383a6942451afa",
+    "sha256": "13bc785b092094d79e85a7462e7acbd0020f9893003ccda5deadc9a70230e921",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/pintureria-Nalon.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "bfa414e85ba49ce2c46f247791eb29b5644d2a22c36eced622a1dca0133a17b4",
+    "sha256": "3717be22d58aa491ff5416d8167e4dbc1d0d31c9cac330e1d0d3c98c69e8cfe0",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-otro-es-mercat.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "a5a37bff7fb5355164dde510a3a1d03803844e348b563d96764c24f9476cee30",
+    "sha256": "6899dd5fd72272f53607a765f22d71e00eec9b855433695f8cc38ef1b2fc42a9",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/PELOKITOS.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "380b85ac16482fbe45db63fac2ba95f26670458237e26f884a59b29b13cab5d0",
+    "sha256": "76856a7a04d13f7b81a75346c5c6d20694505544c3ad86d37e0e2a267f4006c0",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Up_Lavista.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "55165a7746410218bbf31f58eeee4d990e7e77e5c3181b1b5258cc35c15d6fb9",
+    "sha256": "0952aa28f41802f4d4e8d1acf2099b36c4385ae92fc3c5a04f0295fa797aa092",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/matias-gonzalez.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "8b94d95c90722b06e994657449b709561c582453672d4122d6a21a4558acfa2b",
+    "sha256": "cf6ec5c99225022c58ad9e1523d1a35f95dbca9b322993944cdb8108a5937b4c",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia_Crillon.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9de6eadb90fe8a81e683b2533daba22ea51468fc222735e4361c30b5267475ef",
+    "sha256": "48895a5a557ec8e00346b68f311c1a12c86cffce91fcf249be5464b410858bce",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/Sunglass_Hut.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "717fad129cb0618ec0a4a75ce2ac3b057a41fd0bd83b35729832b0d9e8b22948",
+    "sha256": "6dc2e95f67e6807f177dfc52edfd3dfa8915de51332dae8434d59f31b064300e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Zanti_Pizza.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "16158dcafdd45d62ebf1d75df2676800550285eaba25b501d6089afa8e2f92da",
+    "sha256": "694359f9702ed95feca5a5a4a157f8d0a3bc5bb7e3e3a4130a0be11c237f159b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/La_Chingada.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "fee54204f25c707996c5f348c0b8e2a54755f33cff53c29f4f0ac9fbc976939c",
+    "sha256": "ff9cd23ae6f695960748b1d82734241b07fd35180b40867909c433ae3675c0bc",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/le-bleu.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "88b4d5d768a4a0b48232e5d53ea20769e949eb5b098477825b69a9f2ca5785ff",
+    "sha256": "34ea3fde2401302e296dbad8890164c3717c2ce83801346784e204fa26498fe4",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/prodeco.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5f645e9f1a279960f46ed586057b2f139edbfecf80758eacf6df951c8ce53cb4",
+    "sha256": "794c0a5a272320839d50644af3b5215f145939218ecae5a2d40105c87dea8fbf",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/barraca-el-surco.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c14fb654c6ed67697049343cee9621abce60233f6c2c198802ed7af966cb0efc",
+    "sha256": "64adc60207db13c671aa4a233e077cdb55770ae6605de0cd1ab381757dd4442a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-barros-blancos---yalale.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1d94da47117c4db79b369d4081f8080169eba61e9930b191a78530cc0587322c",
+    "sha256": "d80fe57520ded86a0eb087679ca145c79f286f6c4484f0f3c4e3dc70e6503b6c",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-diva.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "4495b365fdd9be8c4b679ea2743e45477819e8de41633797053b68ec94d4b6ca",
+    "sha256": "560736384cbbe4f176076b858c9f5779a877c28f041a9d3c52cd97b418aef043",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-acuario.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7abc20d7e0db0dc4f111cc25699a7159d28e543c3fcc90977ce5d4e3b229de9f",
+    "sha256": "ea9b3d6972bcf59f1bdfbad5d2c5df4f7f41381e3a88c6ab9a7cd5531f2d871e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-nueva-canelones.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5193ef5c1702c5b45de2d7638a3824306139da62e53674a1b4cdf9d83dbbb4a9",
+    "sha256": "413a5b305ae54d09f5d858919f6ad1d043d5712e493f4616f08259aaf127f970",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farma-uy.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6005234a72974a99f82b3167d719597570b113492b6e953a1649dfbcaa5ce151",
+    "sha256": "6b94f729cbf30f6a35ab31f569e8081ec05caf84453b3459ccb1e72f00d3adcc",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-telechea.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "8319bd2030b3384a2e0dd8fa44c69fce2794a4e9b7fa25df7cb5fe5101a16431",
+    "sha256": "7f56e4eb555a0fdca9eaece38214eecdc7f9ed642d0549e9a4b32724ab87321a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-tundisi-obelisco.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "dc87ab41acc2d1d370b48bc19af4dfcf15b370ec03c2b10f5b56a66dd912f79f",
+    "sha256": "6d4f1ff3d99e90d08558363d3e76aec6cf4faa3ec8322ba9899418ab702a7838",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-tundisi-obelisco-ii.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1b7086443e3d9bebe1efdc088f01d8ac672d730d60715665021160919b27bc8f",
+    "sha256": "1fc3e8cd4db8495d2d23cff01d247344ea8f94e0425528fc83a025ae56e4abd0",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/fempay.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "323397f6413999e6f099701d9ff1e0f2a8994439ee39beb2dfb59175782c30fc",
+    "sha256": "5b345de17d4a8a3953b65fde98272614733f525933ba6c8fa79972a58c553679",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Berna_Home.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "51e42828130a4526b71c3cb16998b276097313beb973a5c64a16f4c2e855989d",
+    "sha256": "884d2f40730d72f2b6243d7845efa24230efdfa2f952ef45cb59e0b052311293",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amado.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "0888a427d075ce91adf469bd21624237ab5a5a6b5fb6b83664c75b4164d2605b",
+    "sha256": "000d07fdd444161e3846082138b6b240ac2e3db3d48b1d792cd5f8073ee2aa86",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/A_Brillar_Cafe.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "191d5eda99e7bc40f7e37c11e9deecd432cb03e843460fa75fc24f7b1dcacf9c",
+    "sha256": "101ee1d7f127c9b504bcb3cc108e872a460a8a13c7dbcabe3e6530395ceeede6",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/la-obreria.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c30ad0623c02291827526d0aac33ac412119b9ece9b545438ad65bc0e9b24ccd",
+    "sha256": "43af136fdae81aa292427da4e2e7a9650a53ab2360b8436cb38410839a730dc9",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/TL_SPORT.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "80be58a9e4b5a9db41f86547b28d4f5246734f0bf42996a953f15a66cbed856e",
+    "sha256": "dda450f0f61f6cf24112c920a9a70c6d553c6f656585d28d64748e78d446c463",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-thermal.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "32d29060fb317f6f32fa1169d95998e7e94ab53576112e6b16afe3910ad9fc1b",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-parque-posadas.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "0c36c9e5f4ec85cd5c0f1c5867b9950c6e499a246ed8423bd875debcb92d7e9c",
+    "sha256": "fe7556e05649148f9aa81f9dfd0cd8e8dc55cc8d0f0dbbe45a86dc6312e2e5c2",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-cooper.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "e403f2406cc44ed80584c1ed7645379ad9259fd23184d7c94b4ea53df9f914ce",
+    "sha256": "72cea42067e782ef8f88b33c8d7204712d473a0412bc47f998fba13100437e38",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/FarmaMillan.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d8f5f33870332ab901c710d8e20061fa3c74f66e0ef877645a3940f85550ba65",
+    "sha256": "7a5deacacd065cd11fea32f81352aa1a2c20ce6e7a0430ca82cc5ea46be20dfe",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-araujo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "e77dc2bed5cca451fdfc5568bc1686da16cdcc8a83ffe25cfb4636464dc5ec46",
+    "sha256": "054020a2d48ec0ba61f73b118a87fc01e6d882083ebaf61991f11c4224f99940",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-rubira.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "bede8e3e327ba5bbf4e577916fde7cc2576d1667567add1537b6295e6b0b39e4",
+    "sha256": "4c3751f1acc52526d3664c3a09b1efca1b40928a04951762ef669341a9f27b0d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-paris-notti.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "29d1235f4c95681018617655acb70c8ca23b04c84389f7dcd2bd5068ba2c7e09",
+    "sha256": "e0e61b5ba626e4952faf58f4c2fa7deff842247e0ec3a0525865bc082ba996fa",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/tienda-oficial-penarol.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5ed108eab2ac36c7d187180e4cd873ae525b2a6f64e4149b97eb6f44e8d106e5",
+    "sha256": "aaf27daca2aa9c8927e64cdf599f8c375a7f7806f680b8a1651aede68fa4689f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/josephine.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c84bc0dc75fa61f8dd707a1eb4fe4f5cd9e6b829a286cb66c3dba29beb29a3f9",
+    "sha256": "277631c9d7cf6a2e3fdcd09ea9efecf58f3ebd9326b083e8e6d719b26ef2d126",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/vanina-gentile0.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d4a3a0a030145bb6e38a6713e847d606bd035f99d30e6162cf620555eef124d8",
+    "sha256": "5478cd5c610c68aa00044031ec2fbfdacf320e0668d5a401bccefa047e08f56c",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Zapateria_macri.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "aa1d15613ada84e8a8df390e48f14a71336cd12d4dad73b037cbd74816dad70e",
+    "sha256": "c7333b7bba952ce7bbeadaa17b38b7c5f0eeed2806314095927069ed3d791fb5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/marina-nature.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "eeef7df02bc3458839ef347c51b87a51c325acbc6c29192f2ba75aeec78f9b0c",
+    "sha256": "b9b7a45a6f4d9375660e484ad60903ecad46e9b76987a6ad9f4dec0ae358c39f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/100-artesanal.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "55e9a1a15b624db2630aba83f687d7c0e1c25dafb1b94521af89bc1f68d73fff",
+    "sha256": "7e7f66c55f73d7bce0c41fa49caa8750145c45a80d544241a7397bb2e3413b8e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/es-mercat.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "a1e99100bf5d527c469fe0fcfc0f104b1a232e3bb3235b25fbedc477a720f693",
+    "sha256": "c0463d99991207592711ae72cf0025a3c68423bdf12d97f7f8449573c75cbf0f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/bodeguita-de-carnes.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7e4500bc48f58bd30dc9a47d07ff22d91e618dafe92317df37a70f5a1c9d0cdc",
+    "sha256": "5dbbf03438edb0bded1c86724f816de12b186cada762e06601cc238a594f22c1",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/bonacuina.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "838a022359829542c3b554d0e7cda2ddcb34dda02b6337f3fc148cf71ad389bf",
+    "sha256": "458b91217444b71df6925d7e9d35ba3db9c9365fa1db404ce007762650f02dcf",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/unica-jeans0.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "2bdc1a67a7d6bf17e25684e9956b3e0c40c2cee833f92d34944a033a0360954b",
+    "sha256": "b0658cf718f869eb36dd00cdc2be782248b660145d52994f8d050d57c5093918",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/hoy-cocina-la-abuela.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b06f208cce7f5d14b282eafaaabacd4fa3e8ac4fa5e4c61306c3d4ac6de00e97",
+    "sha256": "22eb16d4756910371300e1e94adc394953bb7a15c1c3780123ccd943ea3e5401",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-estacada.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7506b21e2c77b861fb0be16f6509f293ea3af1433c1b178eb4d6d0b5b0d676e6",
+    "sha256": "aa5df6550d1ca51e16eb7f5defbe55f85a95477f132b5f4c8a3bb490feaeac5f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/miami-box.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "f4d64082be41c75e00da5d3bb310eff77d98d1f03295b49d11807bbe13f53a62",
+    "sha256": "50071962f161c2c31ccb3fc87b3485a2394da110ac5dda8a3dd045719e9b7f7f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-emporio-de-los-sandwiches.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "27722e6fd36fed65e260b1ebfa6f9055a0429b393aadceedc4eb98ac67b176d1",
+    "sha256": "ea9ac218e59a1f28c2dc32aae04fe4156b740dc724dea867b4900a4f61d04891",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/anne-chaussure.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d7a57680cd9bcf8e0c3d554fdeb6a2f6d5a073d825b2fc57fc78270486ebdd11",
+    "sha256": "bed192f4d4ff2f3b259723924caea40aa414551e290b7abf2b0a4d284e227d2b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Nubia.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "51ade631d1a7d6a416e4def6ee6688cc84971ec1b87c872b7c0e865a0456ed73",
+    "sha256": "cd783181b2012e3fce66db58d8f5acab5620785f467a0d54593c0d64b54cc0d3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/punto-arte.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ff1061af50689e0c3b40f61fe53195f0b463dafd69b99da530a4457b18c439d9",
+    "sha256": "9495776d311d311c5b31f123a2a33671ff350ff0bc014312d7c67f7d1242ddf7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/sosi.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "536d5d2c468493923d8fc8c208078789d009a79f0ca2cbfdd8ab6479387e19e5",
+    "sha256": "d180922b1f71356fbc87f14f8e2acb81f489c0dd1c5e2d6e5c43e2e6984f3384",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/arapey-oasis-termal.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "1566bee6a03d228383edb29dc0d4846fd46ac553fb85b2c5d5770aa73eaeb0fa",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/costa-colonia-boutique-hotel.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "3fd8113ea6f1cf80f9f0676e4caa82c53f5272a9ef727536fe30c06c131aa9a9",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/santillana.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "eea28ead0d715081e60b2ad48368028c0b223c7dfbe0d6d1a6e22fc54ec1a2b5",
+    "sha256": "ec6d8cfc196fabe5c3bc391b0c7d66ec083d959e3521f6e28b58eb33bf1d0547",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Submarino_Peral.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "648eb4b2c0b4c60b227d733b5b5da142bf2262d7ea0d3edb76b69d4ff700dfa6",
+    "sha256": "9dd68755a47ea1f36aceb2c045a71ae75f9645fe547f6ea3959e5781e00252dc",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cibo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "457e661316be85db5d7c1e58553677f55fea291576e3416243dae9c663a628b8",
+    "sha256": "930ea837a6d6d42f495f04115c9e0ce67b51a5fa34460ee3895297db23871773",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Serena.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "656d3469f8dc2cf319737dbca468c38b40769bf602495b23c5d901bc05d2cd60",
+    "sha256": "e171152f1eb2ee6cee3353cf17448ada3b16e15d2a89025decc305e3f263935b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/pintureria-America.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "dfc1b9f81df3b16637b9eeb5b7002d4cf4214a2232ecec2c71dd4b322269ddb1",
+    "sha256": "04e552b94ada54c524abd8666afd32bf19798b5e4ff80d2cc710805e8b167e8e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-nueva-modernel.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ebbd15959560c3e79706a16639a0e54f4c30b51140fed70c1972e0c09a6ff1b8",
+    "sha256": "66642f787823e9e7d52eee09995b03c56651f105c1019c99b500306c36a0d2f4",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/beef-house.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9cde8406cc5adc487c897f62fa9b6f370a7bc4a7831c104ac863f7b5afef76d0",
+    "sha256": "11643effc7db02bcd82375592bb62a202350015fe90a311dfc801d623a8f7333",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/good-kitchen.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9593fa2e8535fc34d01c335fb6078ca20087500322ddd3e15028655d4b9af133",
+    "sha256": "84d69912503c57550630c7041ffb43d524ae04d9ed82b4e3794c819d8f43b574",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/alta-gracia-deco.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "49d5f016cf5ea2aa5f449558f70022435246bfc75754112b2925dd6d05226c62",
+    "sha256": "f3ab25fb73aaf4a55d4a4f15b7451f01e9ea64b5038aff38f8905b89e389e222",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/garden-pot.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "4ec318018d436a333580c6d9ffe9020ec93d9b9b97240556f64627783ea8854e",
+    "sha256": "264febc6bc6f9689f0aa05504cc77c149f3e3e8256558a65cd2822d47707ff10",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-femme.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1cdb77feadbaa1889d40ca2a6d245904a83ef3501fe7ba33049d8bd39aa86e94",
+    "sha256": "152daa0fd9cdc32d567dca86ef51a1478b29b4d05618d19b174673f93b5331f3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/bbq-uruguay.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "2dc755362430180e4b9790962208f31392bbaa627a77c64188524ea3df2d4dff",
+    "sha256": "49737cbc4ab5256bf059ee476d196cf9192f0a42e9a315318d8f6e251be7ed4a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/home-collection.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c224a497ed838d343329ec442f43465a4c9858179b98621c3ad31eaf468b7d16",
+    "sha256": "b41e501870705d916011751fbd638375999b0c2f15d598ede99370c5a26d3ccf",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-nueva-parrilla.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "8dc6450c1cafdcdd5318325745309a3dd2ba639a7858f12ea31e0694802385e7",
+    "sha256": "06e9d6ea41475282abd85b838c34108f5194f50c9c3f6c0d352e53655feb8fd2",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/la-lenteriaSJ.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "db27022baa3b749ed0d7cf68b7fffd954bad393e324c89aa95d38ad613d08a25",
+    "sha256": "d04e8fdfe8ded009e7e4809ca9cfd8b4cbc67e804ae0ee27aba127fdb2122d0d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/malas-juntas.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "2dcf47a8e026e17047d601e2275a54b523ce78e68935d58f80d144b5bde1843a",
+    "sha256": "2ca4520345417880dff8016993298f913342870d4d7237858c5bb50b7c5608b8",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/la-lenteria.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "12311c781cc7091db6b8608adf886fe704ea1f38fec885e67385700308ecca09",
+    "sha256": "dee631b8f155c6874b4315173fc94843e88b9b0793b15a798205a2f5aec760e6",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "9b7d9b7daadbc62252b1132517d2b710b329ccd3f71f2d6b9fe34ca7bb19398d",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/maline.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "09590cb8b6dfdf56d982cf7e7a1db4d994582ac707c8b8c8899764ed8076e494",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "b08c144197159fb0b28d8e653dc1b20a7fb724e1932a2a1ec2181a2efffd1571",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Mar_Abierto.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "54604d61e26bd2843e461f1937201b1cdfec004111e765651375eb087b4fb588",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/NORTHFIELD.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "47c42524ed6ec5b1f3a75234e70a4bb1abc4802061500065ef38517a09c16cf6",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Kraken-Piriapolis.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "0a3f967eb442e627374d0a302fa1f50f1a6930f625f5c64e892c68040be48350",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cultura_Alfabeta1.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "2b6704a10d9adb6cb30aa86943190df0d344c0cce89b87629a849e1dbf7bcd65",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "fb09a1cd6a10a638dee232e713f014f8df0e041443553baf129eabaad5c0f442",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/flo-beauty.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "aff13c581b9e0669f51458f62607d460c9addb9970854ee7779f1d8601d6b3cc",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "e8aa5f128562cd857be1258e4cb74e35e42f571d5c7c6e3648656c235800bcac",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:13:32.617Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/aquarella-hotel.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "a61295429293c7499dc5bb8ad263fe75b1368e259eceb59bbab20c13e69a916a",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1366d894a7b3e00f3361daf10893ab8cc0a2fed0f8717d5097d81fe3e2aee149",
+    "sha256": "35b836f199d9460b76a6719a542233a57b682f3a810ea4e984ab83cbe6d1e946",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "f5e2d80d3ca1c131143d56db217945be8db986fcb9dc09530107856889fe1220",
+    "sha256": "e18c3bfd22e2fd75024c8c593a8f479c4d64705b3d5e4bd6877dfda344edc13d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6fe96a9fc9f3a0d68c4143ac07eedabe39827f0ddf15db6c5ffe61cda83df4e2",
+    "sha256": "de93bbfcb25e847e5746c3174480557aecf452775281ec0dc9c58b4f3b474fa2",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "fd6c2d72ca36e63289bb3ac2b60c3551b292c30ffd11a127a422067a08162bdd",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/maline.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "89411d349ee2009d885f0d33d6a98bbb660f7d1cbc7137cb70bd1d611e80d6ba",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c9f070d644131ff54fa40275b803b8105c9eb516db0c6dd7d6d90d8ee01c8865",
+    "sha256": "c6bb47a2fa8f0a017327dba5ed364396710067799aa97bee8fca3751c740a5d7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "5af7d292eaa3d3881f0aa514362d355bea43ccedebc5c6af9923f4e5626e2a58",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "aadb55bfe7c0c31655f965f5f69cfc1654e2349485016266a2c917047b8b436f",
+    "sha256": "104b697f9bea36d86a591c821431f36f7e7b4c3bc44c93646a8bd62224341b9d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Mar_Abierto.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "430d2db983e29b32dcdbdde4b29499ffe3c8130c094fea7971bbc417765d6915",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/NORTHFIELD.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "dfdb61b694ef500e1ef626a2e2228920fb00b1a9826985675ae11cab50f214e0",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Kraken-Piriapolis.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "7244699a2f9c96fc138454f7b744d310112dca1a2db9197a3ba90e4bf89b3b7b",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cultura_Alfabeta1.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "97e8588e31ccb0c858a3ee5a330626ba6ed4e1cc71d4c04d53a27f59117aa7ac",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "e2632f73c78dbe38e1e3470079da290911e8dd14e1bd7672116f599016b10456",
+    "sha256": "6e6b69c07bf56aa273765d1977c3db07c0a3d2a481e3ddf8cea7b2883c710506",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "5f97eefa3ba8dc7f7c41625d6b51447be0b80dcec8a9f27bc11cab246dad07b1",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/flo-beauty.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "56a97f859d32a28e2fc5fa415120f94637156f1c7bcb03a4e1a0f1ac0ee232b2",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "570ebc9b00256f1dd4f50e4ee5e8d62910b7518ddd274d61af27165d11e69cf8",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/jugueteria-gibernau.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9cb271b068a021ac7d3f647fa36b4a6a5c264b34da8fa839c8c67e3ce28e5546",
+    "sha256": "864d1d3ec806fedec3367053cbf1d5742eb826c1546b4a4a3e04667e27c3e32b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/figari-bistro.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9156414717bba15b94a7525a277d7f20d192536a92525f7db1870c3890efed68",
+    "sha256": "b3ccc112a3cf210a617d6623234f5b88b102dc0268a13909797e0d01024222c5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/cafe_suarez.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5a9a10c5cccac43e464fc8dada43a7b65b96081ff94fe55563b852afafe741be",
+    "sha256": "f650c6add295e67de841b063f1779130b4cb4c6e03ccb6e229b887c9ee2bd516",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/a-la-par.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9ba95446687c8e76c4accf81de2f781733eab5b2a5e0e2f8013b990d0a577da0",
+    "sha256": "6f58741820693c7bff7fefd218aeabfdc7e3bd4ee9a0858db7646250b0b1a46a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Marmatu.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ed80113b4db7b31775a4ea896718c5bd2258786516f71e76ba4fedd0d94cb5fc",
+    "sha256": "3382bd8cb13864dc395a92b0343de5a0ec142b46d762b92bef6827437ad2b035",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/kokino.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "59b3feaf13898e380ca7666c542e68ab8a02cee4eaf6bf5f5063499a18417030",
+    "sha256": "9832dac7e9693e2b537575cbfbd9292f782e7128a3422a131ebeae9d49bf2bc6",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Polita.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6166ebfc72270408c5c9a4a11df02cb138ce0003a702f949f61b1fbe83eb24ba",
+    "sha256": "3f7d7e9dbd01c226b77d8beaf17f1b50e9fc4caef9b034e2c51618344cbca1ec",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Capra.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "3df3f1d9aeb405fe392cd3047a523092a53f843e609c22b5ce64f141a2f0898d",
+    "sha256": "b30057691f315027b14458eb14c46d44697bcac33ae9589b66babffa353cf7b3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/STANKAUSKAS.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "3d2c6d09e025040e04402049e7895e96f29ba2cad59c45a4ce33801f2431fd22",
+    "sha256": "762d625f36ab13a6d404b747b10583b9598a7ed695f5e8e8de713948a78c2e84",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Vichi_Bijou.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "0fe236c890ba84850afd1caf101f2dfa2ca8921b1ac6ab29e2efdd72bfcc217f",
+    "sha256": "460dc1d4ca0f718bdf10a98159055a5e203b4ece7959966022cee69ef34c19e8",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/parrillada-classic.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "63e9f27547152491025e5df6df07d66c25c9ab7b363eb08589b03b7ed44ec073",
+    "sha256": "f01ce3a771724210df8387ac22fa149952de8951efced1544bbe2fb384dd9df7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_y_Cafeteria_El_Fondito_Gourmet.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9375947f8dd3a1641c00506a3f0dd773c6d02986162f3bb692b427f43968b02d",
+    "sha256": "74b81d2653def648df4cdcbcc87a7480e3f406628e5bc0a5915bb9d0b9a257d6",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/foncho-y-juanita.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "960d74b75fd823293bb2a8403904e8c0ca59b42a20a451f7763acdbaadf93d4a",
+    "sha256": "4a59a77f77059a2ec6998eb9277af4a156dd1bfac64833aa6e60579c3b6d19e6",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/centro-repuestos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "f7b63da236d01bc17ba30497157808d018ba2f17698bea6e4bb1b3c47cb35243",
+    "sha256": "8086dad22d542f6f4566bcd5c2fced77c7c6faba56d96f486ea8be9a5a92e524",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-vision.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9c2da1cd7e301919a49fdaea3d201e941334d6d4b95be1bd16530c30972b7f01",
+    "sha256": "cf834adbf4229590c2e8de5b89630e903763d6f95e656f1fcea530aebdd868f6",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/camposhop.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b5d2bbd4a8f913e55991d8d12b0427a1205af98e49c658be9b047dd61d02c419",
+    "sha256": "2c048a9b079812b4d03c06a17afaf9b168cac421071b6d6ebc82b4c1e462a42d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/bajamar-tuna.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "06ee7a117f3a640aae386f09a5fa37e540ee75b0b8cd0fa7a3ef6f0fd33435f9",
+    "sha256": "e9829c986d8ce0c20cf4c8f2094a0f41289bce238d1fdbbcdf80c53fc934b879",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/2122-art-design.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "a4b9bdf52253b0b22e49bd5b1c5fe15c27f809a630b997e5716efb603d6d4cb3",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/belen-sagasti-peluqueria.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "972c41c20b4b43e91e51dc761381d924dcaa2abf6cd7671c77d5bd2cf6ae3a56",
+    "sha256": "ca020420f7b78a16f5ac7a9f8223f52c2c7534e530f7d97311c96b71d11e7e45",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Casa-Flo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d1d9648fa1590df7484da6efa5ba79db7c4c820b73e643dd91c278fa0533d859",
+    "sha256": "12a32e2529c0c5d14480e1e8a47a198a6e669db2fe1caa619f20f64dbcd6cc10",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-pasiva1.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ac5be7f4d688def4b00d1631f961b23d2d2144fe3be66a61c1e7e4277ed58189",
+    "sha256": "5eb6658c80835aec43d16a52b44396a752672d582115dcc0aa228cd3f50b1a66",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-pasiva.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "49c5d75c22f80134d68b751df318f6adf17cbe8e772321058e3631e9f5dc21ad",
+    "sha256": "3c4f63ba9c5595350e766a898714b3eb89aeb2989b80ec3a3b9a0db43b8cd4ea",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Nival.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "a83cd67a614062bf64ecd51155ad9b92a58a3c84e601e365f7ff2f93f42f2dfd",
+    "sha256": "5191ed2b3544cf6fdfe77c130e40c78f98aa86cdea9dd8c32523eb22ef78420b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/entradas-penarol.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "458143f6cd3720076803605d1710dd924f8e754108d468ef7308e27fa31a25f5",
+    "sha256": "65c192420b9132d78b4f81bd495125d5f5965bd2b6b53362456e14cdd7b06cff",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/miyagi-sushi.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5ca762d53442b90830e561abeb543bcbdba093378bcb1654a48c56e79b505234",
+    "sha256": "686de625cde8777c568193467d56a96400aaa2277fd75058430831ac083d1087",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/la-escondida.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d1a816c41852da1673013d120a3ab986d77977159d2333a4b322ce07410c9838",
+    "sha256": "eed238993758b2388e3061f81cc7a598cd03c2692f778639305f54d5089dcc62",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/puertito-don-anselmo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "57abecab373ccd102153145997beed2e2348b26c81b89d5260144967960b6f0d",
+    "sha256": "4ec52c02021a6f90df5b0c3564704578e9faca88a9e080b233daba1951664269",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Descuento_de_bienvenida.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "fddcb374cc48c32ae6b96b89d5909578b69ce2c33d9dfbbdbf4c2246a1a95a46",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/miercoles-25.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "50e9db88bfb03d30856536baee58b41fc6ff7aa05ad8c0b1635c8c1f545b32ad",
+    "sha256": "0bd01b5331012481c63e2f9cee8521555fbeb5fc609c5507b21049649c389655",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Botica-Farmacia-Albisu.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "057b457907e28cdbb24e974d9e2b382074d1f96ee5ab5139ac913307fc4715fb",
+    "sha256": "9aee623e3dc4b57e8044ba8f15189dd59eb7575851e336078165382ea342ef13",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Barraca_Maldonado.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c7fa0ad02003e8d6f82a5adf9ebe529a897b8c1aeb993a8795d137efcd5f9899",
+    "sha256": "3ef1bc8a054f9baebec326220e497e0f09e1e4cbb73b61b1dcf9f652c34f56cb",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/basefield.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1fa0491ef0a6bd110572fbada742ef0e6fba1107396a137d29f5ee17d06b8019",
+    "sha256": "35f78d11897e7c3b56e701c4f1fe0b745b0a027d1910d335bd23bda2d93f27b7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/biela-repuestos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7c544772e9340e98f0a6f99876f29eb0bafcf8f387593cd5ffbcd6778f778835",
+    "sha256": "d20cce35d03960e568c015ebd5c3d69bf2b8caf91707d00e4fa69f050f975f4e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia-Garcen.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "8e4a4f4ebfc4ee872860967463dd372e7a04f54ec4e36acda350600530aede27",
+    "sha256": "5fe286a81e24d397297cc57b976edaa3b9badf785a580f123db7f34890113906",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/buybox.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "666b1ff42dbd2774e4fa17e367c479c0dce445eb9f81fd687da40deda812ea15",
+    "sha256": "1e0cc9547861a975298c2175dd6e07bddf27434c41a6f8d1343f130e74ea393f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/alamo-rent-a-car.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "e46ef28634e0d2cac84040fe88aabb3bea45666e0d345a9b7cdcb9ada41cd9de",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/la-hora-exacta.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "68c95c2fdaaa7c20a4004c8d7ddca6be24632a3bc561dbbb55d55c13d5384f61",
+    "sha256": "07613a2cd48a5973836ebf7372e041267a5780f0ef7582260d90b1e53620bbdc",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-don-bigote.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1aebef21ed50266d53dc55b03d9e6eb4c28f7a2373ad9b0ef574fb9aaf70707b",
+    "sha256": "fd6b4ae57fdb500fbfd983585fad143b76aa9f281c0eb973203689de3f7fbc93",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/forum-design.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "e3a63d140cf3da2217be40c75b5100ef3dbc3f144bb4cbb8029d44f7c2320419",
+    "sha256": "b793f85397ff9634cce56c584c8de1c5f9b8c3f3d203d0e893a8805e423a3cf3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Tienda_Pegazzano.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "86f29fb9840c43ee5ab2be2db7563b60735ded450a24d7bd242b4a37276b10fe",
+    "sha256": "eeb84dcc4d0571257768935c7ee865b3948236e6aa031088a576cc187be3f544",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/1900.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d5798e07463485c356941a0095e270c66b00ffb9d42b8639d8e24ac743957590",
+    "sha256": "b80c1847b646acdf8a74b29a91ef24f428300351e19f69bb003360e6a7e0c2e2",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/ABC_Papeleria.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "15dd4ca7ddc946f28f36b1eebe9599852b88059b5144c1b4b20578920b6200a1",
+    "sha256": "a155cceb58511d06d01b0fc2a000bab368d4ad0aec668c18f05ad836cb328e4c",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sobremesas.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "3ba37409ff67db2d9c890339934f3bc01df370d1abb5ae26bd8329839147ccf6",
+    "sha256": "1f38309a9d46877d05d4429b0dfa40e53d5765d4317c41e7ba973462872b915a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/zona-Tecno.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "03f303ba6a1851c0e82384b6613ddd1e5470dfcdbdfc70f0ebd2646412e51fa9",
+    "sha256": "1963c907f106ec05877d44af34d58bdbc870631968e88fdad73cd4dc39897400",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bocatti.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "06bf52b7f0ba04f4d08995daadbd0983f83ea1ac22af3c7ce5b5adf5e12c3461",
+    "sha256": "c49fd74d4e3044a299122ce474be279cf9e15b4b7cba76d12fbac431c9687834",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/panalera-san-jose.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "fcc739272d9d1f6348b26d3450397ec618702072980dbe9874c2897924376b9d",
+    "sha256": "e2fa04b7f1bb29e09dd45241f659e949510e41f14027a5ab1e4754ead6098e40",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/moli-mo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6cfedc909a7da90cfc998503033cf28dd7d702e78c76c144c4b2f5d13f1c68dd",
+    "sha256": "232c2a03e21b759efbc8fa0381b1175ddc7bea06af9b3d956b13f911eb2c8585",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Innocenti.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "fb1c500a2ade7dc27da5cdae2eee4544d0137b9a3378de44cd479e9b40b6e0c3",
+    "sha256": "15be34de0b39c0ebf23a9d4e60be592a360d2068f0a7da32f9e9bf3753eb454c",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/metropolitana-pisos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d28d209c7abe87610e661e3336c00c9c3cf0f69b0bac8dfbc6a2b7db7330470c",
+    "sha256": "cf7d7d0d6dca4c8e81717ac7d052d000af2e1cfb8e620d0e5d412b169b740bf5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/confiteria-cantegrill.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "c2ad8be2a17480158bb93b0c64fa48a54d8b2a1f01ad1cea308232a8c4fb8e04",
+    "sha256": "5228e54dd68550ee6a14bd18a19fe9ce7ada9bfea61d9b550113480ff415f081",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/ciudad-aventura.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7f89d9d6dfbfa3d98e0f47193ab6b81d4a5aa41b167c4b7bc0e3ddaa293ebc94",
+    "sha256": "edafdec3679c0acc21cdcce5a559cea8cc2ef0d83dd058d8105f6c9bb7c4b021",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-americana.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "df98fb7978a3cde1755012b727effb047d17ace35e659b4c40f984c257954ea1",
+    "sha256": "ffaf4dc5f214005dfccffa2ce5e9b970b07f498a6a21f316c8e56e9cf7e90389",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/natal.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ae8b98d7a17a4aa34be05f73b3492ac4b422dd7a41527260f5d1df73fff3ab90",
+    "sha256": "c97b8e2e7b9f395f9f3c321f0c357e3a3644031221ab955a357cc7925e6b249e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/heladeria-del-abuelo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "78129a5963de1dba626483ef0672e11bd093d1adce15db7784e462675d4e526c",
+    "sha256": "4b73ec7f858b8a0b4440e08113572026d6ea94e2e855c0e6997e9b8a93fed95a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/positano_trattoria.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ebcf4fb43e86973a0223a4151b4d0fb451cf4413a4e328a78ba1daf2e38aa36e",
+    "sha256": "65991d1b4a7892c09cb31177dd70fa5ffec9a469c0d294b1751d8876ae6edeb5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Unilux.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "71d97775589d816ece9923ca8aac6d86bad117368e83f4a15d6113f79a9f793a",
+    "sha256": "0d5fda146f51021e65ed248ef10b0c5bf5314fd84d682b85267acba8fa77f755",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Casa_Berracos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "03be549f823ee9c44a6ee241a218e912697842381474448795b7849e7e898c8e",
+    "sha256": "0381a2b9c36cbe4c68a67e1f91fe5427592dee9c987f1b53429d1a7d543a7db9",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/CASA_SAMIC.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "6ace7f1921b0c0c13a8730a7228734da3d71c430dbb60a5ed928623da6a0b207",
+    "sha256": "58ce83c983a516bb9dada04a2f208647151dcb706b635a528ac98d38642e9799",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/atlantico-padel-club.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7582d7b8eef8b29de2e83f42632540d20effcbf393b01a826714a7b80ef8dbb9",
+    "sha256": "efbc15fa94595ab67b26f0b7d54689d73e8c3a7c79455f86f56580844f2137e7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/atlantico-trampoline-park.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b35a620498cd11534400e5a3a1b364e8e5da9c08f4debe31edda78770ceb59ee",
+    "sha256": "314c300de5261abb15ba458435450103baf7456aef96857bbb7e4d5443fb449b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Dubai_Signature.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "780a64fae80474f9ebc525fab8a11b9b199697aa09beebb36c8b57c57f2305e9",
+    "sha256": "d549697b1cac4ba5a92be97bcd56be83d372c4e570f81a54637098c28747e57d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-indumentaria.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "17ba426bbb6c21ae0613a8d4252938b7fe25b9b499ce115deab6b65da1965fb3",
+    "sha256": "c98b29121adcfc5cb48c07810ce36db07d0e2d16e6b55bf6ef2c61051f10f84f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Dufour_rural.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "46f9924572c782e3b5de5985a34e74cb85782770c7d8546d3313f1de6aaa804b",
+    "sha256": "686a8edecd6b4c9cffb48e963144dec0f5ada84a1d06635c24957e4d2796b8bc",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/RDC.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d5538b2081c77536bde611d9206d13153186d2682d6e5d65e03fc689863ded12",
+    "sha256": "706efb2c54f715244dd4c59315845c3fc224e1ef36f43072a9805a211df3b904",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/glassy-waves.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "81710686c46f63529a25abb0eda416ae62b0cbcefa7c7144f2eccdc1abab9415",
+    "sha256": "2c0bc7cd20ab1f9e7233b4cd41f5f4e0f8cbc485c3dced9dd6e9574bb0d424da",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/Optica_Ernst.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9bd086c8956432a957234776fe760961e7c9ef080a87abcfa7eaf252fdb2307d",
+    "sha256": "440e85ebd9508535d5a1e27b747c855b521f3ebeaf3b7c976372f2960cd02efe",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/uma-store.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "4cc2dac0c2184e55629c98952f0a0648086d5816ff70810b3ba561aa38f31a6e",
+    "sha256": "144c902ce04bc3413ce09ff3b51669b75dfd71b59e1830dd3a41fb2581f1c92a",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/lele.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "4327b4bfc2c142e47fea89c14c3fe01245f47cdf266be441f17f36e37374e1fa",
+    "sha256": "0ed28755b34ccb52489c6bcb4cdb967a734c45a4e36de2c95043fc0e4511ebea",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/guilad-joyas.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "2dd6d1901d1dc6565b938f6b0f1df590379ac10c42842661a3ed545a05c418dc",
+    "sha256": "6105a8716158920642725a02f289c618f1261a2b3538f4ce9ecffdbb55b7ac47",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/grace.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "05767473d5e8cf4b2a79c0b230a837d4dff4678520f4bee99c5d7b0bdf7a690d",
+    "sha256": "a43447c971a09d332c1493c2ee4fb706dfea89f06653cabf2bec6715b470d6d4",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/alejandra-iglesias.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "f40213f83053a631e5326ac2e9d7038dcd51e738d97ec79f614f40e836163397",
+    "sha256": "77ad2d35b7788eebed4ccf5fd5a3c9abc44456d4ca2a4584b26933da32caf35d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/La_panalera.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "752774944def8a4f7f5dae2f834bc5a577c2ea06297a659100b3ba59a5da1304",
+    "sha256": "7f6d11c8bd7164b4b05d758760e2d0fba592333daecdb3f6381d347b9a147a7e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/pet.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "273cf89402aed8ceb8e9a9833c86155bc5feafe7dc5923aa985d00f65a8de65a",
+    "sha256": "208d77c1460d8644e232c19f6fc2e5424ce74a009692b440ababb9e43d0e0765",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-albisu.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "17540d386bca49e02f89cfe29113248e616d1ef97a2186113f9cb60b9298bd1b",
+    "sha256": "6ec088e7f745754b4413f44ea70c9545715cae75cbc591406b2a067bb62d64c1",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-altieri.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "63db1d85cd3bc7a546b8d10a400a019b004d709582b4bdd920bce7d9756fa411",
+    "sha256": "0c7ea8d3b5a8142216522f7c5d8db216faa53ffe5f10926cc42659c7ac797c26",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/palacio-de-los-ninos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b922a858915d98ad1eac76f2a6460734428ec55917addd1e16a3cec6d8e8b87a",
+    "sha256": "32eee61051b58317332bbada1e4e240abeec203cefa0fadb35d6991183218ec3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mari-mada.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "48721769fa8ce3e372d23668489999e3ae60240b539c03299d85d815c97dfe74",
+    "sha256": "51414422a8935a4ba18e946d9bb193e00ee3d91c86c6096a1c492f4e6dd0a7b5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Helados_Zero.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "761e12c14ba9f61a70928d5bc688880856a386dc2ae10f443671c87d256cffcf",
+    "sha256": "a80286d7398141eb579e89224a6558ac08de3ed30e7c813252e75534f4f890be",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Chelato.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "48cf1bb01a2891ad230664a1fb458a00b1dc10fb42f34cddbeffb3d0af9ebff8",
+    "sha256": "c8e9e4599eafcb2617df3f384b9d907085528ab4b59cbf46031d532c8f08a167",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/deseo-s.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "4e006c10773c8ccedece2dff208ddf2cc99793eafca4c7b15803b5487e0fc472",
+    "sha256": "f9e0b8dc07118c91062c9de6f401ab7872b7c5fc500630ce8566bb571fb0dc2f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-san---gar.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9d8a361dbf022a55da86d72189e1120202a27d531dfb5e998d8db16e8164d8d0",
+    "sha256": "04f6045823883aa2b6fd39140de24da3b6ffbc6f4a80ad3e20ae3ecc76c5d2a8",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/helados-el-faro.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "036fc68dbfdc7bae09d40ddeea1603bad4d1b031a861548af75a0b0ac7d80f34",
+    "sha256": "f230a154774e899820a09e82d7109132f4910c2738e64ac6b5a818e68f80e082",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amelie-bar-y-bistro.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "be8d0e84fa1237884d21c870f486d8ad518b4803a11500f10f2e8508ee3cf210",
+    "sha256": "de9023a28160a4ca18a0ab283f9659bf3641d146d10fe276cc04be9f44b73cf7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/el-colmenar.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "f41e5f1ed76cbc9663cbafd90caad4bca0bcb3020ae68194057ca632f1876245",
+    "sha256": "a672984bf8b1419eddbe92419a5f51cc8f6f85fa445f30db5ad28cd27b221a54",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Sodimac-Oportunidades-Exclusivas.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b0426cee15ee365c45a8bf051b3d07dc09254d97b1e577ccc42364d1763930fb",
+    "sha256": "9db7b15f7310595f78bb4848bebba24b961c51a87f8b09b4ae8df85456aa3440",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/laskina-store.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5066541780d7e01fc2af68a59f5e5cd0fb3ddd6ad3288cbf84d5f34a0ebff666",
+    "sha256": "d04b85ba80fe18cebece78e560b52002f339f2d4b73e4845bfc85b68addb5b44",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac-miercoles-de-descuentos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "670a20ce319ec026e3d20222c302796d3f7f3384511cfca495f6ecd73eb470ca",
+    "sha256": "c94280c89b26a868b7a4a796610d67cf52efb7454ec379dcc250eeecda3ffb70",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Isadora_libros.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "36d84dfad9281de7afb5d805cb5570c19e7443d46b7df17a38fa21ed7398c4a9",
+    "sha256": "7db761f958a2e458fcac1fb921a8ee1b43c56afb1c71f5cc4cae7ab36f04f66b",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Cande_Kids.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "034a8fcda3eeb8b4936b45edc2e8db59cc26b6af73f7f1c9858d145699c3feda",
+    "sha256": "ef62286b8f5422286da9ee02032e981a9f7c728a3b79164f7a42e1b80a1c53bd",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/RC_Suenos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "0dd9b79aebd9973305de5c2fe5848694c7a7fc376849499a8eb5da36b77edf9c",
+    "sha256": "a00fb1e87809bd42b385f3e5f3cf21388ed3b610aedc70be6a6f8f366dfbdfb2",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/adeleste.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "a13ff1a77ed37eadc99ec17c19538a0991f4b9a86a035d50e297c2217835a569",
+    "sha256": "7f24be8d46342c460c13666bd0358c9a03353126d47832b00beb708c9e39a2ca",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia-Valentina.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "328c6f6390581bb7a17a0f54e59ffbf22c5885f886efc585e4f5d9fb8df54cd0",
+    "sha256": "edff558a71d304f48d72e30d4f4d3b6cc696abf5868ccce108ab15bdd0840c53",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/tijuana.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "dfacb255ff10e78725662962e30c26237acb1c0f9b21c1f8c6c269b82b4b150d",
+    "sha256": "88dc9fde9f84928123d9a0e4845691e8e04479d6d11a90954c519f1fa191045f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/stylo-zona.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "55b2659f1655287699dd1167969875756c12c9c7e47c4cb17d2b6d80b1a6b46b",
+    "sha256": "c4c56db4e8ab45000c7e32cbcc84192434db8e08c2ab8f55657bc5d618564e81",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/planeta-kids.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "51c9a89ea297e779f26ef942d7b5c48937ed40e3e767ef26520d67970bdc0fe4",
+    "sha256": "72c9f677850d5f804a427534cfce778933c4b848bf3de109108be8d062dc406e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/club-hebraica-macabi.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "099f4f89eba224a7e22ba43008d444c48a5fd436a6c41284b508b3a1f3abda92",
+    "sha256": "de306b84c504a9e9b2948c8005dd5dcdf1e6d1ee4281f6f46b1c5aa75052ead5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/auge-deportes.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "e0e1090a763c65a829bb09a16de39125974568465d87861955cf8ed0bcce8a04",
+    "sha256": "afd60d4343ce6139a0d40eee7330e472e4d71f9928818b42f0ff4d369e402958",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bauta.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "4bd50c12a3437b9ce014fd3567c536fa93adc666a84af85c23e01eedfb490fec",
+    "sha256": "64c98193c8104c8be47d72897bd5bf7ed6d50cc0f51a835eeec8ca8fcf4cacfc",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/nagasaki.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "f0c44d44570d62174f5c38b80bfe31d454ba6615f04c5827e0573ae0a775c1dd",
+    "sha256": "937dc84d210e8a3d5f2d742f10b13a09ce54e6b6fc85e718f604b215f07abe53",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "b5d1a74b2b8d5edd84ea2e8aa1a01600a9aee330771d315d75bb85e210274452",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "efed91919beacf88e6d4b7a1113ca2a541a8897b19bfb7d17bdfed2207ec065d",
+    "sha256": "2a2cec5de8e22a5bbfb2069428eaeb65050771992168e30d3988da74360e2ec2",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/consolid.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "c1864ea3df95c7e95a88ec94123278c2f5992e1694499d0b71cfebc3a7fcd0b6",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/JP_WELLNESS.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ef5fad5d59414f20b19da2c48479d3a3218ea00c9aa9a529b5404f5dbb3b0ae7",
+    "sha256": "f7440a2794a8a1d9e7999f51adcaa16bc85aaafdb3a7ce7971dd7bdb1d7d56d7",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/grido.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1d0957e3ddbc03e9bd63689271f689b06ce357ee23e59b009370945df2c0b3bc",
+    "sha256": "a00b0e1d097409c0fa6f8154b690f0001f456c60bd879e26962bcca007521703",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/stop-n-dance.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f72c8d830465a7a2903bff9fee60f11ea92982c1ced832ec0d4e87f9353ee321",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Rumba.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "55a01ae29ce312d2dc6de13fb7209309a5319aa0c36d95a85a2e5d565e6d1f3b",
+    "sha256": "d834f71ee41266725d46baea0e00f41c400d9bdb10a106f1b7e47ca958679774",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/eko-varmo.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7061f1703be50d69a8ff5c2d351ce4253504f528bd344b2dbad8d36f5aaab36e",
+    "sha256": "8e9452b9d638c1d931001f1a1e444234db193658a726a84dbbe9896ac185e79d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/las-margaritas.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "cfdb03032a6c863d905a790eb5ce888bba4171b2ab3ab1fd92afd29e56f90c79",
+    "sha256": "725d91967139666fc1af39a16ad5b92b316d7cce81923425508e03716f27000e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/simple-y-natural.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ba69d80653bc75eb2e3a5e02ccaf28d6acf676480bbd6077ad3890387eabe944",
+    "sha256": "90ce515845cef5eb52dd4e503800adce162e5dd90052d7c6db087ad46f4d0862",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/licoreria-alvear.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1eb9dfaedc1651d32daf28a884e7639e520787e107d8d217f1103addc74cdf18",
+    "sha256": "4dfd6c8c9cde1a4ac3390f4cbca7cb7b486eead1fd424c37af8c990d34b4e335",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/soriano-autocentro.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "78cb41cbfca8e03f473e6c13cd5b974f868811709d145a4f3c4f3270bb696c8d",
+    "sha256": "4fadbfaee8107edb938b722728373408bd8543299939c2ce7ced1f9b4fb4174f",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/sitio-del-lector.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "369c55ebfe1f920a20405b2a7ba6aafb0f1c0c6cfe7029df06dd7d57c0bdce20",
+    "sha256": "14cf5cb1fcb59c15430ab4bfdbc2b33b27b46026add545dd19c6f97116402f16",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Barraca_Viena.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "cbf6c44b953b608a7b205928ef42f0d03125eff59b5af8015c8fd47aaba6daf7",
+    "sha256": "241312aa08cf0809eed4e15dcdaa2281412b6c2b9e39fb830412283e5bcf31c5",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bucare-Cafe.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "251110e9778b930b5c94f1333643f287a83207a6c8c661c8284b4b3944743dfc",
+    "sha256": "808c49c9f28b6688d97f84ed9fbd260d83de70f11e2b9704cd4f7f695fbbab97",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/perfumeria-saul.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "658432f894efd4ddff38e4410b510239856058379c59bc038b3ba1c58ec81665",
+    "sha256": "9e6b801e95c8a1acaa19a435163727b96e9b830a3c36b2fd6b44ca19b2933ae1",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/After_Padel.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "5693fe1818be10185a06a01d2cae09f36487088b58e4aeb0b07186b7931793b8",
+    "sha256": "7930e6ccdddb51a247c5595eb2b3c52ec02930573378cb6eec65c402f90fb251",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Tienda_de_Carnes_y_Despensa.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "33cc365fd41a9ef4f74b0975c50d25ca2a2c1e3737687b1dcb6a14318c8a1afe",
+    "sha256": "91bbb974da413e69f4551e995c31b9d70e47696317a916075adc5d83d67ccb05",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Inout.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7ba082484848bf5bd4d0738a4a04f86bcbde4e79db2b8c791c508810bcd8ccb4",
+    "sha256": "a9c65ec7ebca6c183894e795dc0ce940b734d3e739b0301ab03f696bfdb42369",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/multiplast.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b80b6c7fff3cbd54d70f7f14687916dbd3f815c23fe6a808184d15f9a21d0e71",
+    "sha256": "eb8107549875aa7b7754021a8a9830b1035055d6e40e00e073617a0a43759f38",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/il-capo-de-la-pizza.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "52575337f419a23602e42354fe02457d70a030a251988041102a47278b9fb05a",
+    "sha256": "4726ab37aa08617a1073628b9677e5e8eff819c34c77e966b522b6bc34f35f02",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-Abono.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "80104e59407671480e5ac9607c665e97565f6251e7751dc374383ff846da97ea",
+    "sha256": "3f85bd7ee5bce465bb46674ca82488e4cb75a74a537277a593b09716709059f3",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/jardin.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "b9cc0164921db0c85a5e5de2ffc472f4be093c8abd4782e3e92085d8b307e97f",
+    "sha256": "aea5341d88c35d713b776f6801cb5aa882621b3bf61ab50c2bd0444d75145d32",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-grandvision.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "ffdd81eead2baef52524f4567675bac87b06a534c46d306e91eab43e23720865",
+    "sha256": "1205cff52e206992b66db886c1aed4c0ad7524a38ad52020415f8df6f974e0e0",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Abtour_Turismo_Internacional.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "38fe6247397380adbde1ed43422aba5537cf5cb4a7f8002bcc031b262f314b61",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "e22061c49596e1e9e6f6dc533594b11c6f3e767899b6fa8fbf5ed9f79f9d991b",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour-turismo-nacional.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "86264e0db78db0d04db0420df1ce716f93e94310e923ca38111ba0d606964217",
+    "sha256": "bfc06de63469c87e50e2988e99f2135e42ace5e7798f1b1abadf56c835c31b20",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/midland-hotel.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "930dd735921b0a07982088c8867b94897126dae2782b6fe8cb0eb8bbf4733af7",
+    "sha256": "bcdc4dd819b8f59e055485733146bc1e5bfb8b1b7c3daef5aad0cf6adef5048d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/AquaPark.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "7b7d3848ee9b7304d5a708375c7e0c7790441532780f0e131e5ebcc3d8d9acdf",
+    "sha256": "eb5a08e622ce3ab99a377e29a9cb302005ce4f8aa697feaf247d9ca761a4967e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/papeleria-kiwi.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "d43f19a27a2f58b83ffc93bd6515c58744acd9a8c48edb8aa64a1bd94d5a6086",
+    "sha256": "bc47573216f7f52a9f156cb3d5125abe0908c8e025fe375484a7c0d79d651385",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/libros-dela-arena-malvin.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "533f7635e7ae9880d0d03683c815a5d7a5e8f9c5e1a02e23706a9769cddba72d",
+    "sha256": "7332e3d0d8809e9f5a2a6ce5a5d7d564094da89c13994ef3fc2acf8eb1723135",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/el-yelmo-de-mambrino.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "dc6efeaa771fe9a4535a0e65e1b6cc513a9b9a9c4e966f17292101d7e4a0e12a",
+    "sha256": "935333bcf6d343d43a6abe1f9eb9edf38c4752c0c040855f3ebcfaa5207ef716",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/office-center.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "1596e9474d27a74f221142ac3383844382a1da33d66f476ba25d00b9e84467ea",
+    "sha256": "04d81f923129666857225210f29180d235206a7233ede2e7b3ecdf341dc8e787",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/atrix.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "dfcbbc06d5887829b675eb1e4d4ed016a85ff13091715ada216a7ac5b5b1ff0c",
+    "sha256": "3e85772e74b231d1351900172c34c953477c263e28afd6748c5065dfb8ee601d",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Mundo-Didactico.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "9000bca58e1ca6645464ae91daa6ca757bcac825a2f13be7bb978e2f1cef37c3",
+    "sha256": "46ac13d76a223479fb58fb0b2007a5d3e409ce8de9a2400f83205fe41cc40ce4",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-butaca.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "2a2cfa06bf0619fc5db1b2ce43e7580a353692d4b87c26f3e7b6a493fe2262aa",
+    "sha256": "f4bdc31f36976eef0b4fb7b2d4326fcf4ec544e8d2d620e4ccaac5b09aaba7ed",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-cuota-y-butaca.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "0c3eb54a472e4981933d0a70c9aa4ae7642831e30d63485d049692e083561d48",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-cuota.html": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "4abadd88b29d5315fa93c4309a4e5940df4c28b1d7a6b34e3dd57c87f8821117",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/city-fitness.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "69a85476e657440575bcce4af6720b032d8ecc2460387d341a404198ad4be091",
+    "sha256": "982a96398a3c86cb01bacf49f7abb66fa84993bb35b2716daf2f6c2af62a708e",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/dollar-car-rental.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "cdd3ef837d2b5879b6ce8d6aa5e5cd6d00148dd0ce5bafbc5937f615a2ba883e",
+    "sha256": "a5ef7dc92ad0f5c4cee54e35089af06a62029617382a3266cece7e456533fa08",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/acesur1.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "942cf3ddb659fa3efb4b9ecf70b99009a989318edb957f64d8113890e373d978",
+    "sha256": "ed865068cd10bf9aec279eae743d678980bcd48ced688ad21d76cbd0e36b1d89",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/dourado-motors.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "69de2f4cb70cadd38387688bbe8395fbe4406a1b1075109220ebc545816cba56",
+    "sha256": "29374915d424ee8b97924d8d17c3bacb083c1f47f389195aec4b920e8d782cb8",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/cams.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "cb7fcc6e9683ffac4de434fd1a24d79d73681c0522b06411c79eff1ebad0374c",
+    "sha256": "48b9044e109a753f50e00e9ff3e68a4b35dc80cbde8419920e03325cf9a8aefd",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   },
   "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/alianza-cultural-Uruguay-EstadosUnidos.html": {
     "status": 200,
     "httpStatus": 200,
-    "sha256": "2b62e49e0332467f209b0ff56419f164e4041a31bfb339bac673e6d5ccd4b827",
+    "sha256": "f6bf48374f33d2ce2c35a0edfca15fc45c172dbe73603ad32d01dba4121e0cec",
     "bytes": 18400,
     "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T14:25:34.318Z"
-  },
-  "https://beneficios.brou.com.uy/gastronomia/restaurante-arcadia": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "bcef6a98cfc9d2dceeb3a900025729fab932887729cda68c742d32ff859021fe",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/gastronomia/confitera-liondor": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "d9abfd8b8e7341396c10d2a9ada3b29cf695dc0397109c95ba2a1f5a0dfd374a",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/gastronomia/restaurante-la-navicella--hotel-del-lago": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "d34f1b7a91b87577a4fb9dc4a3cb885b28e60ae6dd5d5e619fbb3711f3b015d7",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/gastronomia/beneficios-para-vos-con-brou-a-mano-comercios": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "5cb5f2548fe02a73d77a0d0952d8babe2bc16579d4f9d1d4d83778bd710f98b0",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/gastronomia/confiteria_carrera_2026": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "6b7715bd1b48cd7edb59c3b9a9b46d05bf512ce6b989dda7f6dae32ce6e934f0",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/gastronomia/Recompensa-Supermercados": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "46e28bff0288b400ae955642f70bafa1f202c6232007b24c68445ef2050bd310",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/cuatroases": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "dd6608e4a6ff44996058e7dd3d73db802ee34e7c9a16c1d08e311a612f53d3db",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/Beneficios-LaDolfina": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "ea3591afdb18f42389a57d3e8188f523405af6da3f2cc42ed1b832c82ce04a80",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/toto": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "d998f836ff72581f7cfc3f4cd5c26a9b296fb292d3285361034a74f5a2baefd4",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/skechers": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "37832134854686ce87315cf62121444a28ccb223c0d405a3e94660690bcbe79f",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/pappolino": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "82eaa92d78546f3e4f2fa838ace5c339cec7df5c62dd2d221491eff8ac37ca75",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/guapa": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "6072f8801ce93deab71dc87b2688fd169977af706761aaa8b96e2aac524105a0",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/paprika": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "430d084b4e097507cf894e69e09a1d7ffbb91c3f37a617532bbf4ee115db9812",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/beneficios-para-vos-con-brou-a-mano-comercios": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "46d6170b5b3f08a1f4a3f604bd01cf024e7a7e70c44f3036b762d6cc50320b0f",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/Moda_Joyeros_GR": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "d7771f4ec1cbead2574911831bb9e16ebf1a145d6788c3d9860d50dbb9c32cba",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/moda/lorenza-indumentaria-femenina": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "08b45e27b1225c8f2a613ac320dfba5bbdc99caf5dc585b0204d919d2928ee7b",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/banco_hipotecario_del_uruguay": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "beaa46ab65976117c14587678509dba8ae4f606ffedea232d447b712d9bef3db",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/novatex": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f9f56e9d236b1289e1627c90450d159cd5950dd364c73995d2fce23b29db6508",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/beneficios-en-cifer": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "c844ea9542bce42e2bf0e68602b49a737c75bc4ee25afecae3715b2e6578f3d4",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/BarracaMalvin_Hogar": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "1de8293d8ee809226646d3ef720c5668031265133a6f849a36607524b7dc1dc1",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/beneficios-aguerrebere": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "ea3556a6d59146f37e1e08ca063ea4474544d3070f794e1d504657b7049c6849",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/beneficios-para-vos-con-brou-a-mano-comercios": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "dcb79a6fd872d9e6e793d86ac211ceaa1c2060549a64df516e91179963d61172",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/espacio-mascota": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "a0ca0d33c5b3f6c821d3db4b77dbb3b011a8167fcd1b015d7499252093d484b9",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/micro-macro": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "127fa73eab7a3dbf6262606f7651989776b1082d5ff81da72eda3a5775fb047e",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/macro-mercado": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f123fa3d9cdb4b0267d8d5c2ac3ba2be69d794d69ad4e62fe18b0a2ed535a324",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/Recompensa-Supermercados": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "7652f9db1063d4e4d7905c201197b21a77ddd283a7de87d4c92f6c5fc4699fc7",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/tienda-inglesa": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "24dc632343d65e23929261547b54ad4f68e85cfab0d59dbc1ebabfddfe380d44",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/red-expres": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "590c106723c9d0d022f034a835d5ba1866c7896ec67ff28be0fa591ad0fea37d",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/hogar/carlos-gutierrez": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f0effd65076dfb8055998a9caaf305375009d3d41e9f53941e2bc9a0451995e5",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/tecnologia/iplace": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "ee6de25d9943cf4c4c3f5253850d74f781356f3571437cb01f75a1f7235d2a06",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/tecnologia/Superventas_Tecnologia": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "a6e832fcf72f3c358c2853715d6922d163df390eeebc861aab03b5707bb6fc6e",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/BeneficioAUF": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "55b4e008ad6b9eda91ad0aa8a08aefd9a76b0b7c0e07e2bf3b0e63acfcd8c59e",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/country-atlantida": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f2acf2836c6ffb420510c822997119974a1cb83470f0a27c215af1b793d56c3a",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/beneficios-fubb2026": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f12be1c4535eb320bb8e87b9433fe28c976019d8c417ce1228dc9a10d3c454a8",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/liga-soriano": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "e5241c229e8d8d2c0757c520832f43822da5778a2c15f0a847a03244c4b48292",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/MIBROUANTEL": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "455ac9a28f36a01d034d273368eca387b50a03ef44b3fece37c09e7b65da1edd",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/Cine_sarandi_Salto": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "cfe8d3cbef7466926ee0cb62380e4cbaa238465590e5fc443b9601d61cfef00c",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/CineDore_Entretenimiento": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "650e116421bc042dd0150e26b450db0b62937d666c139d5d5b883f09e362d160",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/cine-uama-carmelo": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "07641286629bf0dc960f7f3c58386087f0b949d51390bd85e2373ab3c0d5599a",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/cine-teatro-atenas-de-young": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "0273a021267282fb82eb4eb32ef0e1f44797e4e8ab84509ec076757d12c6831a",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/micromentor_pymes": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "c3b4020e9b325f4d4192ea29917d98c95749efee6a20669e7139652f4a6267d4",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/CineChaplin_Entretenimiento": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "489050805d126bba9bf9eb164cc14150c58118e8c807c5181632e3f8c4675ca0",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/CineColonia_Entrenimiento": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "ca53688e17a1a39205e17858a7c6f0b308f5fdc97c25f1aceef24b03c7a34922",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/ElGalpon_Entretenimiento": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "fd998d06f7a8194ea39bef02cbe3837224edb5f5d0c4d9afbc3018890c327e28",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/preventa-exclusiva--final-conmebol-libertadores-2026": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "e8556ecc9b48249dffa48f6a06551048fbf765da1f0b5b1814452d22ba69cee6",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/CineTeatroMunicipal_Entretenimiento": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "8bfde002b9e0b962bd35c93bd8f3c1a6d650669a67432227d4f40ca0769c87d9",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/multipagos_ebrou": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f933eae91c3d38d6b0bcd379ab6b76f751b003cb1d3e9dc6bf0cade3c91903e0",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/espectaculos/CineMercedes_Espectaculos": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "96838212868a4357db81fe147014fb7e0a80ad40faac7f52640f0c343c537c54",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/ensenanza/fundacion-de-cultura-universitaria": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "9aaebf9fdb1100fdef47a387b70216c31beeccb67b21da92a3a05e962aef6dcc",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/ensenanza/Executive": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "f758b59302cbab617d7edf1191e23dcd761ae2a6dc200410116c89548fe7aa11",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
-  },
-  "https://beneficios.brou.com.uy/ensenanza/ViniciusDeMoraes": {
-    "status": 200,
-    "httpStatus": 200,
-    "sha256": "3fbc9138d3a0d9889e66e0158280429d5b0721e54ec99fc750a246e1f1c51000",
-    "bytes": 18400,
-    "latencyMs": 95,
-    "checkedAtISO": "2026-10-29T15:17:53.837Z"
+    "checkedAtISO": "2026-10-29T16:27:39.398Z"
   }
 }
