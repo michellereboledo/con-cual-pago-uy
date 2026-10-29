@@ -1,0 +1,12 @@
+---
+description: Andrej Karpathy Coding Guidelines + Ponytail Smallest Complete Change + PRISMA UY Motion & Zero-Fake Constraints
+globs: ["src/**/*", "scripts/**/*"]
+alwaysApply: true
+---
+
+# Karpathy & PRISMA UY Engineering Rules
+
+1. **Think Before Coding:** Never invent, guess, or extrapolate a bank discount percentage, card tier, or validity day. Every rule in `src/data/merchantsData.ts` must carry a verified `sourceUrl`, `evidenceSnippet`, and `legalTextHash`.
+2. **Simplicity First:** Keep components focused and deterministic. Avoid speculative abstractions.
+3. **Surgical Changes:** Modify only the target lines required. Never use `transition-all` or `transition: all`; specify exact properties (`transform`, `opacity`, `background-color`, `border-color`, `color`, `width`).
+4. **Goal-Driven Execution:** Verify every change with `node scripts/build-preview.cjs` and `node scripts/ponytail-audit.cjs`.

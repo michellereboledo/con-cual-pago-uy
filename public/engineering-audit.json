@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-10-29T15:39:58.794Z",
+  "totalChecks": 28,
+  "passedChecks": 28,
+  "failedChecks": 0,
+  "repositoriesApplied": [
+    "multica-ai/andrej-karpathy-skills",
+    "Graphify-Labs/graphify",
+    "addyosmani/agent-skills",
+    "pbakaus/impeccable",
+    "Jakubantalik/transitions.dev",
+    "jakubkrehel/make-interfaces-feel-better",
+    "greensock/gsap",
+    "dietrichgebert/ponytail"
+  ],
+  "graphMetrics": {
+    "totalFiles": 34,
+    "totalNodes": 515,
+    "totalEdges": 1047,
+    "extractedEdges": 880
+  },
+  "discountAuditSummary": {
+    "verifiedRules": 2323
+  },
+  "shortcuts": [],
+  "checks": [
+    {
+      "category": "make-interfaces-feel-better",
+      "name": "Zero transition-all / transition: all in src/",
+      "passed": true,
+      "detail": "0 violations across 23 source files"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: --duration-fast",
+      "passed": true,
+      "detail": "transitions.dev duration token"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: --ease-smooth-out",
+      "passed": true,
+      "detail": "transitions.dev ease-out token"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: --ease-icon-swap",
+      "passed": true,
+      "detail": "transitions.dev icon-swap curve"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: .t-icon-swap",
+      "passed": true,
+      "detail": "transitions.dev dual-slot icon swap"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: .t-press",
+      "passed": true,
+      "detail": "make-interfaces-feel-better tactile active scale"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: .hit-target-44",
+      "passed": true,
+      "detail": "make-interfaces-feel-better 44x44px hit target"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: tabular-nums",
+      "passed": true,
+      "detail": "make-interfaces-feel-better tabular numerals"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: text-wrap: balance",
+      "passed": true,
+      "detail": "make-interfaces-feel-better heading wrap"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: text-wrap: pretty",
+      "passed": true,
+      "detail": "make-interfaces-feel-better body wrap"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: -webkit-font-smoothing: antialiased",
+      "passed": true,
+      "detail": "make-interfaces-feel-better font smoothing"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: @media (hover: hover) and (pointer: fine)",
+      "passed": true,
+      "detail": "make-interfaces-feel-better hover media guard"
+    },
+    {
+      "category": "transitions.dev + feel-better",
+      "name": "CSS Token/Rule: @media (prefers-reduced-motion: reduce)",
+      "passed": true,
+      "detail": "transitions.dev reduced-motion guard"
+    },
+    {
+      "category": "greensock/gsap",
+      "name": "GSAP Choreography Hook (useGsapChoreography.ts)",
+      "passed": true,
+      "detail": "useAnimatedUYU + useGsapCardFan + gsap.matchMedia() active"
+    },
+    {
+      "category": "greensock/gsap",
+      "name": "GSAP 3.12.5 Bundled in Single-File Production Output",
+      "passed": true,
+      "detail": "index.html size 8080.5 KB"
+    },
+    {
+      "category": "Graphify-Labs/graphify",
+      "name": "Deterministic AST Knowledge Graph (graphify-out/graph.json + GRAPH_REPORT.md)",
+      "passed": true,
+      "detail": "515 nodes · 1047 edges (880 EXTRACTED across 34 files)"
+    },
+    {
+      "category": "multica-ai/andrej-karpathy-skills",
+      "name": "Document present: CLAUDE.md",
+      "passed": true,
+      "detail": "CLAUDE.md verified"
+    },
+    {
+      "category": "multica-ai/andrej-karpathy-skills",
+      "name": "Document present: .cursor/rules/karpathy-guidelines.mdc",
+      "passed": true,
+      "detail": ".cursor/rules/karpathy-guidelines.mdc verified"
+    },
+    {
+      "category": "addyosmani/agent-skills",
+      "name": "Document present: AGENTS.md",
+      "passed": true,
+      "detail": "AGENTS.md verified"
+    },
+    {
+      "category": "addyosmani/agent-skills",
+      "name": "Document present: SPEC.md",
+      "passed": true,
+      "detail": "SPEC.md verified"
+    },
+    {
+      "category": "addyosmani/agent-skills",
+      "name": "Document present: CONSTRAINTS.md",
+      "passed": true,
+      "detail": "CONSTRAINTS.md verified"
+    },
+    {
+      "category": "pbakaus/impeccable",
+      "name": "Document present: PRODUCT.md",
+      "passed": true,
+      "detail": "PRODUCT.md verified"
+    },
+    {
+      "category": "pbakaus/impeccable",
+      "name": "Document present: DESIGN.md",
+      "passed": true,
+      "detail": "DESIGN.md verified"
+    },
+    {
+      "category": "Zero-Fake Engine",
+      "name": "100% Verified Bank Discounts (public/discount-audit.json)",
+      "passed": true,
+      "detail": "2323/2323 rules verified across 1100 merchants"
+    },
+    {
+      "category": "Legal & Privacy (UY)",
+      "name": "Terms of Service, Ley 18.331 Privacy & Right to Erasure (LegalSheet.tsx)",
+      "passed": true,
+      "detail": "Ley 18.331 (URCDP) + Ley 17.250 + 1-tap local data erasure verified"
+    },
+    {
+      "category": "Android Security & UX",
+      "name": "Hardened WebView, SSRF Bank Allowlist, External Intent Routing & Back Stack Bridge",
+      "passed": true,
+      "detail": "HTTPS-only allowlist + external browser Intent + modal Back button bridge active"
+    },
+    {
+      "category": "Zero-Cost Automation ($0)",
+      "name": "Smart Quota Guard (4.5s Rate Limit, Max 40 Calls, Hash Cache) + OTA Sync + GitHub Actions Cron",
+      "passed": true,
+      "detail": ".env gitignored + llm-extraction-cache.json + ccp_live_catalog_v1 OTA + 07:00 UTC Cron verified"
+    },
+    {
+      "category": "dietrichgebert/ponytail",
+      "name": "Technical Debt Ledger (`// shortcut:` markers)",
+      "passed": true,
+      "detail": "0 active shortcut markers tracked"
+    }
+  ]
+}

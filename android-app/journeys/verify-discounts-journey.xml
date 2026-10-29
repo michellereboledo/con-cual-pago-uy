@@ -1,0 +1,28 @@
+<journey name="PRISMA UY — Verificación en Vivo de Descuentos Bancarios y Billetera">
+  <description>
+    Valida en Android (Pixel 8 / Android 14) la interfaz móvil PRISMA UY, el abanico 3D de tarjetas uruguayas, la verificación bancaria en vivo SHA-256 (HTTP 200) al abrir un comercio y los escalafones completos de tarjetas (Débito, Clásica, Gold, Platinum, Black, Personal Bank / Select).
+  </description>
+  <actions>
+    <action>
+      Verify that the app is on the Home screen showing "¿Con Cuál Pago? UY", the 7-day selector, the 3D ISO-7810 card fan ("Mis Tarjetas"), and the live calculator ("¿Cuánto vas a gastar?")
+    </action>
+    <action>
+      Tap the first merchant perforated pass ("Tienda Inglesa")
+    </action>
+    <action>
+      Verify that the Terminal de Caja POS modal opens and displays the green badge "✓ VERIFICADO EN VIVO · HTTP 200 · SHA-256"
+    </action>
+    <action>
+      Tap the close button on the Terminal de Caja modal
+    </action>
+    <action>
+      Tap the "Tarjetas" button in the top bar
+    </action>
+    <action>
+      Verify that the wallet configuration sheet displays the full Uruguayan bank card tiers (Débito, Crédito Volar, Gold, Platinum, Black / Infinite, Personal Bank / Select)
+    </action>
+    <action>
+      Tap the theme toggle button ("◐") and verify that Modo Cuarzo (Light Mode) renders with high contrast readability
+    </action>
+  </actions>
+</journey>

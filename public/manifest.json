@@ -1,0 +1,21 @@
+{
+  "short_name": "¿Con Cuál Pago?",
+  "name": "¿Con Cuál Pago? — PrecioReal UY",
+  "description": "Buscador instantáneo de descuentos bancarios y calculadora de topes en Uruguay.",
+  "lang": "es-UY",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "categories": ["finance", "shopping"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}

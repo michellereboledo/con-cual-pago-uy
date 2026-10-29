@@ -1,0 +1,68 @@
+name: Daily Bank Discounts Deep Sync (Zero-Cost OTA)
+
+on:
+  schedule:
+    # Todos los días a las 07:00 UTC (04:00 AM Hora de Uruguay - UYT)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      max_llm_calls:
+        description: 'Tope máximo de llamadas quirúrgicas a Gemini Free Tier en esta corrida'
+        required: false
+        default: '40'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-bank-sync-uy
+  cancel-in-progress: false
+
+jobs:
+  deep-scrape-and-sync:
+    name: Deep Scrape Itaú, BBVA, Santander, Scotiabank, BROU & OCA
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 1. Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 2. Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 3. Install Dependencies & Playwright Chromium
+        run: |
+          npm ci || npm install
+          npx playwright install --with-deps chromium
+
+      - name: 4. Run Autonomous Deep Scraper with Smart Quota Guard ($0 Cost)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: 'gemini-2.5-flash'
+          MAX_LLM_CALLS_PER_RUN: ${{ github.event.inputs.max_llm_calls || '40' }}
+          MIN_LLM_DELAY_MS: '4500'
+        run: |
+          node --experimental-websocket scripts/deep-scraper/deep-crawler-engine.cjs --sync-app
+
+      - name: 5. Verify Zero-Fake Gate & Engineering Constraints
+        run: |
+          node scripts/ponytail-audit.cjs
+
+      - name: 6. Auto-Commit & Push Updated Catalog for OTA Sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/deep-scrape-db.json public/discount-audit.json public/llm-extraction-cache.json public/live-bank-hashes.json src/data/merchantsData.ts
+          if git diff --staged --quiet; then
+            echo "No hubo cambios en los catálogos bancarios hoy."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "chore(catalog): auto-sync multi-bank discounts (${TIMESTAMP}) [skip ci]"
+            git push
+          fi
