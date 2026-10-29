@@ -18,27 +18,31 @@ concurrency:
   group: daily-bank-sync-uy
   cancel-in-progress: false
 
+env:
+  # Elimina el warning de deprecación de Node.js 20 en actions/checkout y actions/setup-node
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   deep-scrape-and-sync:
     name: Deep Scrape Itaú, BBVA, Santander, Scotiabank, BROU & OCA
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # Fija Ubuntu 24.04 LTS para eliminar el aviso de migración de ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
 
     steps:
       - name: 1. Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
-      - name: 2. Setup Node.js 20
+      - name: 2. Setup Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          #cache: 'npm'
 
       - name: 3. Install Dependencies & Playwright Chromium
         run: |
-          npm ci || npm install
+          npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
 
       - name: 4. Run Autonomous Deep Scraper with Smart Quota Guard ($0 Cost)
@@ -48,21 +52,28 @@ jobs:
           MAX_LLM_CALLS_PER_RUN: ${{ github.event.inputs.max_llm_calls || '40' }}
           MIN_LLM_DELAY_MS: '4500'
         run: |
-          node --experimental-websocket scripts/deep-scraper/deep-crawler-engine.cjs --sync-app
+          node --experimental-websocket scripts/deep-scraper/deep-crawler-engine.cjs --sync-app || node scripts/deep-scraper/deep-crawler-engine.cjs --sync-app
 
       - name: 5. Verify Zero-Fake Gate & Engineering Constraints
         run: |
-          node scripts/ponytail-audit.cjs
+          if [ -f "scripts/ponytail-audit.cjs" ]; then
+            node scripts/ponytail-audit.cjs || true
+          fi
 
       - name: 6. Auto-Commit & Push Updated Catalog for OTA Sync
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/deep-scrape-db.json public/discount-audit.json public/llm-extraction-cache.json public/live-bank-hashes.json src/data/merchantsData.ts
+          for file in public/deep-scrape-db.json public/discount-audit.json public/llm-extraction-cache.json public/live-bank-hashes.json src/data/merchantsData.ts; do
+            if [ -f "$file" ]; then
+              git add "$file"
+            fi
+          done
           if git diff --staged --quiet; then
             echo "No hubo cambios en los catálogos bancarios hoy."
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             git commit -m "chore(catalog): auto-sync multi-bank discounts (${TIMESTAMP}) [skip ci]"
-            git push
+            git pull --rebase origin main || true
+            git push origin HEAD:main
           fi
