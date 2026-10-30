@@ -3,7 +3,7 @@ import { Merchant } from '../types/discount';
 // GENERADO por scripts/deep-scraper/deep-crawler-engine.cjs — NO EDITAR A MANO.
 // Cada regla incluye 'evidence' (texto de la fuente oficial) y 'verifiedAtISO'.
 export const DATA_LAST_UPDATED = '2026-10-30';
-export const DATA_VERIFIED_AT = '2026-10-30T11:43:55.079Z';
+export const DATA_VERIFIED_AT = '2026-10-30T13:46:15.676Z';
 
 export const MERCHANTS_DATA: Merchant[] = [
   {
@@ -384,7 +384,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Kinko): \"15% de ahorro Todos los días con Tarjetas de Crédito Visa Infinite, Visa Platinum, American Express Platinum y Gold y Tarjetas de Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -411,7 +411,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Kinko): \"10% de ahorro de lunes a miércoles con Tarjas de Crédito y Tarjetas de Débito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -876,7 +876,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Pigalle): \"20% de ahorro con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -955,7 +955,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Tienda Farma): \"20% de ahorro Con todas las tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -1291,7 +1291,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"La Perdiz\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -1353,7 +1353,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"La Perdiz\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -1383,7 +1383,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"La Perdiz\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       },
       {
@@ -1567,7 +1567,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Manzanar\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -1596,7 +1596,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Manzanar\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -1626,7 +1626,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Manzanar\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -1672,7 +1672,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Tandory\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -1701,7 +1701,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Tandory\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -1731,7 +1731,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Tandory\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -1777,7 +1777,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Café Misterio\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -1806,7 +1806,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Café Misterio\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -1836,7 +1836,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Café Misterio\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -1882,7 +1882,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Fabric Sushi Mvd\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -1911,7 +1911,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Fabric Sushi Mvd\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -1941,7 +1941,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Fabric Sushi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -1988,7 +1988,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Sushi Club\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -2018,7 +2018,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Sushi Club\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -2049,7 +2049,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Sushi Club\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -2095,7 +2095,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"La Cocina de Pedro\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -2124,7 +2124,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"La Cocina de Pedro\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -2154,7 +2154,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"La Cocina de Pedro\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -2306,7 +2306,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Pez Globo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -2336,7 +2336,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Pez Globo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -2367,7 +2367,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Pez Globo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -2416,7 +2416,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/restaurante-garcia",
         "evidence": "Santander (Restaurante García): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "929254e1532d3e3143959652e58f11403600d94c2ac307f8c93fe2fee07f3b2c"
       },
       {
@@ -2498,7 +2498,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/la-pasiva-arocena",
         "evidence": "Santander (La Pasiva Arocena): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "408667ab99a362539990c027faff87001549fa37723720c1d39027bdcd6e239f"
       },
       {
@@ -2581,7 +2581,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/facal",
         "evidence": "Santander (Facal): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "249d4542a03a2d01547a0be9ceb740627d1a166661414c5983dda578a4454bf7"
       },
       {
@@ -2663,7 +2663,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/dakota-steakhouse-bar",
         "evidence": "Santander (Dakota Steakhouse & Bar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "7fd04c1d7840cc0e4214df9e98928c79dd6ecf0c4c111fa410ccb5cdb3e7b0ec"
       },
       {
@@ -2745,7 +2745,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/montevideo-beer-company",
         "evidence": "Santander (Montevideo Beer Company): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9cee2d06a0df1bb55acc9619c9228b64f57891b0a6d83ed61cdd35c8a0caa6ba"
       },
       {
@@ -2827,7 +2827,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/bruta",
         "evidence": "Santander (Bruta): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "f2c6c13d63efe98bccf8662b208274315580566f4054caf49df597364e0dc155"
       },
       {
@@ -2909,7 +2909,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/umami",
         "evidence": "Santander (Umami): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "ff8cf2505b3db91dcaf4d70260b9470fe704f47f29c81efa7145c6c31d7c3eed"
       },
       {
@@ -3073,7 +3073,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Jacinto): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -3105,7 +3105,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Jacinto): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -3154,7 +3154,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Bar Tabaré): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -3186,7 +3186,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Bar Tabaré): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -3236,7 +3236,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Fellini): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -3268,7 +3268,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (Fellini): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -3399,7 +3399,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (El Palenque): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -3430,7 +3430,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (El Palenque): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -3740,7 +3740,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"La Panera Rosa\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -3769,7 +3769,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"La Panera Rosa\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -3799,7 +3799,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"La Panera Rosa\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -3846,7 +3846,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Tea Connection\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -3875,7 +3875,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Tea Connection\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -3905,7 +3905,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Tea Connection\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -3952,7 +3952,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "evidence": "Itaú lista \"Cuervo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66"
       },
       {
@@ -3981,7 +3981,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "evidence": "Itaú lista \"Cuervo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db"
       },
       {
@@ -4011,7 +4011,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "evidence": "Itaú lista \"Cuervo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732"
       }
     ]
@@ -4057,7 +4057,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/heladeria-lekker",
         "capNotPublished": true,
         "evidence": "Santander (Heladeria Lekker): \"50% con tarjeta Infinite, Black y débito Select, 30% de descuento con tarjetas de crédito y débito todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "ad0cafe5128f06bca1d09d70c95273bccc68b7ad433561fb6e54b2d1b5b8f5bc"
       },
       {
@@ -4139,7 +4139,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/porto-vanila",
         "evidence": "Santander (Porto Vanila): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "f3ffb55bfad2176f0a057edb990c840f42fc138d005ca38843702d06e85cde6a"
       },
       {
@@ -4398,7 +4398,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/la-cigale",
         "capNotPublished": true,
         "evidence": "Santander (La Cigale): \"50% con tarjeta débito Select, 30% de descuento con tarjetas de débito todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "f41d6bebe77e1484d0ab78adeeac67061aff40ff1f0515498c64857fdae6ca6b"
       },
       {
@@ -4542,7 +4542,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/pedidosya-0",
         "capNotPublished": true,
         "evidence": "Santander (PedidosYa): \"15% los martes y los sábados, en restaurantes, con tarjetas de crédito Platinum, Infinite y Black\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "91e1d468e8fafeef33fdd80270107c9e191fdcc5859d2d1cf2025b95c433f730"
       }
     ]
@@ -4592,7 +4592,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/indian",
         "capNotPublished": true,
         "evidence": "Santander (Indian): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "233da731aa8f5929992bd4f1356760e4607de5e40163f12b2cd1434a234db660"
       }
     ]
@@ -4641,7 +4641,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/lemon",
         "capNotPublished": true,
         "evidence": "Santander (Lemon): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "56762da456fef171b57b376070cf0bd825070a8b653e751e424fcb75c86660ae"
       }
     ]
@@ -4682,7 +4682,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "capNotPublished": true,
         "evidence": "Itaú Moda: Stadium {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad"
       }
     ]
@@ -4773,7 +4773,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "capNotPublished": true,
         "evidence": "Scotiabank (Daniel Cassin): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -4914,7 +4914,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "capNotPublished": true,
         "evidence": "Itaú Moda: Óptica Florida {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad"
       },
       {
@@ -4943,7 +4943,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "capNotPublished": true,
         "evidence": "OCA (Óptica Florida - Blue): \"10% de dto. todos los días — 10% de descuento en todos los locales Óptica Florida ubicados en Montevideo, todos los días, pagando con OCA Blue . Descuento aplicado en el estado de cuenta . No aplica para compr\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa"
       }
     ]
@@ -4992,7 +4992,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/hush-puppies",
         "capNotPublished": true,
         "evidence": "Santander (Hush Puppies): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "9c8e75994a48d309f3805d41700b81cfc1bccb8377801f4b6ca77b9ec0a09eb5"
       }
     ]
@@ -5041,7 +5041,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/columbia",
         "capNotPublished": true,
         "evidence": "Santander (Columbia): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "632b7fbed801d62594e26f7e3a67da0eb0d6a885bef546917b69ccd8f1a3eca2"
       }
     ]
@@ -5090,7 +5090,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/north-face",
         "capNotPublished": true,
         "evidence": "Santander (The North Face): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "6f7a585d7436f90cd5f22a43bf5f6fb65c119afc404d790ae61637a9a5aff36e"
       }
     ]
@@ -5139,7 +5139,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/rotunda",
         "capNotPublished": true,
         "evidence": "Santander (Rotunda): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a2b8e3269e33f43ddb08c1f8bee34ad8dfea0bdafbecaeb146115fb64448cdf1"
       }
     ]
@@ -5181,7 +5181,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "capNotPublished": true,
         "evidence": "Itaú Moda: Lacoste {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad"
       }
     ]
@@ -5223,7 +5223,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "capNotPublished": true,
         "evidence": "Itaú Moda: New Balance {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad"
       }
     ]
@@ -5265,7 +5265,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "capNotPublished": true,
         "evidence": "Itaú Moda: Don Baez {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad"
       },
       {
@@ -5298,7 +5298,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "capNotPublished": true,
         "evidence": "Itaú Moda: Don Baez {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad"
       }
     ]
@@ -5439,7 +5439,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/universo-binario.html",
         "legalTextHash": "d8b92326e9f5443b7f4c1a7903a111582ccb590aab0be0c3a0799d5dc5e769e8",
         "evidence": "BBVA (Universo Binario): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -5488,7 +5488,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/arredo",
         "capNotPublished": true,
         "evidence": "Santander (Arredo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "760badf93b848f105ed0fe324b286185317ae3fdf51fcd18b94e30cb6c18e773"
       }
     ]
@@ -5765,7 +5765,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios/bookshop",
         "capNotPublished": true,
         "evidence": "Santander (Bookshop): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "b05d243291e9d23a8234877cd01c45642eadc753f8da18ace5579162f33298c5"
       }
     ]
@@ -5860,7 +5860,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (La Librería): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       },
       {
@@ -5891,7 +5891,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         ],
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "evidence": "Scotiabank (La Librería): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b"
       }
     ]
@@ -5938,7 +5938,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/puro-verso.html",
         "capNotPublished": true,
         "evidence": "BBVA (Puro Verso): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "751158e003fc94e6df32da7e51e367c81299436071a806713f7b41e745c78705"
       },
       {
@@ -5969,7 +5969,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/puro-verso.html",
         "capNotPublished": true,
         "evidence": "BBVA (Puro Verso): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "751158e003fc94e6df32da7e51e367c81299436071a806713f7b41e745c78705"
       }
     ]
@@ -6048,7 +6048,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "capNotPublished": true,
         "evidence": "OCA (Movie - Blue): \"2x1 en entradas, pop y refresco TODOS LOS DÍAS — 2x1 todos los días en entradas para películas en 2D o 3D y en Combo Pop + Refresco Mediano en Movie, para compras realizadas con OCA Blue . Promoción válida del 21/05/2023 hasta el\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa"
       },
       {
@@ -6079,7 +6079,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Movie): \"Cine a la mitad + Metros — Comprá tu entrada en Movie con tarjetas de crédito a la mitad + Metros y disfrutá de tus películas favoritas todo el año: . Los valores de entradas: . • 2D 360 Metros + $260 . • 3D\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -6169,7 +6169,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/Life_Cinemas.html",
         "capNotPublished": true,
         "evidence": "BBVA (Life Cinemas): \"50% Off con Tarjetas de Débito en la compra de entradas para películas 2D y 3D · 50% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas en la compra de entradas para películas 2D, 3D y en la compra de packs de pop y · 50% Off con Tarjetas de Crédito Platinum, Black e Infinite en la compra de entradas para películas 2D, 3D (Vigencia: 2029-07-26)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "70f5a42df887584696f22aa90654c2c28665d20244b603d5670f0754901065bf"
       }
     ]
@@ -6486,7 +6486,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "installments": 12,
         "capNotPublished": true,
         "evidence": "Santander (Buquebus): \"10% en paquetes* a Argentina\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z",
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z",
         "legalTextHash": "835c0801cb4d5ca896f97941e094bb85910cd8591f9e2e29b6c8276ac4ff3969"
       }
     ]
@@ -6532,7 +6532,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"1921\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "1921-itau-platinum-20",
@@ -6561,7 +6561,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"1921\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "1921-itau-volar-credito-15",
@@ -6591,7 +6591,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"1921\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -6636,7 +6636,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Alquimista\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -6681,7 +6681,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Artesia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "artesia-itau-platinum-20",
@@ -6710,7 +6710,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Artesia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "artesia-itau-volar-credito-15",
@@ -6740,7 +6740,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Artesia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -6785,7 +6785,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Asencio\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "asencio-itau-platinum-20",
@@ -6814,7 +6814,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Asencio\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "asencio-itau-volar-credito-15",
@@ -6844,7 +6844,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Asencio\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -6889,7 +6889,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Baco\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "baco-itau-platinum-20",
@@ -6918,7 +6918,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Baco\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "baco-itau-volar-credito-15",
@@ -6948,7 +6948,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Baco\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -6994,7 +6994,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bar Carretas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bar-carretas-itau-platinum-20",
@@ -7023,7 +7023,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Bar Carretas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bar-carretas-itau-volar-credito-15",
@@ -7053,7 +7053,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Bar Carretas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7098,7 +7098,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Basílico\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "basilico-itau-platinum-20",
@@ -7127,7 +7127,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Basílico\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "basilico-itau-volar-credito-15",
@@ -7157,7 +7157,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Basílico\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7202,7 +7202,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bisiesto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bisiesto-itau-platinum-20",
@@ -7231,7 +7231,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Bisiesto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bisiesto-itau-volar-credito-15",
@@ -7261,7 +7261,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Bisiesto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7307,7 +7307,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Café Haus\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-haus-itau-platinum-20",
@@ -7336,7 +7336,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Café Haus\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-haus-itau-volar-credito-15",
@@ -7366,7 +7366,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Café Haus\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7413,7 +7413,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Café Misterio Aeropuerto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-misterio-aeropuerto-itau-platinum-20",
@@ -7442,7 +7442,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Café Misterio Aeropuerto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-misterio-aeropuerto-itau-volar-credito-15",
@@ -7472,7 +7472,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Café Misterio Aeropuerto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7518,7 +7518,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Casa Dispensa\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-dispensa-itau-platinum-20",
@@ -7547,7 +7547,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Casa Dispensa\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-dispensa-itau-volar-credito-15",
@@ -7577,7 +7577,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Casa Dispensa\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7622,7 +7622,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Cauce\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cauce-itau-platinum-20",
@@ -7651,7 +7651,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Cauce\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cauce-itau-volar-credito-15",
@@ -7681,7 +7681,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Cauce\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7726,7 +7726,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Caudillo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "caudillo-itau-platinum-20",
@@ -7755,7 +7755,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Caudillo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "caudillo-itau-volar-credito-15",
@@ -7785,7 +7785,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Caudillo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7831,7 +7831,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Chester House\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "chester-house-itau-platinum-20",
@@ -7860,7 +7860,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Chester House\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "chester-house-itau-volar-credito-15",
@@ -7890,7 +7890,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Chester House\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -7937,7 +7937,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Chivipizza\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "chivipizza-itau-platinum-20",
@@ -7966,7 +7966,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Chivipizza\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "chivipizza-itau-volar-credito-15",
@@ -7996,7 +7996,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Chivipizza\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8042,7 +8042,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Coffe Point\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "coffe-point-itau-platinum-20",
@@ -8071,7 +8071,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Coffe Point\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "coffe-point-itau-volar-credito-15",
@@ -8101,7 +8101,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Coffe Point\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8149,7 +8149,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Crazy Crepes\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "crazy-crepes-itau-platinum-20",
@@ -8178,7 +8178,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Crazy Crepes\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "crazy-crepes-itau-volar-credito-15",
@@ -8208,7 +8208,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Crazy Crepes\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8253,7 +8253,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Demorondanga\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "demorondanga-itau-platinum-20",
@@ -8282,7 +8282,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Demorondanga\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "demorondanga-itau-volar-credito-15",
@@ -8312,7 +8312,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Demorondanga\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8358,7 +8358,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Dos Orientales\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dos-orientales-itau-platinum-20",
@@ -8387,7 +8387,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Dos Orientales\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dos-orientales-itau-volar-credito-15",
@@ -8417,7 +8417,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Dos Orientales\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8463,7 +8463,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Dulce Sofía\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dulce-sofia-itau-platinum-20",
@@ -8492,7 +8492,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Dulce Sofía\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dulce-sofia-itau-volar-credito-15",
@@ -8522,7 +8522,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Dulce Sofía\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8567,7 +8567,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"El Puesto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-puesto-itau-platinum-20",
@@ -8596,7 +8596,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"El Puesto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-puesto-itau-volar-credito-15",
@@ -8626,7 +8626,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"El Puesto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8671,7 +8671,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Eladio\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "eladio-itau-platinum-20",
@@ -8700,7 +8700,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Eladio\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "eladio-itau-volar-credito-15",
@@ -8730,7 +8730,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Eladio\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8775,7 +8775,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Escaramuza\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "escaramuza-itau-platinum-20",
@@ -8804,7 +8804,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Escaramuza\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "escaramuza-itau-volar-credito-15",
@@ -8834,7 +8834,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Escaramuza\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8879,7 +8879,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Estrecho\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -8925,7 +8925,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Familia Deicas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "familia-deicas-itau-platinum-20",
@@ -8954,7 +8954,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Familia Deicas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "familia-deicas-itau-volar-credito-15",
@@ -8984,7 +8984,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Familia Deicas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9030,7 +9030,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Gourmet Marti\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9076,7 +9076,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Hasami\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hasami-itau-platinum-20",
@@ -9106,7 +9106,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Hasami\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hasami-itau-volar-credito-15",
@@ -9137,7 +9137,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Hasami\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9183,7 +9183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Hoy te Quiero\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hoy-te-quiero-itau-platinum-20",
@@ -9212,7 +9212,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Hoy te Quiero\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hoy-te-quiero-itau-volar-credito-15",
@@ -9242,7 +9242,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Hoy te Quiero\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9288,7 +9288,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Hugo Soca\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hugo-soca-itau-platinum-20",
@@ -9317,7 +9317,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Hugo Soca\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hugo-soca-itau-volar-credito-15",
@@ -9347,7 +9347,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Hugo Soca\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9393,7 +9393,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Bodeguita Sacromonte\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9438,7 +9438,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Corte\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-corte-itau-platinum-20",
@@ -9467,7 +9467,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Corte\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-corte-itau-volar-credito-15",
@@ -9497,7 +9497,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Corte\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9542,7 +9542,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Criolla\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-criolla-itau-platinum-20",
@@ -9571,7 +9571,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Criolla\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-criolla-itau-volar-credito-15",
@@ -9601,7 +9601,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Criolla\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9646,7 +9646,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Croissanteria\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-croissanteria-itau-platinum-20",
@@ -9675,7 +9675,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Croissanteria\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-croissanteria-itau-volar-credito-15",
@@ -9705,7 +9705,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Croissanteria\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9750,7 +9750,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Molienda\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-molienda-itau-platinum-20",
@@ -9779,7 +9779,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Molienda\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-molienda-itau-volar-credito-15",
@@ -9809,7 +9809,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Molienda\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9855,7 +9855,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Parrillita de Viñoly\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-parrillita-de-vinoly-itau-platinum-20",
@@ -9884,7 +9884,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Parrillita de Viñoly\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-parrillita-de-vinoly-itau-volar-credito-15",
@@ -9914,7 +9914,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Parrillita de Viñoly\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -9959,7 +9959,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Peatonal\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-peatonal-itau-platinum-20",
@@ -9988,7 +9988,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Peatonal\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-peatonal-itau-volar-credito-15",
@@ -10018,7 +10018,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Peatonal\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10063,7 +10063,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Resistance\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-resistance-itau-platinum-20",
@@ -10092,7 +10092,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Resistance\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-resistance-itau-volar-credito-15",
@@ -10122,7 +10122,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Resistance\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10167,7 +10167,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Vinoteca\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10213,7 +10213,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Las Croabas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10259,7 +10259,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Las Vizcarras\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10306,7 +10306,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Malafama Cervecería\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "malafama-cerveceria-itau-platinum-20",
@@ -10336,7 +10336,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Malafama Cervecería\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "malafama-cerveceria-itau-volar-credito-15",
@@ -10367,7 +10367,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Malafama Cervecería\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10413,7 +10413,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Massey Familia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "massey-familia-itau-platinum-20",
@@ -10442,7 +10442,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Massey Familia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "massey-familia-itau-volar-credito-15",
@@ -10472,7 +10472,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Massey Familia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10517,7 +10517,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Milajo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "milajo-itau-platinum-20",
@@ -10546,7 +10546,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Milajo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "milajo-itau-volar-credito-15",
@@ -10576,7 +10576,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Milajo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10622,7 +10622,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Misushi\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "misushi-itau-platinum-20",
@@ -10652,7 +10652,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Misushi\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "misushi-itau-volar-credito-15",
@@ -10683,7 +10683,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Misushi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10728,7 +10728,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Morelia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "morelia-itau-platinum-20",
@@ -10757,7 +10757,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Morelia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "morelia-itau-volar-credito-15",
@@ -10787,7 +10787,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Morelia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10833,7 +10833,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"No tan Santos\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "no-tan-santos-itau-platinum-20",
@@ -10862,7 +10862,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"No tan Santos\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "no-tan-santos-itau-volar-credito-15",
@@ -10892,7 +10892,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"No tan Santos\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -10938,7 +10938,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Norimoto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "norimoto-itau-platinum-20",
@@ -10968,7 +10968,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Norimoto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "norimoto-itau-volar-credito-15",
@@ -10999,7 +10999,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Norimoto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11045,7 +11045,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Nueva Malvín\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "nueva-malvin-itau-platinum-20",
@@ -11074,7 +11074,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Nueva Malvín\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "nueva-malvin-itau-volar-credito-15",
@@ -11104,7 +11104,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Nueva Malvín\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11149,7 +11149,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Piso 40\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "piso-40-itau-platinum-20",
@@ -11178,7 +11178,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Piso 40\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "piso-40-itau-volar-credito-15",
@@ -11208,7 +11208,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Piso 40\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11254,7 +11254,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Polo Bamba\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "polo-bamba-itau-platinum-20",
@@ -11283,7 +11283,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Polo Bamba\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "polo-bamba-itau-volar-credito-15",
@@ -11313,7 +11313,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Polo Bamba\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11358,7 +11358,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Pomelo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pomelo-itau-platinum-20",
@@ -11387,7 +11387,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Pomelo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pomelo-itau-volar-credito-15",
@@ -11417,7 +11417,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Pomelo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11462,7 +11462,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Pompier\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pompier-itau-platinum-20",
@@ -11491,7 +11491,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Pompier\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pompier-itau-volar-credito-15",
@@ -11521,7 +11521,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Pompier\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11566,7 +11566,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Quinquela\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "quinquela-itau-platinum-20",
@@ -11595,7 +11595,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Quinquela\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "quinquela-itau-volar-credito-15",
@@ -11625,7 +11625,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Quinquela\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11670,7 +11670,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Rio\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rio-itau-platinum-20",
@@ -11699,7 +11699,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Rio\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rio-itau-volar-credito-15",
@@ -11729,7 +11729,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Rio\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11776,7 +11776,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Rudy\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rudy-itau-platinum-20",
@@ -11805,7 +11805,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Rudy\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rudy-itau-volar-credito-15",
@@ -11835,7 +11835,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Rudy\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11880,7 +11880,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sanguche\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sanguche-itau-platinum-20",
@@ -11909,7 +11909,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Sanguche\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sanguche-itau-volar-credito-15",
@@ -11939,7 +11939,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Sanguche\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -11985,7 +11985,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Silver Cantina\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "silver-cantina-itau-platinum-20",
@@ -12014,7 +12014,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Silver Cantina\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "silver-cantina-itau-volar-credito-15",
@@ -12044,7 +12044,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Silver Cantina\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12090,7 +12090,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sushi True\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12137,7 +12137,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sushi Wok Perú\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sushi-wok-peru-itau-platinum-20",
@@ -12166,7 +12166,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Sushi Wok Perú\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sushi-wok-peru-itau-volar-credito-15",
@@ -12196,7 +12196,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Sushi Wok Perú\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12242,7 +12242,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Tintos y Rubias\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tintos-y-rubias-itau-platinum-20",
@@ -12271,7 +12271,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Tintos y Rubias\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tintos-y-rubias-itau-volar-credito-15",
@@ -12301,7 +12301,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Tintos y Rubias\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12346,7 +12346,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Trouville\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "trouville-itau-platinum-20",
@@ -12375,7 +12375,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Trouville\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "trouville-itau-volar-credito-15",
@@ -12405,7 +12405,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Trouville\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12450,7 +12450,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Tsubo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tsubo-itau-platinum-20",
@@ -12479,7 +12479,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Tsubo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tsubo-itau-volar-credito-15",
@@ -12509,7 +12509,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Tsubo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12555,7 +12555,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Varela Zarranz\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "varela-zarranz-itau-platinum-20",
@@ -12584,7 +12584,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Varela Zarranz\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "varela-zarranz-itau-volar-credito-15",
@@ -12614,7 +12614,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Varela Zarranz\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12659,7 +12659,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Vela\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vela-itau-platinum-20",
@@ -12688,7 +12688,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Vela\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vela-itau-volar-credito-15",
@@ -12718,7 +12718,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Vela\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12763,7 +12763,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Vicenta\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vicenta-itau-platinum-20",
@@ -12792,7 +12792,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Vicenta\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vicenta-itau-volar-credito-15",
@@ -12822,7 +12822,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Vicenta\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12868,7 +12868,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Brot Haus\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brot-haus-itau-platinum-15",
@@ -12897,7 +12897,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Brot Haus\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brot-haus-itau-volar-credito-15",
@@ -12927,7 +12927,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Brot Haus\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -12973,7 +12973,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Café Valderama\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-valderama-itau-platinum-15",
@@ -13002,7 +13002,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Café Valderama\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-valderama-itau-volar-credito-15",
@@ -13032,7 +13032,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Café Valderama\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13079,7 +13079,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Del Campo\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "del-campo-itau-platinum-15",
@@ -13109,7 +13109,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Del Campo\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13154,7 +13154,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Domenica\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-domenica-itau-platinum-15",
@@ -13183,7 +13183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Domenica\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-domenica-itau-volar-credito-15",
@@ -13213,7 +13213,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Domenica\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13259,7 +13259,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Mantequeria\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-mantequeria-itau-platinum-15",
@@ -13288,7 +13288,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Mantequería\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-mantequeria-itau-volar-credito-15",
@@ -13318,7 +13318,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Mantequeria\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13363,7 +13363,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Oakberry\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "oakberry-itau-platinum-15",
@@ -13392,7 +13392,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Oakberry\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "oakberry-itau-volar-credito-15",
@@ -13422,7 +13422,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Oakberry\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13467,7 +13467,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Obra\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "obra-itau-platinum-15",
@@ -13496,7 +13496,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Obra\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "obra-itau-volar-credito-15",
@@ -13526,7 +13526,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Obra\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13573,7 +13573,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Ola Poke\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "ola-poke-itau-platinum-15",
@@ -13603,7 +13603,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Ola Poke\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "ola-poke-itau-volar-credito-15",
@@ -13634,7 +13634,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Ola Poke\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13679,7 +13679,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sablée\" bajo \"15% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sablee-itau-platinum-15",
@@ -13708,7 +13708,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Sablée\" bajo \"15% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sablee-itau-volar-credito-15",
@@ -13738,7 +13738,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Sablée\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13783,7 +13783,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Abstrakto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "abstrakto-itau-platinum-20",
@@ -13812,7 +13812,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Abstrakto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "abstrakto-itau-volar-credito-15",
@@ -13842,7 +13842,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Abstrakto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13887,7 +13887,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Aguaverde\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -13933,7 +13933,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Al fin y al cabo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "al-fin-y-al-cabo-itau-platinum-20",
@@ -13962,7 +13962,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Al fin y al cabo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "al-fin-y-al-cabo-itau-volar-credito-15",
@@ -13992,7 +13992,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Al fin y al cabo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14037,7 +14037,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Algo de Mi\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "algo-de-mi-itau-platinum-20",
@@ -14066,7 +14066,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Algo de Mi\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "algo-de-mi-itau-volar-credito-15",
@@ -14096,7 +14096,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Algo de Mi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14142,7 +14142,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Alison Pizza\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alison-pizza-itau-platinum-20",
@@ -14171,7 +14171,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Alison Pizza\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alison-pizza-itau-volar-credito-15",
@@ -14201,7 +14201,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Alison Pizza\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14247,7 +14247,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Almacén de Campo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "almacen-de-campo-itau-platinum-20",
@@ -14276,7 +14276,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Almacén de Campo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "almacen-de-campo-itau-volar-credito-15",
@@ -14306,7 +14306,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Almacén de campo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14351,7 +14351,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Antonino\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "antonino-itau-platinum-20",
@@ -14380,7 +14380,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Antonino\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "antonino-itau-volar-credito-15",
@@ -14410,7 +14410,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Antonino\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14455,7 +14455,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Arenas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "arenas-itau-platinum-20",
@@ -14484,7 +14484,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Arenas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "arenas-itau-volar-credito-15",
@@ -14514,7 +14514,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Arenas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14559,7 +14559,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Atrevida\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "atrevida-itau-platinum-20",
@@ -14588,7 +14588,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Atrevida\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "atrevida-itau-volar-credito-15",
@@ -14618,7 +14618,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Atrevida\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14663,7 +14663,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bigote\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bigote-itau-platinum-20",
@@ -14692,7 +14692,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Bigote\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bigote-itau-volar-credito-15",
@@ -14722,7 +14722,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Bigote\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14768,7 +14768,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Blend (Enjoy)\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "blend-enjoy-itau-platinum-20",
@@ -14797,7 +14797,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Blend (Enjoy)\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "blend-enjoy-itau-volar-credito-15",
@@ -14827,7 +14827,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Blend (Enjoy)\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14873,7 +14873,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bodega Garzón\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14919,7 +14919,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bodega Oceánica\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -14966,7 +14966,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Boulevard de las Palmeras\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "boulevard-de-las-palmeras-itau-platinum-20",
@@ -14995,7 +14995,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Boulevard de las Palmeras\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "boulevard-de-las-palmeras-itau-volar-credito-15",
@@ -15025,7 +15025,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Boulevard de las Palmeras\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15070,7 +15070,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Brote\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brote-itau-platinum-20",
@@ -15099,7 +15099,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Brote\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brote-itau-volar-credito-15",
@@ -15129,7 +15129,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Brote\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brote-santander-credito-15",
@@ -15164,7 +15164,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Brote): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15211,7 +15211,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bungalow Suizo - Café\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15257,7 +15257,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Cactus y Pescados\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cactus-y-pescados-itau-platinum-20",
@@ -15286,7 +15286,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Cactus y Pescados\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cactus-y-pescados-itau-volar-credito-15",
@@ -15316,7 +15316,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Cactus y Pescados\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15362,7 +15362,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Café de la Mansa\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-de-la-mansa-itau-platinum-20",
@@ -15391,7 +15391,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Café de la Mansa\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-de-la-mansa-itau-volar-credito-15",
@@ -15421,7 +15421,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Café de la Mansa\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15467,7 +15467,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Café El Tesoro\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-el-tesoro-itau-platinum-20",
@@ -15496,7 +15496,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Café El Tesoro\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-el-tesoro-itau-volar-credito-15",
@@ -15526,7 +15526,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Café El Tesoro\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15572,7 +15572,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Casa Astigarraga\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-astigarraga-itau-platinum-20",
@@ -15601,7 +15601,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Casa Astigarraga\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-astigarraga-itau-volar-credito-15",
@@ -15631,7 +15631,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Casa Astigarraga\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15677,7 +15677,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Casa Proa\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-proa-itau-platinum-20",
@@ -15706,7 +15706,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Casa Proa\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-proa-itau-volar-credito-15",
@@ -15736,7 +15736,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Casa Proa\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15782,7 +15782,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Casa Vilaró\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-vilaro-itau-platinum-20",
@@ -15811,7 +15811,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Casa Vilaró\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-vilaro-itau-volar-credito-15",
@@ -15841,7 +15841,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Casa Vilaró\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15888,7 +15888,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Cerro del Toro\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cerro-del-toro-itau-platinum-20",
@@ -15917,7 +15917,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Cerro del Toro\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cerro-del-toro-itau-volar-credito-15",
@@ -15947,7 +15947,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Cerro del Toro\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -15994,7 +15994,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Club de los Balleneros\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "club-de-los-balleneros-itau-platinum-20",
@@ -16023,7 +16023,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Club de los Balleneros\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "club-de-los-balleneros-itau-volar-credito-15",
@@ -16053,7 +16053,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Club de los Balleneros\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16099,7 +16099,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Cofre Café\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cofre-cafe-itau-platinum-20",
@@ -16128,7 +16128,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Cofre Café\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cofre-cafe-itau-volar-credito-15",
@@ -16158,7 +16158,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Cofre Café\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16207,7 +16207,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Compañía Uruguaya de Vinos del Mar\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16252,7 +16252,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Crepas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "crepas-itau-platinum-20",
@@ -16281,7 +16281,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Crepas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "crepas-itau-volar-credito-15",
@@ -16311,7 +16311,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Crepas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16356,7 +16356,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Crudo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "crudo-itau-platinum-20",
@@ -16385,7 +16385,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Crudo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "crudo-itau-volar-credito-15",
@@ -16415,7 +16415,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Crudo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16460,7 +16460,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Curado\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "curado-itau-platinum-20",
@@ -16489,7 +16489,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Curado\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "curado-itau-volar-credito-15",
@@ -16519,7 +16519,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Curado\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16565,7 +16565,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Dos Hermanas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dos-hermanas-itau-platinum-20",
@@ -16594,7 +16594,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Dos Hermanas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dos-hermanas-itau-volar-credito-15",
@@ -16624,7 +16624,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Dos Hermanas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16669,7 +16669,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"El abrazo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-abrazo-itau-platinum-20",
@@ -16698,7 +16698,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"El abrazo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-abrazo-itau-volar-credito-15",
@@ -16728,7 +16728,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"El abrazo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16774,7 +16774,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"El amor es tiempo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-amor-es-tiempo-itau-platinum-20",
@@ -16803,7 +16803,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"El amor es tiempo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-amor-es-tiempo-itau-volar-credito-15",
@@ -16833,7 +16833,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"El amor es tiempo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16878,7 +16878,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"El Secreto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-secreto-itau-platinum-20",
@@ -16907,7 +16907,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"El Secreto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-secreto-itau-volar-credito-15",
@@ -16937,7 +16937,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"El Secreto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -16982,7 +16982,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Estero\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17027,7 +17027,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Fasano\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17073,7 +17073,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Fish Market\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "fish-market-itau-platinum-20",
@@ -17102,7 +17102,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Fish Market\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "fish-market-itau-volar-credito-15",
@@ -17132,7 +17132,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Fish Market\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17177,7 +17177,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Frances Co\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "frances-co-itau-platinum-20",
@@ -17206,7 +17206,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Frances Co\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "frances-co-itau-volar-credito-15",
@@ -17236,7 +17236,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Frances Co\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17282,7 +17282,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Grand Cru\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17327,7 +17327,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Harvest\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "harvest-itau-platinum-20",
@@ -17356,7 +17356,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Harvest\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "harvest-itau-volar-credito-15",
@@ -17386,7 +17386,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Harvest\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17433,7 +17433,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Hola que tal\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hola-que-tal-itau-platinum-20",
@@ -17462,7 +17462,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Hola que tal\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hola-que-tal-itau-volar-credito-15",
@@ -17492,7 +17492,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Hola que tal\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17538,7 +17538,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Hoy Café\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hoy-cafe-itau-platinum-20",
@@ -17567,7 +17567,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Hoy Café\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hoy-cafe-itau-volar-credito-15",
@@ -17597,7 +17597,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Hoy Café\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17642,7 +17642,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Huma\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17687,7 +17687,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Il Baretto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "il-baretto-itau-platinum-20",
@@ -17716,7 +17716,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Il Baretto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "il-baretto-itau-volar-credito-15",
@@ -17746,7 +17746,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Il Baretto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17791,7 +17791,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Il Belvedere\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "il-belvedere-itau-platinum-20",
@@ -17820,7 +17820,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Il Belvedere\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "il-belvedere-itau-volar-credito-15",
@@ -17850,7 +17850,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Il Belvedere\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17895,7 +17895,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Juana\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "juana-itau-platinum-20",
@@ -17924,7 +17924,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Juana\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "juana-itau-volar-credito-15",
@@ -17954,7 +17954,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Juana\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -17998,7 +17998,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"L\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18045,7 +18045,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Cantina del Vigia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-cantina-del-vigia-itau-platinum-20",
@@ -18074,7 +18074,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Cantina del Vigia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-cantina-del-vigia-itau-volar-credito-15",
@@ -18104,7 +18104,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Cantina del Vigia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18149,7 +18149,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Cava\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-cava-itau-platinum-20",
@@ -18178,7 +18178,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Cava\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-cava-itau-volar-credito-15",
@@ -18208,7 +18208,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Cava\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18253,7 +18253,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Despensa\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-despensa-itau-platinum-20",
@@ -18282,7 +18282,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Despensa\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-despensa-itau-volar-credito-15",
@@ -18312,7 +18312,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Despensa\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18357,7 +18357,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La huella\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-huella-itau-platinum-20",
@@ -18386,7 +18386,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La huella\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-huella-itau-volar-credito-15",
@@ -18416,7 +18416,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La huella\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18463,7 +18463,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Panadería de José Ignacio\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-panaderia-de-jose-ignacio-itau-platinum-20",
@@ -18492,7 +18492,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Panadería de José Ignacio\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-panaderia-de-jose-ignacio-itau-volar-credito-15",
@@ -18522,7 +18522,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Panadería de José Ignacio\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18567,7 +18567,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Proveeduría\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-proveeduria-itau-platinum-20",
@@ -18596,7 +18596,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Proveeduría\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-proveeduria-itau-volar-credito-15",
@@ -18626,7 +18626,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Proveeduría\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18671,7 +18671,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Taberna\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-taberna-itau-platinum-20",
@@ -18700,7 +18700,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Taberna\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-taberna-itau-volar-credito-15",
@@ -18730,7 +18730,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Taberna\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18775,7 +18775,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"LaLinda\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18822,7 +18822,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Las Brisas (Enjoy)\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-brisas-enjoy-itau-platinum-20",
@@ -18851,7 +18851,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Las Brisas (Enjoy)\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-brisas-enjoy-itau-volar-credito-15",
@@ -18881,7 +18881,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Las Brisas (Enjoy)\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -18927,7 +18927,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Las Terrazas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-terrazas-itau-platinum-20",
@@ -18956,7 +18956,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Las Terrazas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-terrazas-itau-volar-credito-15",
@@ -18986,7 +18986,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Las Terrazas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19031,7 +19031,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Lighthouse\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lighthouse-itau-platinum-20",
@@ -19060,7 +19060,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Lighthouse\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lighthouse-itau-volar-credito-15",
@@ -19090,7 +19090,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Lighthouse\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19136,7 +19136,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Lobby Bar\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lobby-bar-itau-platinum-20",
@@ -19165,7 +19165,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Lobby Bar\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lobby-bar-itau-volar-credito-15",
@@ -19195,7 +19195,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Lobby Bar\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19241,7 +19241,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Mar de Fondo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mar-de-fondo-itau-platinum-20",
@@ -19270,7 +19270,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Mar de Fondo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mar-de-fondo-itau-volar-credito-15",
@@ -19300,7 +19300,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Mar de Fondo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19345,7 +19345,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Mi Piace\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mi-piace-itau-platinum-20",
@@ -19374,7 +19374,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Mi Piace\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mi-piace-itau-volar-credito-15",
@@ -19404,7 +19404,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Mi Piace\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19450,7 +19450,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Mia Bistro\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mia-bistro-itau-platinum-20",
@@ -19479,7 +19479,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Mia Bistro\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mia-bistro-itau-volar-credito-15",
@@ -19509,7 +19509,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Mia Bistro\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19554,7 +19554,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Miró\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "miro-itau-platinum-20",
@@ -19583,7 +19583,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Miró\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "miro-itau-volar-credito-15",
@@ -19613,7 +19613,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Miró\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19658,7 +19658,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Muelle 3\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "muelle-3-itau-platinum-20",
@@ -19687,7 +19687,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Muelle 3\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "muelle-3-itau-volar-credito-15",
@@ -19717,7 +19717,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Muelle 3\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19762,7 +19762,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Narbona\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19807,7 +19807,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Nur\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19851,7 +19851,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"O\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -19896,7 +19896,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Olivia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "olivia-itau-platinum-20",
@@ -19925,7 +19925,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Olivia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "olivia-itau-volar-credito-15",
@@ -19955,7 +19955,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Olivia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "olivia-santander-credito-15",
@@ -19990,7 +19990,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Olivia): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20037,7 +20037,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Ovo Beach (Enjoy)\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "ovo-beach-enjoy-itau-platinum-20",
@@ -20066,7 +20066,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Ovo Beach (Enjoy)\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "ovo-beach-enjoy-itau-volar-credito-15",
@@ -20096,7 +20096,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Ovo Beach (Enjoy)\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20142,7 +20142,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Parada Barra\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "parada-barra-itau-platinum-20",
@@ -20171,7 +20171,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Parada Barra\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "parada-barra-itau-volar-credito-15",
@@ -20201,7 +20201,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Parada Barra\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20247,7 +20247,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Parador Bikini\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "parador-bikini-itau-platinum-20",
@@ -20276,7 +20276,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Parador Bikini\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "parador-bikini-itau-volar-credito-15",
@@ -20306,7 +20306,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Parador Bikini\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20351,7 +20351,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Picniqueria\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "picniqueria-itau-platinum-20",
@@ -20380,7 +20380,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Picniqueria\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "picniqueria-itau-volar-credito-15",
@@ -20410,7 +20410,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Picniqueria\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20455,7 +20455,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Proita\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "proita-itau-platinum-20",
@@ -20484,7 +20484,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Proita\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "proita-itau-volar-credito-15",
@@ -20514,7 +20514,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Proita\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20560,7 +20560,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Pueblo Narakan\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pueblo-narakan-itau-platinum-20",
@@ -20589,7 +20589,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Pueblo Narakan\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pueblo-narakan-itau-volar-credito-15",
@@ -20619,7 +20619,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Pueblo Narakan\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20664,7 +20664,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sacromonte\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20710,7 +20710,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Salón Número 3\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "salon-numero-3-itau-platinum-20",
@@ -20739,7 +20739,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Salón Número 3\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "salon-numero-3-itau-volar-credito-15",
@@ -20769,7 +20769,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Salón Número 3\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20815,7 +20815,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Santa Leoncia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "santa-leoncia-itau-platinum-20",
@@ -20844,7 +20844,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Santa Leoncia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "santa-leoncia-itau-volar-credito-15",
@@ -20874,7 +20874,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Santa Leoncia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -20919,7 +20919,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sushimi\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sushimi-itau-platinum-20",
@@ -20948,7 +20948,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Sushimi\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sushimi-itau-volar-credito-15",
@@ -20978,7 +20978,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Sushimi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21023,7 +21023,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Teodoro\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "teodoro-itau-platinum-20",
@@ -21052,7 +21052,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Teodoro\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "teodoro-itau-volar-credito-15",
@@ -21082,7 +21082,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Teodoro\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21128,7 +21128,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Teodoro Puerto\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "teodoro-puerto-itau-platinum-20",
@@ -21157,7 +21157,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Teodoro Puerto\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "teodoro-puerto-itau-volar-credito-15",
@@ -21187,7 +21187,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Teodoro Puerto\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21235,7 +21235,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Tierra Cocina Fernando Trocca\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tierra-cocina-fernando-trocca-itau-platinum-20",
@@ -21264,7 +21264,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Tierra Cocina Fernando Trocca\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tierra-cocina-fernando-trocca-itau-volar-credito-15",
@@ -21294,7 +21294,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Tierra Cocina Fernando Trocca\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21339,7 +21339,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Unido\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "unido-itau-platinum-20",
@@ -21368,7 +21368,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Unido\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "unido-itau-volar-credito-15",
@@ -21398,7 +21398,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Unido\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21444,7 +21444,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Viña Eden\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21489,7 +21489,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Virazón\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "virazon-itau-platinum-20",
@@ -21518,7 +21518,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Virazón\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "virazon-itau-volar-credito-15",
@@ -21548,7 +21548,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Virazón\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21593,7 +21593,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Watashi\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "watashi-itau-platinum-20",
@@ -21622,7 +21622,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Watashi\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "watashi-itau-volar-credito-15",
@@ -21652,7 +21652,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Watashi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21699,7 +21699,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Yacht Club Uruguayo\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "yacht-club-uruguayo-itau-platinum-20",
@@ -21728,7 +21728,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Yacht Club Uruguayo\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "yacht-club-uruguayo-itau-volar-credito-15",
@@ -21758,7 +21758,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Yacht Club Uruguayo\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21803,7 +21803,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Zunino\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "zunino-itau-platinum-20",
@@ -21832,7 +21832,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Zunino\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "zunino-itau-volar-credito-15",
@@ -21862,7 +21862,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Zunino\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -21907,7 +21907,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Anita\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "anita-itau-platinum-20",
@@ -21936,7 +21936,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Anita\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "anita-itau-volar-credito-15",
@@ -21966,7 +21966,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Anita\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22011,7 +22011,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Bohemia\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bohemia-itau-platinum-20",
@@ -22040,7 +22040,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Bohemia\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bohemia-itau-volar-credito-15",
@@ -22070,7 +22070,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Bohemia\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22116,7 +22116,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Casa Viera\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-viera-itau-platinum-20",
@@ -22145,7 +22145,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Casa Viera\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-viera-itau-volar-credito-15",
@@ -22175,7 +22175,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Casa Viera\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22220,7 +22220,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Delicatessen\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "delicatessen-itau-platinum-20",
@@ -22249,7 +22249,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Delicatessen\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "delicatessen-itau-volar-credito-15",
@@ -22279,7 +22279,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Delicatessen\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22325,7 +22325,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Las Liebres\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-liebres-itau-platinum-20",
@@ -22354,7 +22354,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Las Liebres\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-liebres-itau-volar-credito-15",
@@ -22384,7 +22384,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Las Liebres\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22430,7 +22430,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sio Sushi\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sio-sushi-itau-platinum-20",
@@ -22459,7 +22459,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Sio Sushi\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sio-sushi-itau-volar-credito-15",
@@ -22489,7 +22489,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Sio Sushi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22534,7 +22534,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"El Barco\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-barco-itau-platinum-20",
@@ -22563,7 +22563,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"El Barco\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-barco-itau-volar-credito-15",
@@ -22593,7 +22593,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"El Barco\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22638,7 +22638,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"El Chajá\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-chaja-itau-platinum-20",
@@ -22667,7 +22667,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"El Chajá\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-chaja-itau-volar-credito-15",
@@ -22697,7 +22697,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"El Chajá\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22742,7 +22742,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Panz\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "panz-itau-platinum-20",
@@ -22771,7 +22771,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Panz\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "panz-itau-volar-credito-15",
@@ -22801,7 +22801,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Panz\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22847,7 +22847,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"París Londres\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "paris-londres-itau-platinum-20",
@@ -22876,7 +22876,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"París Londres\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "paris-londres-itau-volar-credito-15",
@@ -22906,7 +22906,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"París Londres\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -22951,7 +22951,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"La Folie\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-folie-itau-platinum-20",
@@ -22980,7 +22980,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Folie\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-folie-itau-volar-credito-15",
@@ -23010,7 +23010,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"La Folie\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23056,7 +23056,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Las Eduardas\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-eduardas-itau-platinum-20",
@@ -23085,7 +23085,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Las Eduardas\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-eduardas-itau-volar-credito-15",
@@ -23115,7 +23115,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Las Eduardas\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23161,7 +23161,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Orishas Sushi\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "orishas-sushi-itau-platinum-20",
@@ -23190,7 +23190,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Orishas Sushi\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "orishas-sushi-itau-volar-credito-15",
@@ -23220,7 +23220,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Orishas Sushi\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23265,7 +23265,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Essenza\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "essenza-itau-platinum-20",
@@ -23294,7 +23294,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Essenza\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "essenza-itau-volar-credito-15",
@@ -23324,7 +23324,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Essenza\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23369,7 +23369,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Jefris\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "jefris-itau-platinum-20",
@@ -23398,7 +23398,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Jefris\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "jefris-itau-volar-credito-15",
@@ -23428,7 +23428,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Jefris\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23474,7 +23474,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
         "legalTextHash": "4140ad610b001396e5fa8a2b1f0d0b3906f0f932e3ec6c7ac437e41652c59a66",
         "evidence": "Itaú lista \"Sweet Angie\" bajo \"25% menos\" en restaurantespersonalbank.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sweet-angie-itau-platinum-20",
@@ -23503,7 +23503,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"Sweet Angie\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sweet-angie-itau-volar-credito-15",
@@ -23533,7 +23533,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantes.html",
         "legalTextHash": "9e01f9238de379601e1ec01741fe877f7654237fe1069d0995c50df0c6ebe732",
         "evidence": "Itaú lista \"Sweet Angie\" bajo \"15% menos\" en restaurantes.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23577,7 +23577,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
         "legalTextHash": "444343a5be6db4d8b7fd62b51efe9db79917573fe87b8653035f5776492294db",
         "evidence": "Itaú lista \"La Estación\" bajo \"20% menos\" en restaurantesplatinum.html",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23619,7 +23619,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Actitud Sur {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23660,7 +23660,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Agnes L {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23710,7 +23710,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Amén {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23752,7 +23752,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Benson & Thomas {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23794,7 +23794,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Club House {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23835,7 +23835,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: GAP {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23876,7 +23876,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Homini {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23917,7 +23917,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Lanka {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lanka-itau-volar-credito-15",
@@ -23949,7 +23949,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Lanka {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -23990,7 +23990,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Rupia {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rupia-itau-volar-credito-15",
@@ -24022,7 +24022,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Rupia {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24063,7 +24063,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Damen {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "damen-itau-volar-credito-15",
@@ -24095,7 +24095,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Damen {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24138,7 +24138,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Lucy in the Sky {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24179,7 +24179,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Mac {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24220,7 +24220,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Magma {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24270,7 +24270,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Magnolia {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24320,7 +24320,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Mandinga {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24361,7 +24361,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Cher {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24402,7 +24402,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Mutma {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24443,7 +24443,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Petra {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "petra-itau-volar-credito-15",
@@ -24475,7 +24475,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Petra {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24516,7 +24516,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Rapsodia {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24558,7 +24558,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Sierra Mora {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24599,7 +24599,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Panthai {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "panthai-itau-volar-credito-15",
@@ -24631,7 +24631,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Panthai {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24672,7 +24672,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Be Ganesha {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24713,7 +24713,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Maura {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "maura-itau-volar-credito-15",
@@ -24745,7 +24745,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Maura {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24786,7 +24786,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Sonsoles {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sonsoles-itau-volar-credito-15",
@@ -24818,7 +24818,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Sonsoles {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24859,7 +24859,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Polonio {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24901,7 +24901,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Caro Cuore {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24943,7 +24943,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Von Braun {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -24985,7 +24985,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Óptica Nova {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "optica-nova-itau-volar-credito-15",
@@ -25017,7 +25017,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Óptica Nova {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25058,7 +25058,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Rosa Rosa {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25099,7 +25099,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Cherie {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25140,7 +25140,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Lanhtropy {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25181,7 +25181,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Tits {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25222,7 +25222,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Capri {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "capri-itau-volar-credito-15",
@@ -25254,7 +25254,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Capri {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25296,7 +25296,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Caro Criado {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25337,7 +25337,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: CROCS {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25378,7 +25378,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Fitpoint {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25428,7 +25428,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Inbox {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25470,7 +25470,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Pur Classique {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25511,7 +25511,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Tascani {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25552,7 +25552,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Saura {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25593,7 +25593,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Celmo {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25634,7 +25634,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Erre {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25675,7 +25675,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Hand {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25716,7 +25716,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Jibona {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "jibona-itau-volar-credito-15",
@@ -25748,7 +25748,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Jibona {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25790,7 +25790,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Pura Lana {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pura-lana-itau-volar-credito-15",
@@ -25822,7 +25822,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Pura Lana {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25863,7 +25863,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Badook {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25904,7 +25904,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Romero {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -25945,7 +25945,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Vopero {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vopero-itau-volar-credito-15",
@@ -25977,7 +25977,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Vopero {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26027,7 +26027,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Wanama {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26068,7 +26068,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Watchme {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "watchme-itau-volar-credito-15",
@@ -26100,7 +26100,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Watchme {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26145,7 +26145,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Seven for all mind kind {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26195,7 +26195,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: El beso {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26237,7 +26237,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: ALEXANDRA BAHL {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26280,7 +26280,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Clinica Florencia Duarte {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26321,7 +26321,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Perpetua {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "perpetua-itau-volar-credito-15",
@@ -26353,7 +26353,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Perpetua {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26394,7 +26394,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Anthea {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "anthea-itau-volar-credito-15",
@@ -26426,7 +26426,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Anthea {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26476,7 +26476,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Shill {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26517,7 +26517,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Petrichor {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "petrichor-itau-volar-credito-15",
@@ -26549,7 +26549,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Petrichor {credito:25, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26599,7 +26599,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Mixup {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26641,7 +26641,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Ros Garden {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26682,7 +26682,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Zingara {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26723,7 +26723,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Allegra {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26764,7 +26764,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Meller {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26805,7 +26805,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: PEPPERS {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26847,7 +26847,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Pour La Plage {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pour-la-plage-santander-credito-15",
@@ -26882,7 +26882,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pour La Plage): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26923,7 +26923,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Marimba {credito:25, debito:15} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "marimba-itau-volar-credito-15",
@@ -26955,7 +26955,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Marimba {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -26997,7 +26997,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Puro Punto {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "puro-punto-itau-volar-credito-15",
@@ -27029,7 +27029,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Puro Punto {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27070,7 +27070,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Santomar {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27111,7 +27111,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Sierramora {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27153,7 +27153,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Actutid Sur {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27194,7 +27194,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Birkenstock {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27236,7 +27236,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Casa Ribera {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-ribera-santander-credito-15",
@@ -27271,7 +27271,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Casa Ribera): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27312,7 +27312,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Amadeus {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "amadeus-itau-volar-credito-15",
@@ -27344,7 +27344,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Amadeus {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27385,7 +27385,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Havaianas {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27435,7 +27435,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: By Florencia {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27476,7 +27476,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Levi`s {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27518,7 +27518,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Miss Carol {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27559,7 +27559,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Peppos {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27602,7 +27602,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: The chemist look {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27643,7 +27643,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: AntoniaWool {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27685,7 +27685,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Sport market {credito:25, debito:null} (25% Personal Bank)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27736,7 +27736,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Urban Haus {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27787,7 +27787,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Ferrero Studio {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27837,7 +27837,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Suma {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27888,7 +27888,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: LA BOUTIQUE PARIS {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27938,7 +27938,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.itau.com.uy/inst/includes/moda-15-cdn/js.00a46daa.js",
         "legalTextHash": "07798c35f84dfcded74a71f216450bec0048632ca87a8627424b4a1f984d66ad",
         "evidence": "Itaú Moda: Denali {credito:null, debito:15} (15% Crédito general)",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -27989,7 +27989,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/xiaomi.html",
         "legalTextHash": "04e2029b1b6c699543fdc8b0eac1306edd5e8097efc624273bad31f238c4449a",
         "evidence": "BBVA (Xiaomi Uruguay): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2026-11-01)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28036,7 +28036,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Clementine_Natural.html",
         "legalTextHash": "f69e554acef62265b92368db24abeddd5b347e824d131766068d395695cc89ce",
         "evidence": "BBVA (Clementine Natural): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "clementine-natural-bbva-credito-20",
@@ -28066,7 +28066,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Clementine_Natural.html",
         "legalTextHash": "f69e554acef62265b92368db24abeddd5b347e824d131766068d395695cc89ce",
         "evidence": "BBVA (Clementine Natural): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28113,7 +28113,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Zanetti.html",
         "legalTextHash": "0e3bcc4ce2d022f96c822010f3512b4162eb8cdaa34a484f55c9cd7ece5b1bdb",
         "evidence": "BBVA (Zanetti): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "zanetti-bbva-credito-20",
@@ -28144,7 +28144,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Zanetti.html",
         "legalTextHash": "0e3bcc4ce2d022f96c822010f3512b4162eb8cdaa34a484f55c9cd7ece5b1bdb",
         "evidence": "BBVA (Zanetti): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas (Vigencia: 2027-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28191,7 +28191,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Alfabeta.html",
         "legalTextHash": "1a46e37fd99b9b8f62b29d1a12de6e9445701924bc08801bbc4d1abaaf71cb64",
         "evidence": "BBVA (Alfabeta): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alfabeta-bbva-debito-20",
@@ -28222,7 +28222,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Alfabeta.html",
         "legalTextHash": "1a46e37fd99b9b8f62b29d1a12de6e9445701924bc08801bbc4d1abaaf71cb64",
         "evidence": "BBVA (Alfabeta): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28271,7 +28271,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/hacienda-tierra-negra.html",
         "legalTextHash": "b29584ff45395bb4923cfc1e73c6791b8c0fc928c77b2ecb2eced081d1083c5b",
         "evidence": "BBVA (Hacienda Tierra Negra): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hacienda-tierra-negra-bbva-debito-20",
@@ -28303,7 +28303,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/hacienda-tierra-negra.html",
         "legalTextHash": "b29584ff45395bb4923cfc1e73c6791b8c0fc928c77b2ecb2eced081d1083c5b",
         "evidence": "BBVA (Hacienda Tierra Negra): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28349,7 +28349,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-morrina.html",
         "legalTextHash": "e4d7c018df76a1ae747c96ca0b719430a186eccc36e24dd852c9bca174a092c3",
         "evidence": "BBVA (Restaurante Morriña): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-morrina-bbva-debito-20",
@@ -28380,7 +28380,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-morrina.html",
         "legalTextHash": "e4d7c018df76a1ae747c96ca0b719430a186eccc36e24dd852c9bca174a092c3",
         "evidence": "BBVA (Restaurante Morriña): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28429,7 +28429,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/tropical-smoothies.html",
         "legalTextHash": "13bc785b092094d79e85a7462e7acbd0020f9893003ccda5deadc9a70230e921",
         "evidence": "BBVA (Tropical Smoothies): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tropical-smoothies-bbva-debito-20",
@@ -28461,7 +28461,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/tropical-smoothies.html",
         "legalTextHash": "13bc785b092094d79e85a7462e7acbd0020f9893003ccda5deadc9a70230e921",
         "evidence": "BBVA (Tropical Smoothies): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28510,7 +28510,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/pintureria-Nalon.html",
         "legalTextHash": "3717be22d58aa491ff5416d8167e4dbc1d0d31c9cac330e1d0d3c98c69e8cfe0",
         "evidence": "BBVA (Pinturería Nalon): \"30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28556,7 +28556,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-otro-es-mercat.html",
         "legalTextHash": "6899dd5fd72272f53607a765f22d71e00eec9b855433695f8cc38ef1b2fc42a9",
         "evidence": "BBVA (El Otro Es Mercat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-otro-es-mercat-bbva-debito-20",
@@ -28587,7 +28587,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-otro-es-mercat.html",
         "legalTextHash": "6899dd5fd72272f53607a765f22d71e00eec9b855433695f8cc38ef1b2fc42a9",
         "evidence": "BBVA (El Otro Es Mercat): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28635,7 +28635,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/PELOKITOS.html",
         "legalTextHash": "76856a7a04d13f7b81a75346c5c6d20694505544c3ad86d37e0e2a267f4006c0",
         "evidence": "BBVA (Pelokitos): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas · 15% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28680,7 +28680,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Up_Lavista.html",
         "legalTextHash": "0952aa28f41802f4d4e8d1acf2099b36c4385ae92fc3c5a04f0295fa797aa092",
         "evidence": "BBVA (Up Lavista): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "up-lavista-bbva-debito-20",
@@ -28711,7 +28711,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Up_Lavista.html",
         "legalTextHash": "0952aa28f41802f4d4e8d1acf2099b36c4385ae92fc3c5a04f0295fa797aa092",
         "evidence": "BBVA (Up Lavista): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28758,7 +28758,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/matias-gonzalez.html",
         "legalTextHash": "cf6ec5c99225022c58ad9e1523d1a35f95dbca9b322993944cdb8108a5937b4c",
         "evidence": "BBVA (Matías González): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "matias-gonzalez-bbva-debito-20",
@@ -28790,7 +28790,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/matias-gonzalez.html",
         "legalTextHash": "cf6ec5c99225022c58ad9e1523d1a35f95dbca9b322993944cdb8108a5937b4c",
         "evidence": "BBVA (Matías González): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28837,7 +28837,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia_Crillon.html",
         "legalTextHash": "48895a5a557ec8e00346b68f311c1a12c86cffce91fcf249be5464b410858bce",
         "evidence": "BBVA (Farmacia Crillón): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-crillon-bbva-debito-20",
@@ -28869,7 +28869,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia_Crillon.html",
         "legalTextHash": "48895a5a557ec8e00346b68f311c1a12c86cffce91fcf249be5464b410858bce",
         "evidence": "BBVA (Farmacia Crillón): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28917,7 +28917,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/Sunglass_Hut.html",
         "legalTextHash": "6dc2e95f67e6807f177dfc52edfd3dfa8915de51332dae8434d59f31b064300e",
         "evidence": "BBVA (Sunglass Hut): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sunglass-hut-bbva-credito-20",
@@ -28948,7 +28948,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/Sunglass_Hut.html",
         "legalTextHash": "6dc2e95f67e6807f177dfc52edfd3dfa8915de51332dae8434d59f31b064300e",
         "evidence": "BBVA (Sunglass Hut): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -28996,7 +28996,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Zanti_Pizza.html",
         "legalTextHash": "694359f9702ed95feca5a5a4a157f8d0a3bc5bb7e3e3a4130a0be11c237f159b",
         "evidence": "BBVA (Zanti Pizza): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "zanti-pizza-bbva-debito-20",
@@ -29027,7 +29027,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Zanti_Pizza.html",
         "legalTextHash": "694359f9702ed95feca5a5a4a157f8d0a3bc5bb7e3e3a4130a0be11c237f159b",
         "evidence": "BBVA (Zanti Pizza): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29072,7 +29072,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/La_Chingada.html",
         "legalTextHash": "ff9cd23ae6f695960748b1d82734241b07fd35180b40867909c433ae3675c0bc",
         "evidence": "BBVA (La Chingada): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-chingada-bbva-debito-20",
@@ -29103,7 +29103,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/La_Chingada.html",
         "legalTextHash": "ff9cd23ae6f695960748b1d82734241b07fd35180b40867909c433ae3675c0bc",
         "evidence": "BBVA (La Chingada): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29149,7 +29149,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/le-bleu.html",
         "legalTextHash": "34ea3fde2401302e296dbad8890164c3717c2ce83801346784e204fa26498fe4",
         "evidence": "BBVA (Le Bleu): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "le-bleu-bbva-credito-20",
@@ -29179,7 +29179,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/le-bleu.html",
         "legalTextHash": "34ea3fde2401302e296dbad8890164c3717c2ce83801346784e204fa26498fe4",
         "evidence": "BBVA (Le Bleu): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29226,7 +29226,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/prodeco.html",
         "legalTextHash": "794c0a5a272320839d50644af3b5215f145939218ecae5a2d40105c87dea8fbf",
         "evidence": "BBVA (Prodéco): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "prodeco-bbva-credito-20",
@@ -29257,7 +29257,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/prodeco.html",
         "legalTextHash": "794c0a5a272320839d50644af3b5215f145939218ecae5a2d40105c87dea8fbf",
         "evidence": "BBVA (Prodéco): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29306,7 +29306,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/barraca-el-surco.html",
         "legalTextHash": "64adc60207db13c671aa4a233e077cdb55770ae6605de0cd1ab381757dd4442a",
         "evidence": "BBVA (Barraca El Surco): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29354,7 +29354,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-barros-blancos---yalale.html",
         "legalTextHash": "d80fe57520ded86a0eb087679ca145c79f286f6c4484f0f3c4e3dc70e6503b6c",
         "evidence": "BBVA (Farmacia Barros Blancos / Yalale): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-barros-blancos-yalale-bbva-debito-20",
@@ -29385,7 +29385,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-barros-blancos---yalale.html",
         "legalTextHash": "d80fe57520ded86a0eb087679ca145c79f286f6c4484f0f3c4e3dc70e6503b6c",
         "evidence": "BBVA (Farmacia Barros Blancos / Yalale): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29431,7 +29431,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-diva.html",
         "legalTextHash": "560736384cbbe4f176076b858c9f5779a877c28f041a9d3c52cd97b418aef043",
         "evidence": "BBVA (Farmacia Diva): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-diva-bbva-debito-20",
@@ -29462,7 +29462,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-diva.html",
         "legalTextHash": "560736384cbbe4f176076b858c9f5779a877c28f041a9d3c52cd97b418aef043",
         "evidence": "BBVA (Farmacia Diva): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29508,7 +29508,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-acuario.html",
         "legalTextHash": "ea9b3d6972bcf59f1bdfbad5d2c5df4f7f41381e3a88c6ab9a7cd5531f2d871e",
         "evidence": "BBVA (Farmacia Acuario): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-acuario-bbva-debito-20",
@@ -29539,7 +29539,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-acuario.html",
         "legalTextHash": "ea9b3d6972bcf59f1bdfbad5d2c5df4f7f41381e3a88c6ab9a7cd5531f2d871e",
         "evidence": "BBVA (Farmacia Acuario): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29586,7 +29586,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-nueva-canelones.html",
         "legalTextHash": "413a5b305ae54d09f5d858919f6ad1d043d5712e493f4616f08259aaf127f970",
         "evidence": "BBVA (Farmacia Nueva Canelones): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-nueva-canelones-bbva-debito-20",
@@ -29617,7 +29617,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-nueva-canelones.html",
         "legalTextHash": "413a5b305ae54d09f5d858919f6ad1d043d5712e493f4616f08259aaf127f970",
         "evidence": "BBVA (Farmacia Nueva Canelones): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29664,7 +29664,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farma-uy.html",
         "legalTextHash": "6b94f729cbf30f6a35ab31f569e8081ec05caf84453b3459ccb1e72f00d3adcc",
         "evidence": "BBVA (Farma Uy): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farma-uy-bbva-debito-20",
@@ -29697,7 +29697,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farma-uy.html",
         "legalTextHash": "6b94f729cbf30f6a35ab31f569e8081ec05caf84453b3459ccb1e72f00d3adcc",
         "evidence": "BBVA (Farma Uy): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29743,7 +29743,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-telechea.html",
         "legalTextHash": "7f56e4eb555a0fdca9eaece38214eecdc7f9ed642d0549e9a4b32724ab87321a",
         "evidence": "BBVA (Farmacia Telechea): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-telechea-bbva-debito-20",
@@ -29774,7 +29774,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-telechea.html",
         "legalTextHash": "7f56e4eb555a0fdca9eaece38214eecdc7f9ed642d0549e9a4b32724ab87321a",
         "evidence": "BBVA (Farmacia Telechea): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29822,7 +29822,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-tundisi-obelisco.html",
         "legalTextHash": "6d4f1ff3d99e90d08558363d3e76aec6cf4faa3ec8322ba9899418ab702a7838",
         "evidence": "BBVA (Farmacia Tundisi Obelisco): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-tundisi-obelisco-bbva-debito-20",
@@ -29854,7 +29854,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-tundisi-obelisco.html",
         "legalTextHash": "6d4f1ff3d99e90d08558363d3e76aec6cf4faa3ec8322ba9899418ab702a7838",
         "evidence": "BBVA (Farmacia Tundisi Obelisco): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29902,7 +29902,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-tundisi-obelisco-ii.html",
         "legalTextHash": "1fc3e8cd4db8495d2d23cff01d247344ea8f94e0425528fc83a025ae56e4abd0",
         "evidence": "BBVA (Farmacia Tundisi Obelisco II): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-tundisi-obelisco-ii-bbva-debito-20",
@@ -29934,7 +29934,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-tundisi-obelisco-ii.html",
         "legalTextHash": "1fc3e8cd4db8495d2d23cff01d247344ea8f94e0425528fc83a025ae56e4abd0",
         "evidence": "BBVA (Farmacia Tundisi Obelisco II): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -29982,7 +29982,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/fempay.html",
         "legalTextHash": "5b345de17d4a8a3953b65fde98272614733f525933ba6c8fa79972a58c553679",
         "evidence": "BBVA (Fempay): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30029,7 +30029,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Berna_Home.html",
         "legalTextHash": "884d2f40730d72f2b6243d7845efa24230efdfa2f952ef45cb59e0b052311293",
         "evidence": "BBVA (Berna Home): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "berna-home-bbva-credito-20",
@@ -30059,7 +30059,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Berna_Home.html",
         "legalTextHash": "884d2f40730d72f2b6243d7845efa24230efdfa2f952ef45cb59e0b052311293",
         "evidence": "BBVA (Berna Home): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30106,7 +30106,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amado.html",
         "legalTextHash": "000d07fdd444161e3846082138b6b240ac2e3db3d48b1d792cd5f8073ee2aa86",
         "evidence": "BBVA (Amado): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "amado-bbva-debito-20",
@@ -30137,7 +30137,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amado.html",
         "legalTextHash": "000d07fdd444161e3846082138b6b240ac2e3db3d48b1d792cd5f8073ee2aa86",
         "evidence": "BBVA (Amado): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30186,7 +30186,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/A_Brillar_Cafe.html",
         "legalTextHash": "101ee1d7f127c9b504bcb3cc108e872a460a8a13c7dbcabe3e6530395ceeede6",
         "evidence": "BBVA (A Brillar Café): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "a-brillar-cafe-bbva-debito-20",
@@ -30218,7 +30218,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/A_Brillar_Cafe.html",
         "legalTextHash": "101ee1d7f127c9b504bcb3cc108e872a460a8a13c7dbcabe3e6530395ceeede6",
         "evidence": "BBVA (A Brillar Café): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30266,7 +30266,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/la-obreria.html",
         "legalTextHash": "43af136fdae81aa292427da4e2e7a9650a53ab2360b8436cb38410839a730dc9",
         "evidence": "BBVA (La Obrería): \"20% Off con Tarjetas de Crédito BBVA (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30313,7 +30313,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/TL_SPORT.html",
         "legalTextHash": "dda450f0f61f6cf24112c920a9a70c6d553c6f656585d28d64748e78d446c463",
         "evidence": "BBVA (TL SPORTS): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tl-sports-bbva-credito-20",
@@ -30344,7 +30344,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/TL_SPORT.html",
         "legalTextHash": "dda450f0f61f6cf24112c920a9a70c6d553c6f656585d28d64748e78d446c463",
         "evidence": "BBVA (TL SPORTS): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30391,7 +30391,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-parque-posadas.html",
         "legalTextHash": "fe7556e05649148f9aa81f9dfd0cd8e8dc55cc8d0f0dbbe45a86dc6312e2e5c2",
         "evidence": "BBVA (Farmacia Parque Posadas): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-parque-posadas-bbva-debito-20",
@@ -30422,7 +30422,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-parque-posadas.html",
         "legalTextHash": "fe7556e05649148f9aa81f9dfd0cd8e8dc55cc8d0f0dbbe45a86dc6312e2e5c2",
         "evidence": "BBVA (Farmacia Parque Posadas): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30468,7 +30468,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-cooper.html",
         "legalTextHash": "72cea42067e782ef8f88b33c8d7204712d473a0412bc47f998fba13100437e38",
         "evidence": "BBVA (Farmacia Cooper): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-cooper-bbva-debito-20",
@@ -30499,7 +30499,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-cooper.html",
         "legalTextHash": "72cea42067e782ef8f88b33c8d7204712d473a0412bc47f998fba13100437e38",
         "evidence": "BBVA (Farmacia Cooper): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30544,7 +30544,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/FarmaMillan.html",
         "legalTextHash": "7a5deacacd065cd11fea32f81352aa1a2c20ce6e7a0430ca82cc5ea46be20dfe",
         "evidence": "BBVA (FarmaMillán): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmamillan-bbva-debito-20",
@@ -30575,7 +30575,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/FarmaMillan.html",
         "legalTextHash": "7a5deacacd065cd11fea32f81352aa1a2c20ce6e7a0430ca82cc5ea46be20dfe",
         "evidence": "BBVA (FarmaMillán): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30621,7 +30621,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-araujo.html",
         "legalTextHash": "054020a2d48ec0ba61f73b118a87fc01e6d882083ebaf61991f11c4224f99940",
         "evidence": "BBVA (Farmacia Araujo): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-araujo-bbva-debito-20",
@@ -30652,7 +30652,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-araujo.html",
         "legalTextHash": "054020a2d48ec0ba61f73b118a87fc01e6d882083ebaf61991f11c4224f99940",
         "evidence": "BBVA (Farmacia Araujo): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30698,7 +30698,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-rubira.html",
         "legalTextHash": "4c3751f1acc52526d3664c3a09b1efca1b40928a04951762ef669341a9f27b0d",
         "evidence": "BBVA (Farmacia Rubira): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-rubira-bbva-debito-20",
@@ -30729,7 +30729,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-rubira.html",
         "legalTextHash": "4c3751f1acc52526d3664c3a09b1efca1b40928a04951762ef669341a9f27b0d",
         "evidence": "BBVA (Farmacia Rubira): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30776,7 +30776,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-paris-notti.html",
         "legalTextHash": "e0e61b5ba626e4952faf58f4c2fa7deff842247e0ec3a0525865bc082ba996fa",
         "evidence": "BBVA (Farmacia París y Notti): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-paris-y-notti-bbva-debito-20",
@@ -30807,7 +30807,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-paris-notti.html",
         "legalTextHash": "e0e61b5ba626e4952faf58f4c2fa7deff842247e0ec3a0525865bc082ba996fa",
         "evidence": "BBVA (Farmacia París y Notti): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30858,7 +30858,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/tienda-oficial-penarol.html",
         "legalTextHash": "aaf27daca2aa9c8927e64cdf599f8c375a7f7806f680b8a1651aede68fa4689f",
         "evidence": "BBVA (Tienda Oficial Peñarol): \"10% Off con Tarjetas de Crédito Internacionales, Oro y Platinum BBVA Club Atlético Peñarol (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30904,7 +30904,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/josephine.html",
         "legalTextHash": "277631c9d7cf6a2e3fdcd09ea9efecf58f3ebd9326b083e8e6d719b26ef2d126",
         "evidence": "BBVA (Joséphine): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "josephine-bbva-credito-20",
@@ -30934,7 +30934,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/josephine.html",
         "legalTextHash": "277631c9d7cf6a2e3fdcd09ea9efecf58f3ebd9326b083e8e6d719b26ef2d126",
         "evidence": "BBVA (Joséphine): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -30982,7 +30982,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/vanina-gentile0.html",
         "legalTextHash": "5478cd5c610c68aa00044031ec2fbfdacf320e0668d5a401bccefa047e08f56c",
         "evidence": "BBVA (Vanina Gentile): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vanina-gentile-bbva-credito-20",
@@ -31013,7 +31013,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/vanina-gentile0.html",
         "legalTextHash": "5478cd5c610c68aa00044031ec2fbfdacf320e0668d5a401bccefa047e08f56c",
         "evidence": "BBVA (Vanina Gentile): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31061,7 +31061,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Zapateria_macri.html",
         "legalTextHash": "c7333b7bba952ce7bbeadaa17b38b7c5f0eeed2806314095927069ed3d791fb5",
         "evidence": "BBVA (Zapatería macri): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "zapateria-macri-bbva-credito-20",
@@ -31092,7 +31092,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Zapateria_macri.html",
         "legalTextHash": "c7333b7bba952ce7bbeadaa17b38b7c5f0eeed2806314095927069ed3d791fb5",
         "evidence": "BBVA (Zapatería macri): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31140,7 +31140,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/marina-nature.html",
         "legalTextHash": "b9b7a45a6f4d9375660e484ad60903ecad46e9b76987a6ad9f4dec0ae358c39f",
         "evidence": "BBVA (Marina Nature): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "marina-nature-bbva-credito-20",
@@ -31171,7 +31171,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/marina-nature.html",
         "legalTextHash": "b9b7a45a6f4d9375660e484ad60903ecad46e9b76987a6ad9f4dec0ae358c39f",
         "evidence": "BBVA (Marina Nature): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31218,7 +31218,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/100-artesanal.html",
         "legalTextHash": "7e7f66c55f73d7bce0c41fa49caa8750145c45a80d544241a7397bb2e3413b8e",
         "evidence": "BBVA (100% Artesanal): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "100-artesanal-bbva-debito-20",
@@ -31250,7 +31250,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/100-artesanal.html",
         "legalTextHash": "7e7f66c55f73d7bce0c41fa49caa8750145c45a80d544241a7397bb2e3413b8e",
         "evidence": "BBVA (100% Artesanal): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31295,7 +31295,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/es-mercat.html",
         "legalTextHash": "c0463d99991207592711ae72cf0025a3c68423bdf12d97f7f8449573c75cbf0f",
         "evidence": "BBVA (Es Mercat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "es-mercat-bbva-debito-20",
@@ -31326,7 +31326,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/es-mercat.html",
         "legalTextHash": "c0463d99991207592711ae72cf0025a3c68423bdf12d97f7f8449573c75cbf0f",
         "evidence": "BBVA (Es Mercat): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31372,7 +31372,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/bodeguita-de-carnes.html",
         "legalTextHash": "5dbbf03438edb0bded1c86724f816de12b186cada762e06601cc238a594f22c1",
         "evidence": "BBVA (Bodeguita de Carnes): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bodeguita-de-carnes-bbva-debito-20",
@@ -31403,7 +31403,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/bodeguita-de-carnes.html",
         "legalTextHash": "5dbbf03438edb0bded1c86724f816de12b186cada762e06601cc238a594f22c1",
         "evidence": "BBVA (Bodeguita de Carnes): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31453,7 +31453,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/bonacuina.html",
         "legalTextHash": "458b91217444b71df6925d7e9d35ba3db9c9365fa1db404ce007762650f02dcf",
         "evidence": "BBVA (Bonacuina): \"10% Off con en amoblamientos proyectados SCA con Tarjetas de Débito · 10% Off con en amoblamientos proyectados SCA con Tarjetas de crédito Internacionales, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31501,7 +31501,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/unica-jeans0.html",
         "legalTextHash": "b0658cf718f869eb36dd00cdc2be782248b660145d52994f8d050d57c5093918",
         "evidence": "BBVA (Única Jeans): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "unica-jeans-bbva-credito-20",
@@ -31532,7 +31532,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/unica-jeans0.html",
         "legalTextHash": "b0658cf718f869eb36dd00cdc2be782248b660145d52994f8d050d57c5093918",
         "evidence": "BBVA (Única Jeans): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31579,7 +31579,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/hoy-cocina-la-abuela.html",
         "legalTextHash": "22eb16d4756910371300e1e94adc394953bb7a15c1c3780123ccd943ea3e5401",
         "evidence": "BBVA (Hoy cocina la abuela): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hoy-cocina-la-abuela-bbva-debito-20",
@@ -31610,7 +31610,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/hoy-cocina-la-abuela.html",
         "legalTextHash": "22eb16d4756910371300e1e94adc394953bb7a15c1c3780123ccd943ea3e5401",
         "evidence": "BBVA (Hoy cocina la abuela): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31656,7 +31656,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-estacada.html",
         "legalTextHash": "aa5df6550d1ca51e16eb7f5defbe55f85a95477f132b5f4c8a3bb490feaeac5f",
         "evidence": "BBVA (Restaurante La Estacada): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-la-estacada-bbva-debito-20",
@@ -31687,7 +31687,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-estacada.html",
         "legalTextHash": "aa5df6550d1ca51e16eb7f5defbe55f85a95477f132b5f4c8a3bb490feaeac5f",
         "evidence": "BBVA (Restaurante La Estacada): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31735,7 +31735,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/miami-box.html",
         "legalTextHash": "50071962f161c2c31ccb3fc87b3485a2394da110ac5dda8a3dd045719e9b7f7f",
         "evidence": "BBVA (Miami Box): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "miami-box-bbva-credito-20",
@@ -31766,7 +31766,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/miami-box.html",
         "legalTextHash": "50071962f161c2c31ccb3fc87b3485a2394da110ac5dda8a3dd045719e9b7f7f",
         "evidence": "BBVA (Miami Box): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-09-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31813,7 +31813,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-emporio-de-los-sandwiches.html",
         "legalTextHash": "ea9ac218e59a1f28c2dc32aae04fe4156b740dc724dea867b4900a4f61d04891",
         "evidence": "BBVA (Emporio de los Sándwiches): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "emporio-de-los-sandwiches-bbva-debito-20",
@@ -31844,7 +31844,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-emporio-de-los-sandwiches.html",
         "legalTextHash": "ea9ac218e59a1f28c2dc32aae04fe4156b740dc724dea867b4900a4f61d04891",
         "evidence": "BBVA (Emporio de los Sándwiches): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacionales, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31892,7 +31892,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/anne-chaussure.html",
         "legalTextHash": "bed192f4d4ff2f3b259723924caea40aa414551e290b7abf2b0a4d284e227d2b",
         "evidence": "BBVA (Anne Chaussure): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "anne-chaussure-bbva-credito-20",
@@ -31923,7 +31923,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/anne-chaussure.html",
         "legalTextHash": "bed192f4d4ff2f3b259723924caea40aa414551e290b7abf2b0a4d284e227d2b",
         "evidence": "BBVA (Anne Chaussure): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -31970,7 +31970,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Nubia.html",
         "legalTextHash": "cd783181b2012e3fce66db58d8f5acab5620785f467a0d54593c0d64b54cc0d3",
         "evidence": "BBVA (Nubia): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "nubia-bbva-credito-20",
@@ -32001,7 +32001,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Nubia.html",
         "legalTextHash": "cd783181b2012e3fce66db58d8f5acab5620785f467a0d54593c0d64b54cc0d3",
         "evidence": "BBVA (Nubia): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32049,7 +32049,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/punto-arte.html",
         "legalTextHash": "9495776d311d311c5b31f123a2a33671ff350ff0bc014312d7c67f7d1242ddf7",
         "evidence": "BBVA (Punto Arte): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "punto-arte-bbva-credito-20",
@@ -32080,7 +32080,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/punto-arte.html",
         "legalTextHash": "9495776d311d311c5b31f123a2a33671ff350ff0bc014312d7c67f7d1242ddf7",
         "evidence": "BBVA (Punto Arte): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32127,7 +32127,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/sosi.html",
         "legalTextHash": "d180922b1f71356fbc87f14f8e2acb81f489c0dd1c5e2d6e5c43e2e6984f3384",
         "evidence": "BBVA (Sosi): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sosi-bbva-credito-20",
@@ -32158,7 +32158,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/sosi.html",
         "legalTextHash": "d180922b1f71356fbc87f14f8e2acb81f489c0dd1c5e2d6e5c43e2e6984f3384",
         "evidence": "BBVA (Sosi): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32204,7 +32204,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farma-glam.html",
         "legalTextHash": "75aa3c587d6e0e2b2d1fdabb2c590654fb8c3b14c380c61c7e6e37dd30b5cbae",
         "evidence": "BBVA (Farmacia Farma&Glam): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-farmayglam-bbva-debito-20",
@@ -32235,7 +32235,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farma-glam.html",
         "legalTextHash": "75aa3c587d6e0e2b2d1fdabb2c590654fb8c3b14c380c61c7e6e37dd30b5cbae",
         "evidence": "BBVA (Farmacia Farma&Glam): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32284,7 +32284,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/santillana.html",
         "legalTextHash": "ec6d8cfc196fabe5c3bc391b0c7d66ec083d959e3521f6e28b58eb33bf1d0547",
         "evidence": "BBVA (Editorial Santillana): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "editorial-santillana-bbva-credito-20",
@@ -32316,7 +32316,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/santillana.html",
         "legalTextHash": "ec6d8cfc196fabe5c3bc391b0c7d66ec083d959e3521f6e28b58eb33bf1d0547",
         "evidence": "BBVA (Editorial Santillana): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32362,7 +32362,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Submarino_Peral.html",
         "legalTextHash": "9dd68755a47ea1f36aceb2c045a71ae75f9645fe547f6ea3959e5781e00252dc",
         "evidence": "BBVA (Submarino Peral): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "submarino-peral-bbva-debito-20",
@@ -32393,7 +32393,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Submarino_Peral.html",
         "legalTextHash": "9dd68755a47ea1f36aceb2c045a71ae75f9645fe547f6ea3959e5781e00252dc",
         "evidence": "BBVA (Submarino Peral): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32439,7 +32439,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cibo.html",
         "legalTextHash": "930ea837a6d6d42f495f04115c9e0ce67b51a5fa34460ee3895297db23871773",
         "evidence": "BBVA (Cibo): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cibo-bbva-debito-20",
@@ -32471,7 +32471,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cibo.html",
         "legalTextHash": "930ea837a6d6d42f495f04115c9e0ce67b51a5fa34460ee3895297db23871773",
         "evidence": "BBVA (Cibo): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32518,7 +32518,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Serena.html",
         "legalTextHash": "e171152f1eb2ee6cee3353cf17448ada3b16e15d2a89025decc305e3f263935b",
         "evidence": "BBVA (Serena): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "serena-bbva-credito-20",
@@ -32549,7 +32549,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Serena.html",
         "legalTextHash": "e171152f1eb2ee6cee3353cf17448ada3b16e15d2a89025decc305e3f263935b",
         "evidence": "BBVA (Serena): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32598,7 +32598,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/pintureria-America.html",
         "legalTextHash": "04e552b94ada54c524abd8666afd32bf19798b5e4ff80d2cc710805e8b167e8e",
         "evidence": "BBVA (Pinturería América): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32645,7 +32645,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-nueva-modernel.html",
         "legalTextHash": "66642f787823e9e7d52eee09995b03c56651f105c1019c99b500306c36a0d2f4",
         "evidence": "BBVA (Farmacia Nueva Modernel): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-nueva-modernel-bbva-debito-20",
@@ -32676,7 +32676,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-nueva-modernel.html",
         "legalTextHash": "66642f787823e9e7d52eee09995b03c56651f105c1019c99b500306c36a0d2f4",
         "evidence": "BBVA (Farmacia Nueva Modernel): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32723,7 +32723,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/beef-house.html",
         "legalTextHash": "11643effc7db02bcd82375592bb62a202350015fe90a311dfc801d623a8f7333",
         "evidence": "BBVA (Carnicería Beef House): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "carniceria-beef-house-bbva-debito-20",
@@ -32754,7 +32754,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/beef-house.html",
         "legalTextHash": "11643effc7db02bcd82375592bb62a202350015fe90a311dfc801d623a8f7333",
         "evidence": "BBVA (Carnicería Beef House): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32803,7 +32803,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/good-kitchen.html",
         "legalTextHash": "84d69912503c57550630c7041ffb43d524ae04d9ed82b4e3794c819d8f43b574",
         "evidence": "BBVA (Good Kitchen): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "good-kitchen-bbva-credito-20",
@@ -32835,7 +32835,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/good-kitchen.html",
         "legalTextHash": "84d69912503c57550630c7041ffb43d524ae04d9ed82b4e3794c819d8f43b574",
         "evidence": "BBVA (Good Kitchen): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32884,7 +32884,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/alta-gracia-deco.html",
         "legalTextHash": "f3ab25fb73aaf4a55d4a4f15b7451f01e9ea64b5038aff38f8905b89e389e222",
         "evidence": "BBVA (Alta Gracia Deco): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alta-gracia-deco-bbva-credito-20",
@@ -32915,7 +32915,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/alta-gracia-deco.html",
         "legalTextHash": "f3ab25fb73aaf4a55d4a4f15b7451f01e9ea64b5038aff38f8905b89e389e222",
         "evidence": "BBVA (Alta Gracia Deco): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -32962,7 +32962,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/garden-pot.html",
         "legalTextHash": "264febc6bc6f9689f0aa05504cc77c149f3e3e8256558a65cd2822d47707ff10",
         "evidence": "BBVA (Garden Pot): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "garden-pot-bbva-credito-20",
@@ -32992,7 +32992,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/garden-pot.html",
         "legalTextHash": "264febc6bc6f9689f0aa05504cc77c149f3e3e8256558a65cd2822d47707ff10",
         "evidence": "BBVA (Garden Pot): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33038,7 +33038,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-femme.html",
         "legalTextHash": "152daa0fd9cdc32d567dca86ef51a1478b29b4d05618d19b174673f93b5331f3",
         "evidence": "BBVA (Farmacia Femme): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-femme-bbva-debito-20",
@@ -33069,7 +33069,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-femme.html",
         "legalTextHash": "152daa0fd9cdc32d567dca86ef51a1478b29b4d05618d19b174673f93b5331f3",
         "evidence": "BBVA (Farmacia Femme): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33118,7 +33118,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/bbq-uruguay.html",
         "legalTextHash": "49737cbc4ab5256bf059ee476d196cf9192f0a42e9a315318d8f6e251be7ed4a",
         "evidence": "BBVA (BBQ Uruguay): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33167,7 +33167,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/home-collection.html",
         "legalTextHash": "b41e501870705d916011751fbd638375999b0c2f15d598ede99370c5a26d3ccf",
         "evidence": "BBVA (Home Collection): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "home-collection-bbva-credito-20",
@@ -33199,7 +33199,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/home-collection.html",
         "legalTextHash": "b41e501870705d916011751fbd638375999b0c2f15d598ede99370c5a26d3ccf",
         "evidence": "BBVA (Home Collection): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33245,7 +33245,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-nueva-parrilla.html",
         "legalTextHash": "06e9d6ea41475282abd85b838c34108f5194f50c9c3f6c0d352e53655feb8fd2",
         "evidence": "BBVA (La Nueva Parrilla): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-nueva-parrilla-bbva-debito-20",
@@ -33276,7 +33276,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-nueva-parrilla.html",
         "legalTextHash": "06e9d6ea41475282abd85b838c34108f5194f50c9c3f6c0d352e53655feb8fd2",
         "evidence": "BBVA (La Nueva Parrilla): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33324,7 +33324,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/la-lenteriaSJ.html",
         "legalTextHash": "d04e8fdfe8ded009e7e4809ca9cfd8b4cbc67e804ae0ee27aba127fdb2122d0d",
         "evidence": "BBVA (La Lentería San José): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-lenteria-san-jose-bbva-credito-20",
@@ -33354,7 +33354,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/la-lenteriaSJ.html",
         "legalTextHash": "d04e8fdfe8ded009e7e4809ca9cfd8b4cbc67e804ae0ee27aba127fdb2122d0d",
         "evidence": "BBVA (La Lentería San José): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33401,7 +33401,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/malas-juntas.html",
         "legalTextHash": "2ca4520345417880dff8016993298f913342870d4d7237858c5bb50b7c5608b8",
         "evidence": "BBVA (Malas Juntas): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "malas-juntas-bbva-credito-20",
@@ -33431,7 +33431,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/malas-juntas.html",
         "legalTextHash": "2ca4520345417880dff8016993298f913342870d4d7237858c5bb50b7c5608b8",
         "evidence": "BBVA (Malas Juntas): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33478,7 +33478,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/la-lenteria.html",
         "legalTextHash": "dee631b8f155c6874b4315173fc94843e88b9b0793b15a798205a2f5aec760e6",
         "evidence": "BBVA (La Lentería): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-lenteria-bbva-credito-20",
@@ -33509,7 +33509,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/la-lenteria.html",
         "legalTextHash": "dee631b8f155c6874b4315173fc94843e88b9b0793b15a798205a2f5aec760e6",
         "evidence": "BBVA (La Lentería): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33557,7 +33557,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
         "legalTextHash": "35b836f199d9460b76a6719a542233a57b682f3a810ea4e984ab83cbe6d1e946",
         "evidence": "BBVA (Mavim Boutique): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mavim-boutique-bbva-credito-20",
@@ -33588,7 +33588,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mavim-boutique.html",
         "legalTextHash": "35b836f199d9460b76a6719a542233a57b682f3a810ea4e984ab83cbe6d1e946",
         "evidence": "BBVA (Mavim Boutique): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33634,7 +33634,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
         "legalTextHash": "e18c3bfd22e2fd75024c8c593a8f479c4d64705b3d5e4bd6877dfda344edc13d",
         "evidence": "BBVA (Rústico Hogar): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rustico-hogar-bbva-credito-20",
@@ -33664,7 +33664,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Rustico_Hogar.html",
         "legalTextHash": "e18c3bfd22e2fd75024c8c593a8f479c4d64705b3d5e4bd6877dfda344edc13d",
         "evidence": "BBVA (Rústico Hogar): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33711,7 +33711,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
         "legalTextHash": "de93bbfcb25e847e5746c3174480557aecf452775281ec0dc9c58b4f3b474fa2",
         "evidence": "BBVA (Tu Ración): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tu-racion-bbva-credito-20",
@@ -33742,7 +33742,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/Tu_Racion.html",
         "legalTextHash": "de93bbfcb25e847e5746c3174480557aecf452775281ec0dc9c58b4f3b474fa2",
         "evidence": "BBVA (Tu Ración): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33789,7 +33789,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html",
         "legalTextHash": "fd6c2d72ca36e63289bb3ac2b60c3551b292c30ffd11a127a422067a08162bdd",
         "evidence": "BBVA (By Vicky): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "by-vicky-bbva-credito-20",
@@ -33820,7 +33820,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/By_Vicky.html",
         "legalTextHash": "fd6c2d72ca36e63289bb3ac2b60c3551b292c30ffd11a127a422067a08162bdd",
         "evidence": "BBVA (By Vicky): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33867,7 +33867,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/maline.html",
         "legalTextHash": "89411d349ee2009d885f0d33d6a98bbb660f7d1cbc7137cb70bd1d611e80d6ba",
         "evidence": "BBVA (Maliné): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "maline-bbva-credito-20",
@@ -33898,7 +33898,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/maline.html",
         "legalTextHash": "89411d349ee2009d885f0d33d6a98bbb660f7d1cbc7137cb70bd1d611e80d6ba",
         "evidence": "BBVA (Maliné): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -33943,7 +33943,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
         "legalTextHash": "c6bb47a2fa8f0a017327dba5ed364396710067799aa97bee8fca3751c740a5d7",
         "evidence": "BBVA (El Corral): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-corral-bbva-debito-20",
@@ -33974,7 +33974,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/El_Corral.html",
         "legalTextHash": "c6bb47a2fa8f0a017327dba5ed364396710067799aa97bee8fca3751c740a5d7",
         "evidence": "BBVA (El Corral): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34022,7 +34022,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
         "legalTextHash": "5af7d292eaa3d3881f0aa514362d355bea43ccedebc5c6af9923f4e5626e2a58",
         "evidence": "BBVA (Portofino Cafe): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "portofino-cafe-bbva-debito-20",
@@ -34053,7 +34053,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Portofino_Cafe.html",
         "legalTextHash": "5af7d292eaa3d3881f0aa514362d355bea43ccedebc5c6af9923f4e5626e2a58",
         "evidence": "BBVA (Portofino Cafe): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34099,7 +34099,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
         "legalTextHash": "104b697f9bea36d86a591c821431f36f7e7b4c3bc44c93646a8bd62224341b9d",
         "evidence": "BBVA (Say Cheese): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "say-cheese-bbva-debito-20",
@@ -34130,7 +34130,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Say_Cheese.html",
         "legalTextHash": "104b697f9bea36d86a591c821431f36f7e7b4c3bc44c93646a8bd62224341b9d",
         "evidence": "BBVA (Say Cheese): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34178,7 +34178,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Mar_Abierto.html",
         "legalTextHash": "430d2db983e29b32dcdbdde4b29499ffe3c8130c094fea7971bbc417765d6915",
         "evidence": "BBVA (Mar Abierto): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mar-abierto-bbva-debito-20",
@@ -34209,7 +34209,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Mar_Abierto.html",
         "legalTextHash": "430d2db983e29b32dcdbdde4b29499ffe3c8130c094fea7971bbc417765d6915",
         "evidence": "BBVA (Mar Abierto): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34257,7 +34257,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/NORTHFIELD.html",
         "legalTextHash": "dfdb61b694ef500e1ef626a2e2228920fb00b1a9826985675ae11cab50f214e0",
         "evidence": "BBVA (Northfield): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas · 20% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34303,7 +34303,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Kraken-Piriapolis.html",
         "legalTextHash": "7244699a2f9c96fc138454f7b744d310112dca1a2db9197a3ba90e4bf89b3b7b",
         "evidence": "BBVA (Kraken Piriápolis): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "kraken-piriapolis-bbva-debito-20",
@@ -34334,7 +34334,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Kraken-Piriapolis.html",
         "legalTextHash": "7244699a2f9c96fc138454f7b744d310112dca1a2db9197a3ba90e4bf89b3b7b",
         "evidence": "BBVA (Kraken Piriápolis): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34382,7 +34382,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cultura_Alfabeta1.html",
         "legalTextHash": "97e8588e31ccb0c858a3ee5a330626ba6ed4e1cc71d4c04d53a27f59117aa7ac",
         "evidence": "BBVA (Cultura Alfabeta): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cultura-alfabeta-bbva-debito-20",
@@ -34413,7 +34413,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Cultura_Alfabeta1.html",
         "legalTextHash": "97e8588e31ccb0c858a3ee5a330626ba6ed4e1cc71d4c04d53a27f59117aa7ac",
         "evidence": "BBVA (Cultura Alfabeta): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-08-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34459,7 +34459,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
         "legalTextHash": "6e6b69c07bf56aa273765d1977c3db07c0a3d2a481e3ddf8cea7b2883c710506",
         "evidence": "BBVA (Restaurante 1930): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-1930-bbva-debito-20",
@@ -34490,7 +34490,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_1930.html",
         "legalTextHash": "6e6b69c07bf56aa273765d1977c3db07c0a3d2a481e3ddf8cea7b2883c710506",
         "evidence": "BBVA (Restaurante 1930): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34537,7 +34537,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html",
         "legalTextHash": "5f97eefa3ba8dc7f7c41625d6b51447be0b80dcec8a9f27bc11cab246dad07b1",
         "evidence": "BBVA (Vlack): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vlack-bbva-credito-20",
@@ -34568,7 +34568,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/VLACK.html",
         "legalTextHash": "5f97eefa3ba8dc7f7c41625d6b51447be0b80dcec8a9f27bc11cab246dad07b1",
         "evidence": "BBVA (Vlack): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34616,7 +34616,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/flo-beauty.html",
         "legalTextHash": "56a97f859d32a28e2fc5fa415120f94637156f1c7bcb03a4e1a0f1ac0ee232b2",
         "evidence": "BBVA (Flo Beauty): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34663,7 +34663,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html",
         "legalTextHash": "570ebc9b00256f1dd4f50e4ee5e8d62910b7518ddd274d61af27165d11e69cf8",
         "evidence": "BBVA (La Yunta): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-yunta-bbva-credito-20",
@@ -34694,7 +34694,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/la-yunta-hospital-veterinario.html",
         "legalTextHash": "570ebc9b00256f1dd4f50e4ee5e8d62910b7518ddd274d61af27165d11e69cf8",
         "evidence": "BBVA (La Yunta): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34740,7 +34740,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/jugueteria-gibernau.html",
         "legalTextHash": "864d1d3ec806fedec3367053cbf1d5742eb826c1546b4a4a3e04667e27c3e32b",
         "evidence": "BBVA (Gibernau): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "gibernau-bbva-credito-20",
@@ -34770,7 +34770,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/jugueteria-gibernau.html",
         "legalTextHash": "864d1d3ec806fedec3367053cbf1d5742eb826c1546b4a4a3e04667e27c3e32b",
         "evidence": "BBVA (Gibernau): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34817,7 +34817,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/figari-bistro.html",
         "legalTextHash": "b3ccc112a3cf210a617d6623234f5b88b102dc0268a13909797e0d01024222c5",
         "evidence": "BBVA (Figari Bistró): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "figari-bistro-bbva-debito-20",
@@ -34849,7 +34849,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/figari-bistro.html",
         "legalTextHash": "b3ccc112a3cf210a617d6623234f5b88b102dc0268a13909797e0d01024222c5",
         "evidence": "BBVA (Figari Bistró): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34897,7 +34897,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/cafe_suarez.html",
         "legalTextHash": "f650c6add295e67de841b063f1779130b4cb4c6e03ccb6e229b887c9ee2bd516",
         "evidence": "BBVA (Café Suárez): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-suarez-bbva-debito-20",
@@ -34928,7 +34928,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/cafe_suarez.html",
         "legalTextHash": "f650c6add295e67de841b063f1779130b4cb4c6e03ccb6e229b887c9ee2bd516",
         "evidence": "BBVA (Café Suárez): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -34973,7 +34973,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/a-la-par.html",
         "legalTextHash": "6f58741820693c7bff7fefd218aeabfdc7e3bd4ee9a0858db7646250b0b1a46a",
         "evidence": "BBVA (A la Par): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "a-la-par-bbva-debito-20",
@@ -35004,7 +35004,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/a-la-par.html",
         "legalTextHash": "6f58741820693c7bff7fefd218aeabfdc7e3bd4ee9a0858db7646250b0b1a46a",
         "evidence": "BBVA (A la Par): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35054,7 +35054,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Marmatu.html",
         "legalTextHash": "3382bd8cb13864dc395a92b0343de5a0ec142b46d762b92bef6827437ad2b035",
         "evidence": "BBVA (Alimentos Congelados Marmatu): \"15% Off con Tarjetas de Débito · 15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35101,7 +35101,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/kokino.html",
         "legalTextHash": "9832dac7e9693e2b537575cbfbd9292f782e7128a3422a131ebeae9d49bf2bc6",
         "evidence": "BBVA (Kokino): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "kokino-bbva-credito-20",
@@ -35132,7 +35132,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/kokino.html",
         "legalTextHash": "9832dac7e9693e2b537575cbfbd9292f782e7128a3422a131ebeae9d49bf2bc6",
         "evidence": "BBVA (Kokino): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35179,7 +35179,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Polita.html",
         "legalTextHash": "3f7d7e9dbd01c226b77d8beaf17f1b50e9fc4caef9b034e2c51618344cbca1ec",
         "evidence": "BBVA (Polita): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "polita-bbva-credito-20",
@@ -35210,7 +35210,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Polita.html",
         "legalTextHash": "3f7d7e9dbd01c226b77d8beaf17f1b50e9fc4caef9b034e2c51618344cbca1ec",
         "evidence": "BBVA (Polita): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35256,7 +35256,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Capra.html",
         "legalTextHash": "b30057691f315027b14458eb14c46d44697bcac33ae9589b66babffa353cf7b3",
         "evidence": "BBVA (Capra): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "capra-bbva-credito-20",
@@ -35286,7 +35286,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Capra.html",
         "legalTextHash": "b30057691f315027b14458eb14c46d44697bcac33ae9589b66babffa353cf7b3",
         "evidence": "BBVA (Capra): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35332,7 +35332,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/STANKAUSKAS.html",
         "legalTextHash": "762d625f36ab13a6d404b747b10583b9598a7ed695f5e8e8de713948a78c2e84",
         "evidence": "BBVA (STANKAUSKAS): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "stankauskas-bbva-credito-20",
@@ -35362,7 +35362,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/STANKAUSKAS.html",
         "legalTextHash": "762d625f36ab13a6d404b747b10583b9598a7ed695f5e8e8de713948a78c2e84",
         "evidence": "BBVA (STANKAUSKAS): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35410,7 +35410,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Vichi_Bijou.html",
         "legalTextHash": "460dc1d4ca0f718bdf10a98159055a5e203b4ece7959966022cee69ef34c19e8",
         "evidence": "BBVA (Vichi Bijou): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vichi-bijou-bbva-credito-20",
@@ -35441,7 +35441,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Vichi_Bijou.html",
         "legalTextHash": "460dc1d4ca0f718bdf10a98159055a5e203b4ece7959966022cee69ef34c19e8",
         "evidence": "BBVA (Vichi Bijou): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35488,7 +35488,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/parrillada-classic.html",
         "legalTextHash": "f01ce3a771724210df8387ac22fa149952de8951efced1544bbe2fb384dd9df7",
         "evidence": "BBVA (Parrillada Classic): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "parrillada-classic-bbva-debito-20",
@@ -35520,7 +35520,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/parrillada-classic.html",
         "legalTextHash": "f01ce3a771724210df8387ac22fa149952de8951efced1544bbe2fb384dd9df7",
         "evidence": "BBVA (Parrillada Classic): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35570,7 +35570,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_y_Cafeteria_El_Fondito_Gourmet.html",
         "legalTextHash": "74b81d2653def648df4cdcbcc87a7480e3f406628e5bc0a5915bb9d0b9a257d6",
         "evidence": "BBVA (Restaurante y Cafetería El Fondito Gourmet): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-y-cafeteria-el-fondito-gourmet-bbva-debito-20",
@@ -35601,7 +35601,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Restaurante_y_Cafeteria_El_Fondito_Gourmet.html",
         "legalTextHash": "74b81d2653def648df4cdcbcc87a7480e3f406628e5bc0a5915bb9d0b9a257d6",
         "evidence": "BBVA (Restaurante y Cafetería El Fondito Gourmet): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35648,7 +35648,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/foncho-y-juanita.html",
         "legalTextHash": "4a59a77f77059a2ec6998eb9277af4a156dd1bfac64833aa6e60579c3b6d19e6",
         "evidence": "BBVA (Foncho & Juanita): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "foncho-y-juanita-bbva-credito-20",
@@ -35678,7 +35678,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/foncho-y-juanita.html",
         "legalTextHash": "4a59a77f77059a2ec6998eb9277af4a156dd1bfac64833aa6e60579c3b6d19e6",
         "evidence": "BBVA (Foncho & Juanita): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35727,7 +35727,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/centro-repuestos.html",
         "legalTextHash": "8086dad22d542f6f4566bcd5c2fced77c7c6faba56d96f486ea8be9a5a92e524",
         "evidence": "BBVA (Centro Repuestos): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35774,7 +35774,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-vision.html",
         "legalTextHash": "cf834adbf4229590c2e8de5b89630e903763d6f95e656f1fcea530aebdd868f6",
         "evidence": "BBVA (Óptica Visión): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "optica-vision-bbva-credito-20",
@@ -35804,7 +35804,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-vision.html",
         "legalTextHash": "cf834adbf4229590c2e8de5b89630e903763d6f95e656f1fcea530aebdd868f6",
         "evidence": "BBVA (Óptica Visión): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35850,7 +35850,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/camposhop.html",
         "legalTextHash": "2c048a9b079812b4d03c06a17afaf9b168cac421071b6d6ebc82b4c1e462a42d",
         "evidence": "BBVA (CampoShop): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "camposhop-bbva-credito-20",
@@ -35880,7 +35880,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/camposhop.html",
         "legalTextHash": "2c048a9b079812b4d03c06a17afaf9b168cac421071b6d6ebc82b4c1e462a42d",
         "evidence": "BBVA (CampoShop): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -35930,7 +35930,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/bajamar-tuna.html",
         "legalTextHash": "e9829c986d8ce0c20cf4c8f2094a0f41289bce238d1fdbbcdf80c53fc934b879",
         "evidence": "BBVA (Bajamar Surf & Skate Shop/Chill Surfshop): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bajamar-surf-y-skate-shop-chill-surfshop-bbva-credito-20",
@@ -35960,7 +35960,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/bajamar-tuna.html",
         "legalTextHash": "e9829c986d8ce0c20cf4c8f2094a0f41289bce238d1fdbbcdf80c53fc934b879",
         "evidence": "BBVA (Bajamar Surf & Skate Shop/Chill Surfshop): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36008,7 +36008,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/belen-sagasti-peluqueria.html",
         "legalTextHash": "ca020420f7b78a16f5ac7a9f8223f52c2c7534e530f7d97311c96b71d11e7e45",
         "evidence": "BBVA (Belén Sagasti Peluquería): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36054,7 +36054,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Casa-Flo.html",
         "legalTextHash": "12a32e2529c0c5d14480e1e8a47a198a6e669db2fe1caa619f20f64dbcd6cc10",
         "evidence": "BBVA (Casa Flo): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-flo-bbva-debito-20",
@@ -36085,7 +36085,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Casa-Flo.html",
         "legalTextHash": "12a32e2529c0c5d14480e1e8a47a198a6e669db2fe1caa619f20f64dbcd6cc10",
         "evidence": "BBVA (Casa Flo): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-07-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36134,7 +36134,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-pasiva1.html",
         "legalTextHash": "5eb6658c80835aec43d16a52b44396a752672d582115dcc0aa228cd3f50b1a66",
         "evidence": "BBVA (Restaurante La Pasiva Pocitos): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-la-pasiva-pocitos-bbva-debito-20",
@@ -36165,7 +36165,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-pasiva1.html",
         "legalTextHash": "5eb6658c80835aec43d16a52b44396a752672d582115dcc0aa228cd3f50b1a66",
         "evidence": "BBVA (Restaurante La Pasiva Pocitos): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36215,7 +36215,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-pasiva.html",
         "legalTextHash": "3c4f63ba9c5595350e766a898714b3eb89aeb2989b80ec3a3b9a0db43b8cd4ea",
         "evidence": "BBVA (Restaurante La Pasiva Roosevelt): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-la-pasiva-roosevelt-bbva-debito-20",
@@ -36247,7 +36247,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-pasiva.html",
         "legalTextHash": "3c4f63ba9c5595350e766a898714b3eb89aeb2989b80ec3a3b9a0db43b8cd4ea",
         "evidence": "BBVA (Restaurante La Pasiva Roosevelt): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36294,7 +36294,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Nival.html",
         "legalTextHash": "5191ed2b3544cf6fdfe77c130e40c78f98aa86cdea9dd8c32523eb22ef78420b",
         "evidence": "BBVA (NIVAL): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36345,7 +36345,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/entradas-penarol.html",
         "legalTextHash": "65c192420b9132d78b4f81bd495125d5f5965bd2b6b53362456e14cdd7b06cff",
         "evidence": "BBVA (Peñarol - Entradas de Campeonato Uruguayo): \"10% Off con Tarjetas de Crédito Internacionales, Oro y Platinum BBVA Club Atlético Peñarol (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36391,7 +36391,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/miyagi-sushi.html",
         "legalTextHash": "686de625cde8777c568193467d56a96400aaa2277fd75058430831ac083d1087",
         "evidence": "BBVA (Miyagi Sushi): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "miyagi-sushi-bbva-debito-20",
@@ -36422,7 +36422,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/miyagi-sushi.html",
         "legalTextHash": "686de625cde8777c568193467d56a96400aaa2277fd75058430831ac083d1087",
         "evidence": "BBVA (Miyagi Sushi): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36469,7 +36469,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/la-escondida.html",
         "legalTextHash": "eed238993758b2388e3061f81cc7a598cd03c2692f778639305f54d5089dcc62",
         "evidence": "BBVA (La Escondida): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-escondida-bbva-credito-20",
@@ -36500,7 +36500,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/la-escondida.html",
         "legalTextHash": "eed238993758b2388e3061f81cc7a598cd03c2692f778639305f54d5089dcc62",
         "evidence": "BBVA (La Escondida): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36549,7 +36549,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/puertito-don-anselmo.html",
         "legalTextHash": "4ec52c02021a6f90df5b0c3564704578e9faca88a9e080b233daba1951664269",
         "evidence": "BBVA (Restaurante Puertito Don Anselmo): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-puertito-don-anselmo-bbva-debito-20",
@@ -36581,7 +36581,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/puertito-don-anselmo.html",
         "legalTextHash": "4ec52c02021a6f90df5b0c3564704578e9faca88a9e080b233daba1951664269",
         "evidence": "BBVA (Restaurante Puertito Don Anselmo): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36631,7 +36631,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/miercoles-25.html",
         "legalTextHash": "0bd01b5331012481c63e2f9cee8521555fbeb5fc609c5507b21049649c389655",
         "evidence": "BBVA (Miércoles 25% en BAS): \"25% Off con Tarjetas de Crédito BBVA Comunidad Plus Internacional, Oro e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36680,7 +36680,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/miercoles-10.html",
         "legalTextHash": "5430c749b572701bbf7a1c00ff67df5edc29c3cb5dd3341a710e8f928ffca541",
         "evidence": "BBVA (Miércoles de 10%): \"10% Off con Tarjetas de Crédito BBVA Comunidad Plus Internacional, Oro e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36727,7 +36727,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Botica-Farmacia-Albisu.html",
         "legalTextHash": "9aee623e3dc4b57e8044ba8f15189dd59eb7575851e336078165382ea342ef13",
         "evidence": "BBVA (Botica Farmacia Albisu): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "botica-farmacia-albisu-bbva-debito-20",
@@ -36758,7 +36758,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Botica-Farmacia-Albisu.html",
         "legalTextHash": "9aee623e3dc4b57e8044ba8f15189dd59eb7575851e336078165382ea342ef13",
         "evidence": "BBVA (Botica Farmacia Albisu): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36804,7 +36804,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacity.html",
         "legalTextHash": "b25078280211629145d735ea652bea3606ee85ec8aa10976f2effc49d9cc07d1",
         "evidence": "BBVA (Farmacia Farmacity): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-farmacity-bbva-debito-20",
@@ -36835,7 +36835,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacity.html",
         "legalTextHash": "b25078280211629145d735ea652bea3606ee85ec8aa10976f2effc49d9cc07d1",
         "evidence": "BBVA (Farmacia Farmacity): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36885,7 +36885,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Barraca_Maldonado.html",
         "legalTextHash": "3ef1bc8a054f9baebec326220e497e0f09e1e4cbb73b61b1dcf9f652c34f56cb",
         "evidence": "BBVA (Barraca Maldonado): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -36932,7 +36932,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/basefield.html",
         "legalTextHash": "35f78d11897e7c3b56e701c4f1fe0b745b0a027d1910d335bd23bda2d93f27b7",
         "evidence": "BBVA (Basefield): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "basefield-bbva-credito-20",
@@ -36963,7 +36963,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/basefield.html",
         "legalTextHash": "35f78d11897e7c3b56e701c4f1fe0b745b0a027d1910d335bd23bda2d93f27b7",
         "evidence": "BBVA (Basefield): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37012,7 +37012,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/biela-repuestos.html",
         "legalTextHash": "d20cce35d03960e568c015ebd5c3d69bf2b8caf91707d00e4fa69f050f975f4e",
         "evidence": "BBVA (Biela Repuestos): \"15% Off con Tarjetas de Crédito BBVA (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37058,7 +37058,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia-Garcen.html",
         "legalTextHash": "5fe286a81e24d397297cc57b976edaa3b9badf785a580f123db7f34890113906",
         "evidence": "BBVA (Farmacia Garcén): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-garcen-bbva-debito-20",
@@ -37089,7 +37089,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia-Garcen.html",
         "legalTextHash": "5fe286a81e24d397297cc57b976edaa3b9badf785a580f123db7f34890113906",
         "evidence": "BBVA (Farmacia Garcén): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37135,7 +37135,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/buybox.html",
         "legalTextHash": "1e0cc9547861a975298c2175dd6e07bddf27434c41a6f8d1343f130e74ea393f",
         "evidence": "BBVA (BuyBox): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "buybox-bbva-credito-20",
@@ -37165,7 +37165,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/buybox.html",
         "legalTextHash": "1e0cc9547861a975298c2175dd6e07bddf27434c41a6f8d1343f130e74ea393f",
         "evidence": "BBVA (BuyBox): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37212,7 +37212,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/la-hora-exacta.html",
         "legalTextHash": "07613a2cd48a5973836ebf7372e041267a5780f0ef7582260d90b1e53620bbdc",
         "evidence": "BBVA (La Hora Exacta): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-hora-exacta-bbva-credito-20",
@@ -37242,7 +37242,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/la-hora-exacta.html",
         "legalTextHash": "07613a2cd48a5973836ebf7372e041267a5780f0ef7582260d90b1e53620bbdc",
         "evidence": "BBVA (La Hora Exacta): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37288,7 +37288,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-don-bigote.html",
         "legalTextHash": "fd6b4ae57fdb500fbfd983585fad143b76aa9f281c0eb973203689de3f7fbc93",
         "evidence": "BBVA (Don Bigote): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "don-bigote-bbva-debito-20",
@@ -37319,7 +37319,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-don-bigote.html",
         "legalTextHash": "fd6b4ae57fdb500fbfd983585fad143b76aa9f281c0eb973203689de3f7fbc93",
         "evidence": "BBVA (Don Bigote): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37367,7 +37367,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/forum-design.html",
         "legalTextHash": "b793f85397ff9634cce56c584c8de1c5f9b8c3f3d203d0e893a8805e423a3cf3",
         "evidence": "BBVA (Forum Design): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "forum-design-bbva-credito-20",
@@ -37398,7 +37398,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/forum-design.html",
         "legalTextHash": "b793f85397ff9634cce56c584c8de1c5f9b8c3f3d203d0e893a8805e423a3cf3",
         "evidence": "BBVA (Forum Design): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37446,7 +37446,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Tienda_Pegazzano.html",
         "legalTextHash": "eeb84dcc4d0571257768935c7ee865b3948236e6aa031088a576cc187be3f544",
         "evidence": "BBVA (Tienda Pegazzano): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tienda-pegazzano-bbva-credito-20",
@@ -37477,7 +37477,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Tienda_Pegazzano.html",
         "legalTextHash": "eeb84dcc4d0571257768935c7ee865b3948236e6aa031088a576cc187be3f544",
         "evidence": "BBVA (Tienda Pegazzano): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37523,7 +37523,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/1900.html",
         "legalTextHash": "b80c1847b646acdf8a74b29a91ef24f428300351e19f69bb003360e6a7e0c2e2",
         "evidence": "BBVA (Restaurante 1900): \"30% Off con Tarjetas de Crédito Platinum BBVA Club Nacional de Football (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-1900-bbva-credito-20",
@@ -37553,7 +37553,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/1900.html",
         "legalTextHash": "b80c1847b646acdf8a74b29a91ef24f428300351e19f69bb003360e6a7e0c2e2",
         "evidence": "BBVA (Restaurante 1900): \"20% Off con Tarjetas de Crédito Internacional, Oro BBVA Club Nacional de Football (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37601,7 +37601,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/ABC_Papeleria.html",
         "legalTextHash": "a155cceb58511d06d01b0fc2a000bab368d4ad0aec668c18f05ad836cb328e4c",
         "evidence": "BBVA (ABC Papelerìa): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37648,7 +37648,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sobremesas.html",
         "legalTextHash": "1f38309a9d46877d05d4429b0dfa40e53d5765d4317c41e7ba973462872b915a",
         "evidence": "BBVA (Sobremesas): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sobremesas-bbva-credito-20",
@@ -37679,7 +37679,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sobremesas.html",
         "legalTextHash": "1f38309a9d46877d05d4429b0dfa40e53d5765d4317c41e7ba973462872b915a",
         "evidence": "BBVA (Sobremesas): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37730,7 +37730,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/zona-Tecno.html",
         "legalTextHash": "1963c907f106ec05877d44af34d58bdbc870631968e88fdad73cd4dc39897400",
         "evidence": "BBVA (Zona Tecno): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37775,7 +37775,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bocatti.html",
         "legalTextHash": "c49fd74d4e3044a299122ce474be279cf9e15b4b7cba76d12fbac431c9687834",
         "evidence": "BBVA (Bocatti): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bocatti-bbva-debito-20",
@@ -37806,7 +37806,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bocatti.html",
         "legalTextHash": "c49fd74d4e3044a299122ce474be279cf9e15b4b7cba76d12fbac431c9687834",
         "evidence": "BBVA (Bocatti): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37856,7 +37856,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/panalera-san-jose.html",
         "legalTextHash": "e2fa04b7f1bb29e09dd45241f659e949510e41f14027a5ab1e4754ead6098e40",
         "evidence": "BBVA (Pañalera San José): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas · 15% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37902,7 +37902,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/moli-mo.html",
         "legalTextHash": "232c2a03e21b759efbc8fa0381b1175ddc7bea06af9b3d956b13f911eb2c8585",
         "evidence": "BBVA (Moli Mo): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "moli-mo-bbva-credito-20",
@@ -37932,7 +37932,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/moli-mo.html",
         "legalTextHash": "232c2a03e21b759efbc8fa0381b1175ddc7bea06af9b3d956b13f911eb2c8585",
         "evidence": "BBVA (Moli Mo): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -37979,7 +37979,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Innocenti.html",
         "legalTextHash": "15be34de0b39c0ebf23a9d4e60be592a360d2068f0a7da32f9e9bf3753eb454c",
         "evidence": "BBVA (Innocenti): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "innocenti-bbva-credito-20",
@@ -38010,7 +38010,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/Innocenti.html",
         "legalTextHash": "15be34de0b39c0ebf23a9d4e60be592a360d2068f0a7da32f9e9bf3753eb454c",
         "evidence": "BBVA (Innocenti): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38058,7 +38058,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/metropolitana-pisos.html",
         "legalTextHash": "cf7d7d0d6dca4c8e81717ac7d052d000af2e1cfb8e620d0e5d412b169b740bf5",
         "evidence": "BBVA (Metropolitana Pisos): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "metropolitana-pisos-bbva-credito-20",
@@ -38089,7 +38089,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/metropolitana-pisos.html",
         "legalTextHash": "cf7d7d0d6dca4c8e81717ac7d052d000af2e1cfb8e620d0e5d412b169b740bf5",
         "evidence": "BBVA (Metropolitana Pisos): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38136,7 +38136,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/confiteria-cantegrill.html",
         "legalTextHash": "5228e54dd68550ee6a14bd18a19fe9ce7ada9bfea61d9b550113480ff415f081",
         "evidence": "BBVA (Cantegrill): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cantegrill-bbva-debito-20",
@@ -38167,7 +38167,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/confiteria-cantegrill.html",
         "legalTextHash": "5228e54dd68550ee6a14bd18a19fe9ce7ada9bfea61d9b550113480ff415f081",
         "evidence": "BBVA (Cantegrill): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38217,7 +38217,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/ciudad-aventura.html",
         "legalTextHash": "edafdec3679c0acc21cdcce5a559cea8cc2ef0d83dd058d8105f6c9bb7c4b021",
         "evidence": "BBVA (Tienda de mascotas Ciudad Aventura): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tienda-de-mascotas-ciudad-aventura-bbva-credito-20",
@@ -38248,7 +38248,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/ciudad-aventura.html",
         "legalTextHash": "edafdec3679c0acc21cdcce5a559cea8cc2ef0d83dd058d8105f6c9bb7c4b021",
         "evidence": "BBVA (Tienda de mascotas Ciudad Aventura): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38297,7 +38297,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-americana.html",
         "legalTextHash": "ffaf4dc5f214005dfccffa2ce5e9b970b07f498a6a21f316c8e56e9cf7e90389",
         "evidence": "BBVA (Óptica Americana): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "optica-americana-bbva-credito-20",
@@ -38329,7 +38329,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-americana.html",
         "legalTextHash": "ffaf4dc5f214005dfccffa2ce5e9b970b07f498a6a21f316c8e56e9cf7e90389",
         "evidence": "BBVA (Óptica Americana): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38377,7 +38377,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/natal.html",
         "legalTextHash": "c97b8e2e7b9f395f9f3c321f0c357e3a3644031221ab955a357cc7925e6b249e",
         "evidence": "BBVA (Natal): \"15% Off con todas las Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38426,7 +38426,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/heladeria-del-abuelo.html",
         "legalTextHash": "4b73ec7f858b8a0b4440e08113572026d6ea94e2e855c0e6997e9b8a93fed95a",
         "evidence": "BBVA (Del Abuelo): \"50% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "del-abuelo-bbva-debito-30",
@@ -38458,7 +38458,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/heladeria-del-abuelo.html",
         "legalTextHash": "4b73ec7f858b8a0b4440e08113572026d6ea94e2e855c0e6997e9b8a93fed95a",
         "evidence": "BBVA (Del Abuelo): \"30% Off con Tarjetas de Débito · 30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38504,7 +38504,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/positano_trattoria.html",
         "legalTextHash": "65991d1b4a7892c09cb31177dd70fa5ffec9a469c0d294b1751d8876ae6edeb5",
         "evidence": "BBVA (Positano Trattoria): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "positano-trattoria-bbva-debito-20",
@@ -38535,7 +38535,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/positano_trattoria.html",
         "legalTextHash": "65991d1b4a7892c09cb31177dd70fa5ffec9a469c0d294b1751d8876ae6edeb5",
         "evidence": "BBVA (Positano Trattoria): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38582,7 +38582,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Unilux.html",
         "legalTextHash": "0d5fda146f51021e65ed248ef10b0c5bf5314fd84d682b85267acba8fa77f755",
         "evidence": "BBVA (Unilux): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "unilux-bbva-credito-20",
@@ -38613,7 +38613,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Unilux.html",
         "legalTextHash": "0d5fda146f51021e65ed248ef10b0c5bf5314fd84d682b85267acba8fa77f755",
         "evidence": "BBVA (Unilux): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38659,7 +38659,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Casa_Berracos.html",
         "legalTextHash": "0381a2b9c36cbe4c68a67e1f91fe5427592dee9c987f1b53429d1a7d543a7db9",
         "evidence": "BBVA (Casa Berracos): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-berracos-bbva-debito-20",
@@ -38690,7 +38690,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Casa_Berracos.html",
         "legalTextHash": "0381a2b9c36cbe4c68a67e1f91fe5427592dee9c987f1b53429d1a7d543a7db9",
         "evidence": "BBVA (Casa Berracos): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38737,7 +38737,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/CASA_SAMIC.html",
         "legalTextHash": "58ce83c983a516bb9dada04a2f208647151dcb706b635a528ac98d38642e9799",
         "evidence": "BBVA (CASA & SAMIC): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-y-samic-bbva-credito-20",
@@ -38767,7 +38767,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/CASA_SAMIC.html",
         "legalTextHash": "58ce83c983a516bb9dada04a2f208647151dcb706b635a528ac98d38642e9799",
         "evidence": "BBVA (CASA & SAMIC): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38819,7 +38819,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/atlantico-padel-club.html",
         "legalTextHash": "efbc15fa94595ab67b26f0b7d54689d73e8c3a7c79455f86f56580844f2137e7",
         "evidence": "BBVA (Atlántico Pádel Club): \"15% Off con Tarjetas de Débito · 15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38869,7 +38869,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/atlantico-trampoline-park.html",
         "legalTextHash": "314c300de5261abb15ba458435450103baf7456aef96857bbb7e4d5443fb449b",
         "evidence": "BBVA (Atlántico Trampoline Park): \"30% Off con Tarjetas de Débito · 30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38916,7 +38916,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Dubai_Signature.html",
         "legalTextHash": "d549697b1cac4ba5a92be97bcd56be83d372c4e570f81a54637098c28747e57d",
         "evidence": "BBVA (Dubai Signature): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -38969,7 +38969,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-indumentaria.html",
         "legalTextHash": "c98b29121adcfc5cb48c07810ce36db07d0e2d16e6b55bf6ef2c61051f10f84f",
         "evidence": "BBVA (Tienda Oficial Club Nacional de Football): \"10% Off con Tarjetas de Crédito Internacionales, Oro y Platinum BBVA Club Nacional de Football (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39018,7 +39018,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Dufour_rural.html",
         "legalTextHash": "686a8edecd6b4c9cffb48e963144dec0f5ada84a1d06635c24957e4d2796b8bc",
         "evidence": "BBVA (Dufour rural): \"10% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39065,7 +39065,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/RDC.html",
         "legalTextHash": "706efb2c54f715244dd4c59315845c3fc224e1ef36f43072a9805a211df3b904",
         "evidence": "BBVA (RDC): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rdc-bbva-credito-20",
@@ -39096,7 +39096,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/RDC.html",
         "legalTextHash": "706efb2c54f715244dd4c59315845c3fc224e1ef36f43072a9805a211df3b904",
         "evidence": "BBVA (RDC): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39144,7 +39144,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/glassy-waves.html",
         "legalTextHash": "2c0bc7cd20ab1f9e7233b4cd41f5f4e0f8cbc485c3dced9dd6e9574bb0d424da",
         "evidence": "BBVA (Glassy Waves): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "glassy-waves-bbva-credito-20",
@@ -39175,7 +39175,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/glassy-waves.html",
         "legalTextHash": "2c0bc7cd20ab1f9e7233b4cd41f5f4e0f8cbc485c3dced9dd6e9574bb0d424da",
         "evidence": "BBVA (Glassy Waves): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39222,7 +39222,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/Optica_Ernst.html",
         "legalTextHash": "440e85ebd9508535d5a1e27b747c855b521f3ebeaf3b7c976372f2960cd02efe",
         "evidence": "BBVA (Optica Ernst): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "optica-ernst-bbva-credito-20",
@@ -39252,7 +39252,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/Optica_Ernst.html",
         "legalTextHash": "440e85ebd9508535d5a1e27b747c855b521f3ebeaf3b7c976372f2960cd02efe",
         "evidence": "BBVA (Optica Ernst): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39300,7 +39300,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/uma-store.html",
         "legalTextHash": "144c902ce04bc3413ce09ff3b51669b75dfd71b59e1830dd3a41fb2581f1c92a",
         "evidence": "BBVA (Uma Store): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "uma-store-bbva-credito-20",
@@ -39331,7 +39331,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/uma-store.html",
         "legalTextHash": "144c902ce04bc3413ce09ff3b51669b75dfd71b59e1830dd3a41fb2581f1c92a",
         "evidence": "BBVA (Uma Store): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39378,7 +39378,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/lele.html",
         "legalTextHash": "0ed28755b34ccb52489c6bcb4cdb967a734c45a4e36de2c95043fc0e4511ebea",
         "evidence": "BBVA (Lelé): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lele-bbva-credito-20",
@@ -39409,7 +39409,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/lele.html",
         "legalTextHash": "0ed28755b34ccb52489c6bcb4cdb967a734c45a4e36de2c95043fc0e4511ebea",
         "evidence": "BBVA (Lelé): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39456,7 +39456,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/guilad-joyas.html",
         "legalTextHash": "6105a8716158920642725a02f289c618f1261a2b3538f4ce9ecffdbb55b7ac47",
         "evidence": "BBVA (Guilad Joyas): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39503,7 +39503,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/grace.html",
         "legalTextHash": "a43447c971a09d332c1493c2ee4fb706dfea89f06653cabf2bec6715b470d6d4",
         "evidence": "BBVA (Grace): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "grace-bbva-credito-20",
@@ -39534,7 +39534,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/grace.html",
         "legalTextHash": "a43447c971a09d332c1493c2ee4fb706dfea89f06653cabf2bec6715b470d6d4",
         "evidence": "BBVA (Grace): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39582,7 +39582,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/alejandra-iglesias.html",
         "legalTextHash": "77ad2d35b7788eebed4ccf5fd5a3c9abc44456d4ca2a4584b26933da32caf35d",
         "evidence": "BBVA (Alejandra Iglesias): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alejandra-iglesias-bbva-credito-20",
@@ -39613,7 +39613,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/alejandra-iglesias.html",
         "legalTextHash": "77ad2d35b7788eebed4ccf5fd5a3c9abc44456d4ca2a4584b26933da32caf35d",
         "evidence": "BBVA (Alejandra Iglesias): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39662,7 +39662,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/La_panalera.html",
         "legalTextHash": "7f6d11c8bd7164b4b05d758760e2d0fba592333daecdb3f6381d347b9a147a7e",
         "evidence": "BBVA (La pañalera): \"15% Off con Tarjetas de Débito · 15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-05-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39709,7 +39709,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/pet.html",
         "legalTextHash": "208d77c1460d8644e232c19f6fc2e5424ce74a009692b440ababb9e43d0e0765",
         "evidence": "BBVA (PET+): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pet-bbva-credito-20",
@@ -39740,7 +39740,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/pet.html",
         "legalTextHash": "208d77c1460d8644e232c19f6fc2e5424ce74a009692b440ababb9e43d0e0765",
         "evidence": "BBVA (PET+): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39786,7 +39786,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-albisu.html",
         "legalTextHash": "6ec088e7f745754b4413f44ea70c9545715cae75cbc591406b2a067bb62d64c1",
         "evidence": "BBVA (Farmacia Albisu): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-albisu-bbva-debito-20",
@@ -39817,7 +39817,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-albisu.html",
         "legalTextHash": "6ec088e7f745754b4413f44ea70c9545715cae75cbc591406b2a067bb62d64c1",
         "evidence": "BBVA (Farmacia Albisu): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39863,7 +39863,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-altieri.html",
         "legalTextHash": "0c7ea8d3b5a8142216522f7c5d8db216faa53ffe5f10926cc42659c7ac797c26",
         "evidence": "BBVA (Farmacia Altieri): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-altieri-bbva-debito-20",
@@ -39894,7 +39894,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-altieri.html",
         "legalTextHash": "0c7ea8d3b5a8142216522f7c5d8db216faa53ffe5f10926cc42659c7ac797c26",
         "evidence": "BBVA (Farmacia Altieri): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -39943,7 +39943,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/palacio-de-los-ninos.html",
         "legalTextHash": "32eee61051b58317332bbada1e4e240abeec203cefa0fadb35d6991183218ec3",
         "evidence": "BBVA (Palacio de los Niños): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "palacio-de-los-ninos-bbva-credito-20",
@@ -39974,7 +39974,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/palacio-de-los-ninos.html",
         "legalTextHash": "32eee61051b58317332bbada1e4e240abeec203cefa0fadb35d6991183218ec3",
         "evidence": "BBVA (Palacio de los Niños): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40021,7 +40021,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mari-mada.html",
         "legalTextHash": "51414422a8935a4ba18e946d9bb193e00ee3d91c86c6096a1c492f4e6dd0a7b5",
         "evidence": "BBVA (Marí Madá): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mari-mada-bbva-credito-20",
@@ -40051,7 +40051,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/mari-mada.html",
         "legalTextHash": "51414422a8935a4ba18e946d9bb193e00ee3d91c86c6096a1c492f4e6dd0a7b5",
         "evidence": "BBVA (Marí Madá): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40099,7 +40099,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Helados_Zero.html",
         "legalTextHash": "a80286d7398141eb579e89224a6558ac08de3ed30e7c813252e75534f4f890be",
         "evidence": "BBVA (Helados Zero): \"50% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "helados-zero-bbva-debito-30",
@@ -40130,7 +40130,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Helados_Zero.html",
         "legalTextHash": "a80286d7398141eb579e89224a6558ac08de3ed30e7c813252e75534f4f890be",
         "evidence": "BBVA (Helados Zero): \"30% Off con Tarjetas de Débito · 30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40177,7 +40177,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Chelato.html",
         "legalTextHash": "c8e9e4599eafcb2617df3f384b9d907085528ab4b59cbf46031d532c8f08a167",
         "evidence": "BBVA (Chelato): \"50% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "chelato-bbva-debito-30",
@@ -40208,7 +40208,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Chelato.html",
         "legalTextHash": "c8e9e4599eafcb2617df3f384b9d907085528ab4b59cbf46031d532c8f08a167",
         "evidence": "BBVA (Chelato): \"30% Off con Tarjetas de Débito · 30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40256,7 +40256,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/deseo-s.html",
         "legalTextHash": "f9e0b8dc07118c91062c9de6f401ab7872b7c5fc500630ce8566bb571fb0dc2f",
         "evidence": "BBVA (Deseo´s): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "deseo-s-bbva-credito-20",
@@ -40288,7 +40288,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/deseo-s.html",
         "legalTextHash": "f9e0b8dc07118c91062c9de6f401ab7872b7c5fc500630ce8566bb571fb0dc2f",
         "evidence": "BBVA (Deseo´s): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40336,7 +40336,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-san---gar.html",
         "legalTextHash": "04f6045823883aa2b6fd39140de24da3b6ffbc6f4a80ad3e20ae3ecc76c5d2a8",
         "evidence": "BBVA (Farmacia San - Gar): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-san-gar-bbva-debito-20",
@@ -40368,7 +40368,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-san---gar.html",
         "legalTextHash": "04f6045823883aa2b6fd39140de24da3b6ffbc6f4a80ad3e20ae3ecc76c5d2a8",
         "evidence": "BBVA (Farmacia San - Gar): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40417,7 +40417,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/helados-el-faro.html",
         "legalTextHash": "f230a154774e899820a09e82d7109132f4910c2738e64ac6b5a818e68f80e082",
         "evidence": "BBVA (Helados El Faro): \"50% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "helados-el-faro-bbva-debito-30",
@@ -40449,7 +40449,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/helados-el-faro.html",
         "legalTextHash": "f230a154774e899820a09e82d7109132f4910c2738e64ac6b5a818e68f80e082",
         "evidence": "BBVA (Helados El Faro): \"30% Off con Tarjetas de Débito · 30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40496,7 +40496,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amelie-bar-y-bistro.html",
         "legalTextHash": "de9023a28160a4ca18a0ab283f9659bf3641d146d10fe276cc04be9f44b73cf7",
         "evidence": "BBVA (Amélie Bar & Bistró): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "amelie-bar-y-bistro-bbva-debito-20",
@@ -40527,7 +40527,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amelie-bar-y-bistro.html",
         "legalTextHash": "de9023a28160a4ca18a0ab283f9659bf3641d146d10fe276cc04be9f44b73cf7",
         "evidence": "BBVA (Amélie Bar & Bistró): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40573,7 +40573,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/el-colmenar.html",
         "legalTextHash": "a672984bf8b1419eddbe92419a5f51cc8f6f85fa445f30db5ad28cd27b221a54",
         "evidence": "BBVA (El Colmenar): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-colmenar-bbva-credito-20",
@@ -40603,7 +40603,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/el-colmenar.html",
         "legalTextHash": "a672984bf8b1419eddbe92419a5f51cc8f6f85fa445f30db5ad28cd27b221a54",
         "evidence": "BBVA (El Colmenar): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-colmenar-santander-credito-15",
@@ -40638,7 +40638,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Colmenar): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40688,7 +40688,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Sodimac-Oportunidades-Exclusivas.html",
         "legalTextHash": "9db7b15f7310595f78bb4848bebba24b961c51a87f8b09b4ae8df85456aa3440",
         "evidence": "BBVA (Sodimac Oportunidades Exclusivas): \"40% Off con en productos seleccionados con Tarjetas de Crédito BBVA Sodimac (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40736,7 +40736,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/laskina-store.html",
         "legalTextHash": "d04b85ba80fe18cebece78e560b52002f339f2d4b73e4845bfc85b68addb5b44",
         "evidence": "BBVA (Laskina Store): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "laskina-store-bbva-credito-20",
@@ -40767,7 +40767,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/laskina-store.html",
         "legalTextHash": "d04b85ba80fe18cebece78e560b52002f339f2d4b73e4845bfc85b68addb5b44",
         "evidence": "BBVA (Laskina Store): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40817,7 +40817,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/sodimac-miercoles-de-descuentos.html",
         "legalTextHash": "c94280c89b26a868b7a4a796610d67cf52efb7454ec379dcc250eeecda3ffb70",
         "evidence": "BBVA (Miércoles de Sodimac): \"10% Off con Tarjetas de Crédito BBVA Sodimac (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40865,7 +40865,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Isadora_libros.html",
         "legalTextHash": "7db761f958a2e458fcac1fb921a8ee1b43c56afb1c71f5cc4cae7ab36f04f66b",
         "evidence": "BBVA (Isadora Libros): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "isadora-libros-bbva-credito-20",
@@ -40896,7 +40896,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/Isadora_libros.html",
         "legalTextHash": "7db761f958a2e458fcac1fb921a8ee1b43c56afb1c71f5cc4cae7ab36f04f66b",
         "evidence": "BBVA (Isadora Libros): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -40944,7 +40944,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Cande_Kids.html",
         "legalTextHash": "ef62286b8f5422286da9ee02032e981a9f7c728a3b79164f7a42e1b80a1c53bd",
         "evidence": "BBVA (Cande Kids): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cande-kids-bbva-credito-20",
@@ -40975,7 +40975,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/Cande_Kids.html",
         "legalTextHash": "ef62286b8f5422286da9ee02032e981a9f7c728a3b79164f7a42e1b80a1c53bd",
         "evidence": "BBVA (Cande Kids): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41022,7 +41022,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/RC_Suenos.html",
         "legalTextHash": "a00fb1e87809bd42b385f3e5f3cf21388ed3b610aedc70be6a6f8f366dfbdfb2",
         "evidence": "BBVA (RC Sueños): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rc-suenos-bbva-credito-20",
@@ -41053,7 +41053,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/RC_Suenos.html",
         "legalTextHash": "a00fb1e87809bd42b385f3e5f3cf21388ed3b610aedc70be6a6f8f366dfbdfb2",
         "evidence": "BBVA (RC Sueños): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41099,7 +41099,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/adeleste.html",
         "legalTextHash": "7f24be8d46342c460c13666bd0358c9a03353126d47832b00beb708c9e39a2ca",
         "evidence": "BBVA (Adeleste): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "adeleste-bbva-credito-20",
@@ -41129,7 +41129,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/adeleste.html",
         "legalTextHash": "7f24be8d46342c460c13666bd0358c9a03353126d47832b00beb708c9e39a2ca",
         "evidence": "BBVA (Adeleste): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41175,7 +41175,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia-Valentina.html",
         "legalTextHash": "edff558a71d304f48d72e30d4f4d3b6cc696abf5868ccce108ab15bdd0840c53",
         "evidence": "BBVA (Farmacia Valentina): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "farmacia-valentina-bbva-debito-20",
@@ -41206,7 +41206,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/Farmacia-Valentina.html",
         "legalTextHash": "edff558a71d304f48d72e30d4f4d3b6cc696abf5868ccce108ab15bdd0840c53",
         "evidence": "BBVA (Farmacia Valentina): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41253,7 +41253,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/tijuana.html",
         "legalTextHash": "88dc9fde9f84928123d9a0e4845691e8e04479d6d11a90954c519f1fa191045f",
         "evidence": "BBVA (Tijuana): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tijuana-bbva-credito-20",
@@ -41284,7 +41284,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/tijuana.html",
         "legalTextHash": "88dc9fde9f84928123d9a0e4845691e8e04479d6d11a90954c519f1fa191045f",
         "evidence": "BBVA (Tijuana): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41333,7 +41333,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/stylo-zona.html",
         "legalTextHash": "c4c56db4e8ab45000c7e32cbcc84192434db8e08c2ab8f55657bc5d618564e81",
         "evidence": "BBVA (Stylo Zona): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41380,7 +41380,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/planeta-kids.html",
         "legalTextHash": "72c9f677850d5f804a427534cfce778933c4b848bf3de109108be8d062dc406e",
         "evidence": "BBVA (Planeta Kids): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "planeta-kids-bbva-credito-20",
@@ -41410,7 +41410,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/planeta-kids.html",
         "legalTextHash": "72c9f677850d5f804a427534cfce778933c4b848bf3de109108be8d062dc406e",
         "evidence": "BBVA (Planeta Kids): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41460,7 +41460,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/club-hebraica-macabi.html",
         "legalTextHash": "de306b84c504a9e9b2948c8005dd5dcdf1e6d1ee4281f6f46b1c5aa75052ead5",
         "evidence": "BBVA (Club Hebraica Macabi): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41507,7 +41507,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/auge-deportes.html",
         "legalTextHash": "afd60d4343ce6139a0d40eee7330e472e4d71f9928818b42f0ff4d369e402958",
         "evidence": "BBVA (Auge Deportes): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "auge-deportes-bbva-credito-20",
@@ -41537,7 +41537,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/auge-deportes.html",
         "legalTextHash": "afd60d4343ce6139a0d40eee7330e472e4d71f9928818b42f0ff4d369e402958",
         "evidence": "BBVA (Auge Deportes): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-04-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41582,7 +41582,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bauta.html",
         "legalTextHash": "64c98193c8104c8be47d72897bd5bf7ed6d50cc0f51a835eeec8ca8fcf4cacfc",
         "evidence": "BBVA (Bauta): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bauta-bbva-debito-20",
@@ -41613,7 +41613,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bauta.html",
         "legalTextHash": "64c98193c8104c8be47d72897bd5bf7ed6d50cc0f51a835eeec8ca8fcf4cacfc",
         "evidence": "BBVA (Bauta): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41658,7 +41658,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/nagasaki.html",
         "legalTextHash": "937dc84d210e8a3d5f2d742f10b13a09ce54e6b6fc85e718f604b215f07abe53",
         "evidence": "BBVA (Nagasaki): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "nagasaki-bbva-debito-20",
@@ -41689,7 +41689,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/nagasaki.html",
         "legalTextHash": "937dc84d210e8a3d5f2d742f10b13a09ce54e6b6fc85e718f604b215f07abe53",
         "evidence": "BBVA (Nagasaki): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41735,7 +41735,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/Consolid_Turismo_Internacional.html",
         "legalTextHash": "2a2cec5de8e22a5bbfb2069428eaeb65050771992168e30d3988da74360e2ec2",
         "evidence": "BBVA (Consolid Turismo Internacional y Nacional): \"10% Off con la tarjeta de crédito BBVA Consolid Travel (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41784,7 +41784,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/JP_WELLNESS.html",
         "legalTextHash": "f7440a2794a8a1d9e7999f51adcaa16bc85aaafdb3a7ce7971dd7bdb1d7d56d7",
         "evidence": "BBVA (Gimnasio JP WELLNESS): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41831,7 +41831,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/grido.html",
         "legalTextHash": "a00b0e1d097409c0fa6f8154b690f0001f456c60bd879e26962bcca007521703",
         "evidence": "BBVA (Grido): \"50% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "grido-bbva-debito-30",
@@ -41862,7 +41862,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/grido.html",
         "legalTextHash": "a00b0e1d097409c0fa6f8154b690f0001f456c60bd879e26962bcca007521703",
         "evidence": "BBVA (Grido): \"30% Off con Tarjetas de Débito · 30% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41908,7 +41908,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Rumba.html",
         "legalTextHash": "d834f71ee41266725d46baea0e00f41c400d9bdb10a106f1b7e47ca958679774",
         "evidence": "BBVA (Rumba): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rumba-bbva-credito-20",
@@ -41938,7 +41938,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Rumba.html",
         "legalTextHash": "d834f71ee41266725d46baea0e00f41c400d9bdb10a106f1b7e47ca958679774",
         "evidence": "BBVA (Rumba): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -41987,7 +41987,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/eko-varmo.html",
         "legalTextHash": "8e9452b9d638c1d931001f1a1e444234db193658a726a84dbbe9896ac185e79d",
         "evidence": "BBVA (Eko Varmo): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42033,7 +42033,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/las-margaritas.html",
         "legalTextHash": "725d91967139666fc1af39a16ad5b92b316d7cce81923425508e03716f27000e",
         "evidence": "BBVA (Las Margaritas): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-margaritas-bbva-debito-20",
@@ -42064,7 +42064,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/las-margaritas.html",
         "legalTextHash": "725d91967139666fc1af39a16ad5b92b316d7cce81923425508e03716f27000e",
         "evidence": "BBVA (Las Margaritas): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42110,7 +42110,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/simple-y-natural.html",
         "legalTextHash": "90ce515845cef5eb52dd4e503800adce162e5dd90052d7c6db087ad46f4d0862",
         "evidence": "BBVA (Simple y Natural): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "simple-y-natural-bbva-debito-20",
@@ -42141,7 +42141,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/simple-y-natural.html",
         "legalTextHash": "90ce515845cef5eb52dd4e503800adce162e5dd90052d7c6db087ad46f4d0862",
         "evidence": "BBVA (Simple y Natural): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42189,7 +42189,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/licoreria-alvear.html",
         "legalTextHash": "4dfd6c8c9cde1a4ac3390f4cbca7cb7b486eead1fd424c37af8c990d34b4e335",
         "evidence": "BBVA (Licorería Alvear): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "licoreria-alvear-bbva-debito-20",
@@ -42221,7 +42221,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/licoreria-alvear.html",
         "legalTextHash": "4dfd6c8c9cde1a4ac3390f4cbca7cb7b486eead1fd424c37af8c990d34b4e335",
         "evidence": "BBVA (Licorería Alvear): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42269,7 +42269,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/soriano-autocentro.html",
         "legalTextHash": "4fadbfaee8107edb938b722728373408bd8543299939c2ce7ced1f9b4fb4174f",
         "evidence": "BBVA (Soriano Autocentro): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "soriano-autocentro-bbva-credito-20",
@@ -42300,7 +42300,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/soriano-autocentro.html",
         "legalTextHash": "4fadbfaee8107edb938b722728373408bd8543299939c2ce7ced1f9b4fb4174f",
         "evidence": "BBVA (Soriano Autocentro): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42349,7 +42349,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/sitio-del-lector.html",
         "legalTextHash": "14cf5cb1fcb59c15430ab4bfdbc2b33b27b46026add545dd19c6f97116402f16",
         "evidence": "BBVA (Sitio del Lector): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sitio-del-lector-bbva-credito-20",
@@ -42380,7 +42380,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/sitio-del-lector.html",
         "legalTextHash": "14cf5cb1fcb59c15430ab4bfdbc2b33b27b46026add545dd19c6f97116402f16",
         "evidence": "BBVA (Sitio del Lector): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42429,7 +42429,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/Barraca_Viena.html",
         "legalTextHash": "241312aa08cf0809eed4e15dcdaa2281412b6c2b9e39fb830412283e5bcf31c5",
         "evidence": "BBVA (Barraca Viena): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42477,7 +42477,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bucare-Cafe.html",
         "legalTextHash": "808c49c9f28b6688d97f84ed9fbd260d83de70f11e2b9704cd4f7f695fbbab97",
         "evidence": "BBVA (Bucaré Café): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bucare-cafe-bbva-debito-20",
@@ -42508,7 +42508,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Bucare-Cafe.html",
         "legalTextHash": "808c49c9f28b6688d97f84ed9fbd260d83de70f11e2b9704cd4f7f695fbbab97",
         "evidence": "BBVA (Bucaré Café): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42558,7 +42558,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/perfumeria-saul.html",
         "legalTextHash": "9e6b801e95c8a1acaa19a435163727b96e9b830a3c36b2fd6b44ca19b2933ae1",
         "evidence": "BBVA (Perfumería Saúl): \"15% Off con Tarjetas de Débito · 15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-03-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42607,7 +42607,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/After_Padel.html",
         "legalTextHash": "7930e6ccdddb51a247c5595eb2b3c52ec02930573378cb6eec65c402f90fb251",
         "evidence": "BBVA (After Padel): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42654,7 +42654,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Tienda_de_Carnes_y_Despensa.html",
         "legalTextHash": "91bbb974da413e69f4551e995c31b9d70e47696317a916075adc5d83d67ccb05",
         "evidence": "BBVA (Tienda de Carnes & Despensa): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tienda-de-carnes-y-despensa-bbva-debito-20",
@@ -42685,7 +42685,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/Tienda_de_Carnes_y_Despensa.html",
         "legalTextHash": "91bbb974da413e69f4551e995c31b9d70e47696317a916075adc5d83d67ccb05",
         "evidence": "BBVA (Tienda de Carnes & Despensa): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42732,7 +42732,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Inout.html",
         "legalTextHash": "a9c65ec7ebca6c183894e795dc0ce940b734d3e739b0301ab03f696bfdb42369",
         "evidence": "BBVA (Inout): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "inout-bbva-credito-20",
@@ -42763,7 +42763,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Inout.html",
         "legalTextHash": "a9c65ec7ebca6c183894e795dc0ce940b734d3e739b0301ab03f696bfdb42369",
         "evidence": "BBVA (Inout): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42810,7 +42810,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/multiplast.html",
         "legalTextHash": "eb8107549875aa7b7754021a8a9830b1035055d6e40e00e073617a0a43759f38",
         "evidence": "BBVA (Multiplast): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "multiplast-bbva-credito-20",
@@ -42841,7 +42841,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/multiplast.html",
         "legalTextHash": "eb8107549875aa7b7754021a8a9830b1035055d6e40e00e073617a0a43759f38",
         "evidence": "BBVA (Multiplast): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42892,7 +42892,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/il-capo-de-la-pizza.html",
         "legalTextHash": "4726ab37aa08617a1073628b9677e5e8eff819c34c77e966b522b6bc34f35f02",
         "evidence": "BBVA (Pizzeria Il Capo della Pizza): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pizzeria-il-capo-della-pizza-bbva-debito-20",
@@ -42924,7 +42924,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/il-capo-de-la-pizza.html",
         "legalTextHash": "4726ab37aa08617a1073628b9677e5e8eff819c34c77e966b522b6bc34f35f02",
         "evidence": "BBVA (Pizzeria Il Capo della Pizza): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -42975,7 +42975,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/nacional-Abono.html",
         "legalTextHash": "3f85bd7ee5bce465bb46674ca82488e4cb75a74a537277a593b09716709059f3",
         "evidence": "BBVA (Nacional - Descuento en abonos de básquetbol): \"10% Off con en los abonos para la Liga Uruguaya de Básquetbol con Tarjetas de Crédito Internacionales, Oro y Platinum BBVA Club Nacional de Football (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43021,7 +43021,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/jardin.html",
         "legalTextHash": "aea5341d88c35d713b776f6801cb5aa882621b3bf61ab50c2bd0444d75145d32",
         "evidence": "BBVA (Restaurante Jardín): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "restaurante-jardin-bbva-debito-20",
@@ -43052,7 +43052,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/jardin.html",
         "legalTextHash": "aea5341d88c35d713b776f6801cb5aa882621b3bf61ab50c2bd0444d75145d32",
         "evidence": "BBVA (Restaurante Jardín): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43101,7 +43101,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-grandvision.html",
         "legalTextHash": "1205cff52e206992b66db886c1aed4c0ad7524a38ad52020415f8df6f974e0e0",
         "evidence": "BBVA (Óptica GrandVisión): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "optica-grandvision-bbva-credito-20",
@@ -43133,7 +43133,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/opticas/optica-grandvision.html",
         "legalTextHash": "1205cff52e206992b66db886c1aed4c0ad7524a38ad52020415f8df6f974e0e0",
         "evidence": "BBVA (Óptica GrandVisión): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43183,7 +43183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/abtour-turismo-nacional.html",
         "legalTextHash": "bfc06de63469c87e50e2988e99f2135e42ace5e7798f1b1abadf56c835c31b20",
         "evidence": "BBVA (Abtour Turismo Nacional): \"20% Off con Tarjetas de Crédito BBVA Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43232,7 +43232,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/midland-hotel.html",
         "legalTextHash": "bcdc4dd819b8f59e055485733146bc1e5bfb8b1b7c3daef5aad0cf6adef5048d",
         "evidence": "BBVA (Midland Hotel): \"15% Off con con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43281,7 +43281,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/AquaPark.html",
         "legalTextHash": "eb5a08e622ce3ab99a377e29a9cb302005ce4f8aa697feaf247d9ca761a4967e",
         "evidence": "BBVA (AquaPark): \"15% Off con Tarjetas de Débito · 15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43328,7 +43328,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/papeleria-kiwi.html",
         "legalTextHash": "bc47573216f7f52a9f156cb3d5125abe0908c8e025fe375484a7c0d79d651385",
         "evidence": "BBVA (Papelería Kiwi): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "papeleria-kiwi-bbva-credito-20",
@@ -43358,7 +43358,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/papeleria-kiwi.html",
         "legalTextHash": "bc47573216f7f52a9f156cb3d5125abe0908c8e025fe375484a7c0d79d651385",
         "evidence": "BBVA (Papelería Kiwi): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-06-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43406,7 +43406,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/libros-dela-arena-malvin.html",
         "legalTextHash": "7332e3d0d8809e9f5a2a6ce5a5d7d564094da89c13994ef3fc2acf8eb1723135",
         "evidence": "BBVA (Libros de la Arena Malvín): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43454,7 +43454,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/el-yelmo-de-mambrino.html",
         "legalTextHash": "935333bcf6d343d43a6abe1f9eb9edf38c4752c0c040855f3ebcfaa5207ef716",
         "evidence": "BBVA (El Yelmo de Mambrino): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-yelmo-de-mambrino-bbva-credito-20",
@@ -43485,7 +43485,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/el-yelmo-de-mambrino.html",
         "legalTextHash": "935333bcf6d343d43a6abe1f9eb9edf38c4752c0c040855f3ebcfaa5207ef716",
         "evidence": "BBVA (El Yelmo de Mambrino): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43532,7 +43532,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/office-center.html",
         "legalTextHash": "04d81f923129666857225210f29180d235206a7233ede2e7b3ecdf341dc8e787",
         "evidence": "BBVA (Office Center): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "office-center-bbva-credito-20",
@@ -43562,7 +43562,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/librerias-y-papelerias/office-center.html",
         "legalTextHash": "04d81f923129666857225210f29180d235206a7233ede2e7b3ecdf341dc8e787",
         "evidence": "BBVA (Office Center): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-01-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43611,7 +43611,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/atrix.html",
         "legalTextHash": "3e85772e74b231d1351900172c34c953477c263e28afd6748c5065dfb8ee601d",
         "evidence": "BBVA (Atrix): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas, Platinum, Black e Infinite (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43659,7 +43659,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Mundo-Didactico.html",
         "legalTextHash": "46ac13d76a223479fb58fb0b2007a5d3e409ce8de9a2400f83205fe41cc40ce4",
         "evidence": "BBVA (Mundo Didáctico): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mundo-didactico-bbva-credito-20",
@@ -43690,7 +43690,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mundo-infantil/Mundo-Didactico.html",
         "legalTextHash": "46ac13d76a223479fb58fb0b2007a5d3e409ce8de9a2400f83205fe41cc40ce4",
         "evidence": "BBVA (Mundo Didáctico): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43742,7 +43742,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/penarol-butaca.html",
         "legalTextHash": "f4bdc31f36976eef0b4fb7b2d4326fcf4ec544e8d2d620e4ccaac5b09aaba7ed",
         "evidence": "BBVA (Peñarol - Descuento en compra y renovación de butacas): \"10% Off con en la compra de butacas con Tarjetas de crédito BBVA Club Atlético Peñarol (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43791,7 +43791,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/city-fitness.html",
         "legalTextHash": "982a96398a3c86cb01bacf49f7abb66fa84993bb35b2716daf2f6c2af62a708e",
         "evidence": "BBVA (City Fitness): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2026-11-30)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43843,7 +43843,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/dollar-car-rental.html",
         "legalTextHash": "a5ef7dc92ad0f5c4cee54e35089af06a62029617382a3266cece7e456533fa08",
         "evidence": "BBVA (Dollar Car Rental): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43891,7 +43891,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/acesur1.html",
         "legalTextHash": "ed865068cd10bf9aec279eae743d678980bcd48ced688ad21d76cbd0e36b1d89",
         "evidence": "BBVA (Acesur): \"10% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43940,7 +43940,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/dourado-motors.html",
         "legalTextHash": "29374915d424ee8b97924d8d17c3bacb083c1f47f389195aec4b920e8d782cb8",
         "evidence": "BBVA (Dourado Motors): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2026-10-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -43988,7 +43988,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/cams.html",
         "legalTextHash": "48b9044e109a753f50e00e9ff3e68a4b35dc80cbde8419920e03325cf9a8aefd",
         "evidence": "BBVA (CAMS): \"10% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black en el pago de tickets y órdenes con Tarjetas de Créd (Vigencia: 2027-02-28)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44041,7 +44041,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/otros/alianza-cultural-Uruguay-EstadosUnidos.html",
         "legalTextHash": "f6bf48374f33d2ce2c35a0edfca15fc45c172dbe73603ad32d01dba4121e0cec",
         "evidence": "BBVA (Alianza Cultural Uruguay - Estados Unidos): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas · 20% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\"",
-        "verifiedAtISO": "2026-10-29T16:59:07.559Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44091,7 +44091,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Portisur): \"10% de ahorro con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44143,7 +44143,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Buenos días para ahorrar): \"15% de ahorro con tarjetas CLUB CARD Visa Infinite, Visa Platinum, Amex Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44192,7 +44192,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pekale): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pekale-scotiabank-credito-go-15",
@@ -44224,7 +44224,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pekale): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44273,7 +44273,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pier 21): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pier-21-scotiabank-credito-go-15",
@@ -44305,7 +44305,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pier 21): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44357,7 +44357,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Centro Color): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44406,7 +44406,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Vitaminas): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "vitaminas-scotiabank-credito-go-15",
@@ -44438,7 +44438,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Vitaminas): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44488,7 +44488,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Laika): \"10% de ahorro con tus tarjetas de crédito en todos los productos\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44537,7 +44537,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tranquilo): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tranquilo-scotiabank-credito-go-15",
@@ -44569,7 +44569,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tranquilo): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44618,7 +44618,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tertulia): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tertulia-scotiabank-credito-go-15",
@@ -44650,7 +44650,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tertulia): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44699,7 +44699,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cassis): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cassis-scotiabank-credito-go-15",
@@ -44731,7 +44731,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cassis): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44782,7 +44782,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bacacay café): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bacacay-cafe-scotiabank-credito-go-15",
@@ -44814,7 +44814,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bacacay café): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44865,7 +44865,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (PREGO Pizzeria): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "prego-pizzeria-scotiabank-credito-go-15",
@@ -44897,7 +44897,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (PREGO Pizzeria): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -44946,7 +44946,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Pantalla): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-pantalla-scotiabank-credito-go-15",
@@ -44978,7 +44978,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Pantalla): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45027,7 +45027,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Wantan): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "wantan-scotiabank-credito-go-15",
@@ -45059,7 +45059,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Wantan): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45108,7 +45108,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cordon Beer): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cordon-beer-scotiabank-credito-go-15",
@@ -45140,7 +45140,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cordon Beer): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45189,7 +45189,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Kaiseki Sushi): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "kaiseki-sushi-scotiabank-credito-go-15",
@@ -45221,7 +45221,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Kaiseki Sushi): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45270,7 +45270,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Carbonada): \"25% de ahorro con tarjetas de crédito y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "carbonada-scotiabank-credito-go-15",
@@ -45302,7 +45302,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Carbonada): \"15% de ahorro con tarjetas de crédito y débito Clásicas\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45351,7 +45351,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Salmuera): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "salmuera-scotiabank-credito-go-15",
@@ -45383,7 +45383,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Salmuera): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45432,7 +45432,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Ladero): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "ladero-scotiabank-credito-go-15",
@@ -45464,7 +45464,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Ladero): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45513,7 +45513,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Albertos): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "albertos-scotiabank-credito-go-15",
@@ -45545,7 +45545,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Albertos): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45596,7 +45596,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (BIGA - pizza & pasta): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "biga-pizza-y-pasta-scotiabank-credito-go-15",
@@ -45628,7 +45628,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (BIGA - pizza & pasta): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45677,7 +45677,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Sopranos): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "sopranos-scotiabank-credito-go-15",
@@ -45709,7 +45709,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Sopranos): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45758,7 +45758,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Decano): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "decano-scotiabank-credito-go-15",
@@ -45790,7 +45790,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Decano): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45839,7 +45839,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mendizabal): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mendizabal-scotiabank-credito-go-15",
@@ -45871,7 +45871,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mendizabal): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -45920,7 +45920,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (HOPPER BISTRÓ): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hopper-bistro-scotiabank-credito-go-15",
@@ -45952,7 +45952,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (HOPPER BISTRÓ): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46004,7 +46004,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Rey del Chivito): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-rey-del-chivito-scotiabank-credito-go-15",
@@ -46036,7 +46036,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Rey del Chivito): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46086,7 +46086,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Brownies Luis): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brownies-luis-scotiabank-credito-go-15",
@@ -46118,7 +46118,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Brownies Luis): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46168,7 +46168,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Candela Express): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "candela-express-scotiabank-credito-go-15",
@@ -46200,7 +46200,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Candela Express): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46250,7 +46250,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Viejo Drakar): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-viejo-drakar-scotiabank-credito-go-15",
@@ -46282,7 +46282,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Viejo Drakar): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46332,7 +46332,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Trattoria da Piero): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "trattoria-da-piero-scotiabank-credito-go-15",
@@ -46364,7 +46364,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Trattoria da Piero): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46414,7 +46414,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Il Tano Cucina): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "il-tano-cucina-scotiabank-credito-go-15",
@@ -46446,7 +46446,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Il Tano Cucina): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46496,7 +46496,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El viejo Tonel): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-viejo-tonel-scotiabank-credito-go-15",
@@ -46528,7 +46528,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El viejo Tonel): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46577,7 +46577,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oneill): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "oneill-scotiabank-credito-go-15",
@@ -46609,7 +46609,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oneill): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46659,7 +46659,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (LAS ESPINAS): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "las-espinas-scotiabank-credito-go-15",
@@ -46691,7 +46691,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (LAS ESPINAS): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46740,7 +46740,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Gualicho): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "gualicho-scotiabank-credito-go-15",
@@ -46772,7 +46772,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Gualicho): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46821,7 +46821,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (FOK): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "fok-scotiabank-credito-go-15",
@@ -46853,7 +46853,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (FOK): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46903,7 +46903,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (REX La Barra): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rex-la-barra-scotiabank-credito-go-15",
@@ -46935,7 +46935,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (REX La Barra): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -46987,7 +46987,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Adagio Librería café): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "adagio-libreria-cafe-scotiabank-credito-go-15",
@@ -47019,7 +47019,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Adagio Librería café): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47070,7 +47070,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bambú Café): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bambu-cafe-scotiabank-credito-go-15",
@@ -47102,7 +47102,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bambú Café): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47151,7 +47151,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Meridiano 58): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "meridiano-58-scotiabank-credito-go-15",
@@ -47183,7 +47183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Meridiano 58): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47232,7 +47232,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tsunami): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tsunami-scotiabank-credito-go-15",
@@ -47264,7 +47264,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tsunami): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47313,7 +47313,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Indiana): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "indiana-scotiabank-credito-go-15",
@@ -47345,7 +47345,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Indiana): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47395,7 +47395,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rizar Empanadas): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rizar-empanadas-scotiabank-credito-go-15",
@@ -47427,7 +47427,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rizar Empanadas): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47478,7 +47478,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Que Rico Pan): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "que-rico-pan-scotiabank-credito-go-15",
@@ -47510,7 +47510,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Que Rico Pan): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47561,7 +47561,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Luccianos Heladería): \"50% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "luccianos-heladeria-scotiabank-credito-go-30",
@@ -47593,7 +47593,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Luccianos Heladería): \"30% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47642,7 +47642,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La senda): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-senda-scotiabank-credito-go-15",
@@ -47674,7 +47674,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La senda): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47725,7 +47725,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Alma Good Food): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alma-good-food-scotiabank-credito-go-15",
@@ -47757,7 +47757,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Alma Good Food): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47808,7 +47808,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pasillo Pizzerias): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pasillo-pizzerias-scotiabank-credito-go-15",
@@ -47840,7 +47840,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pasillo Pizzerias): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47889,7 +47889,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Danú): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "danu-scotiabank-credito-go-15",
@@ -47921,7 +47921,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Danú): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -47972,7 +47972,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Criterio Cafe): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "criterio-cafe-scotiabank-credito-go-15",
@@ -48004,7 +48004,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Criterio Cafe): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48054,7 +48054,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (By Mora Sushi Bar): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "by-mora-sushi-bar-scotiabank-credito-go-15",
@@ -48086,7 +48086,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (By Mora Sushi Bar): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48137,7 +48137,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Weiss Burgers): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "weiss-burgers-scotiabank-credito-go-15",
@@ -48169,7 +48169,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Weiss Burgers): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48218,7 +48218,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Goleta): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-goleta-scotiabank-credito-go-15",
@@ -48250,7 +48250,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Goleta): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48300,7 +48300,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Alcanfor de Playa): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "alcanfor-de-playa-scotiabank-credito-go-15",
@@ -48332,7 +48332,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Alcanfor de Playa): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48381,7 +48381,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Lavakan): \"15% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48431,7 +48431,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Costa Azul): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "costa-azul-scotiabank-credito-go-15",
@@ -48463,7 +48463,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Costa Azul): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48512,7 +48512,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pachamama): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pachamama-scotiabank-credito-go-15",
@@ -48544,7 +48544,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pachamama): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48594,7 +48594,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Maku la Paloma): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "maku-la-paloma-scotiabank-credito-go-15",
@@ -48626,7 +48626,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Maku la Paloma): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48674,7 +48674,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tatayaba): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tatayaba-scotiabank-credito-go-15",
@@ -48706,7 +48706,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tatayaba): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48755,7 +48755,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oliva): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "oliva-scotiabank-credito-go-15",
@@ -48787,7 +48787,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oliva): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48839,7 +48839,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Óptica Rio): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48890,7 +48890,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Óptica Ruglio): \"15% de ahorro con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -48939,7 +48939,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tartaruga): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tartaruga-scotiabank-credito-go-15",
@@ -48971,7 +48971,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tartaruga): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49021,7 +49021,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Moana Poke): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "moana-poke-scotiabank-credito-go-15",
@@ -49053,7 +49053,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Moana Poke): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49102,7 +49102,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Desmadre): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "desmadre-scotiabank-credito-go-15",
@@ -49134,7 +49134,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Desmadre): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49183,7 +49183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Guappa): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "guappa-scotiabank-credito-go-15",
@@ -49215,7 +49215,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Guappa): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49264,7 +49264,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Ragazza): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "ragazza-scotiabank-credito-go-15",
@@ -49296,7 +49296,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Ragazza): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49347,7 +49347,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Garage burger): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "garage-burger-scotiabank-credito-go-15",
@@ -49379,7 +49379,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Garage burger): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49428,7 +49428,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Acento): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "acento-scotiabank-credito-go-15",
@@ -49460,7 +49460,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Acento): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49510,7 +49510,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Arquetipo): \"15% de ahorro con Tarjetas de Crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49561,7 +49561,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Óptica Casino): \"15% de ahorro con Tarjetas de Crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49613,7 +49613,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Óptica Atlántida): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49664,7 +49664,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Harrington): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49715,7 +49715,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Polanco): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49766,7 +49766,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mconcept): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49815,7 +49815,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cardenal): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cardenal-scotiabank-credito-go-15",
@@ -49847,7 +49847,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cardenal): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49897,7 +49897,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Chill Out): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "chill-out-scotiabank-credito-go-15",
@@ -49929,7 +49929,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Chill Out): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -49978,7 +49978,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Bicicleta): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-bicicleta-scotiabank-credito-go-15",
@@ -50010,7 +50010,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Bicicleta): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50061,7 +50061,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Icónico Café): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "iconico-cafe-scotiabank-credito-go-15",
@@ -50093,7 +50093,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Icónico Café): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50145,7 +50145,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mansalva Café y Restó): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mansalva-cafe-y-resto-scotiabank-credito-go-15",
@@ -50177,7 +50177,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mansalva Café y Restó): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50228,7 +50228,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cafe Doré): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-dore-scotiabank-credito-go-15",
@@ -50260,7 +50260,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cafe Doré): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50310,7 +50310,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Expreso Pocitos): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "expreso-pocitos-scotiabank-credito-go-15",
@@ -50342,7 +50342,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Expreso Pocitos): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50392,7 +50392,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bliss cookies): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bliss-cookies-scotiabank-credito-go-15",
@@ -50424,7 +50424,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bliss cookies): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50475,7 +50475,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Americo Café): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "americo-cafe-scotiabank-credito-go-15",
@@ -50507,7 +50507,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Americo Café): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50557,7 +50557,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Spazio Moka): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "spazio-moka-scotiabank-credito-go-15",
@@ -50589,7 +50589,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Spazio Moka): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50641,7 +50641,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Full Pet): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50692,7 +50692,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mistral): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50743,7 +50743,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Brooksfield): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50794,7 +50794,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Patrimonio café): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "patrimonio-cafe-scotiabank-credito-go-15",
@@ -50826,7 +50826,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Patrimonio café): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50878,7 +50878,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Café del Jardín): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-del-jardin-scotiabank-credito-go-15",
@@ -50910,7 +50910,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Café del Jardín): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -50961,7 +50961,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tokyo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51013,7 +51013,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pao Accesorios): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51062,7 +51062,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Salvaterra): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "salvaterra-scotiabank-credito-go-15",
@@ -51094,7 +51094,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Salvaterra): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51146,7 +51146,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Los Dominguez): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51196,7 +51196,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Almacén Boutique): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium./\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "almacen-boutique-scotiabank-credito-go-15",
@@ -51228,7 +51228,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Almacén Boutique): \"15% de ahorro con Tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51278,7 +51278,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Once Catorce Parrillada): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "once-catorce-parrillada-scotiabank-credito-go-15",
@@ -51310,7 +51310,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Once Catorce Parrillada): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51360,7 +51360,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Gran Pez): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-gran-pez-scotiabank-credito-go-15",
@@ -51392,7 +51392,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Gran Pez): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51442,7 +51442,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Plaza de Chueca): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium./\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "plaza-de-chueca-scotiabank-credito-go-15",
@@ -51474,7 +51474,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Plaza de Chueca): \"15% de ahorro con Tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51524,7 +51524,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Los Francesitos): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "los-francesitos-scotiabank-credito-go-15",
@@ -51556,7 +51556,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Los Francesitos): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51605,7 +51605,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Diagonal): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-diagonal-scotiabank-credito-go-15",
@@ -51637,7 +51637,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Diagonal): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51688,7 +51688,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Diecisiete Brasas y Afines): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-diecisiete-brasas-y-afines-scotiabank-credito-go-15",
@@ -51720,7 +51720,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Diecisiete Brasas y Afines): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51769,7 +51769,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Dalí): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dali-scotiabank-credito-go-15",
@@ -51801,7 +51801,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Dalí): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51851,7 +51851,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Patio Euskadi): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "patio-euskadi-scotiabank-credito-go-15",
@@ -51883,7 +51883,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Patio Euskadi): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -51933,7 +51933,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Fundamento Pizzas): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "fundamento-pizzas-scotiabank-credito-go-15",
@@ -51965,7 +51965,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Fundamento Pizzas): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52014,7 +52014,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Marlon): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "marlon-scotiabank-credito-go-15",
@@ -52046,7 +52046,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Marlon): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52096,7 +52096,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Destino Sarandí): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "destino-sarandi-scotiabank-credito-go-15",
@@ -52128,7 +52128,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Destino Sarandí): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52179,7 +52179,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oro del Rhin): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "oro-del-rhin-scotiabank-credito-go-15",
@@ -52210,7 +52210,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oro del Rhin): \"15% de ahorro con Tarjetas de Crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52261,7 +52261,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Óptica Garese): \"15% de ahorro con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52312,7 +52312,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Dormiflex): \"10% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52361,7 +52361,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Mercado): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-mercado-scotiabank-credito-go-15",
@@ -52393,7 +52393,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Mercado): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52442,7 +52442,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Blanes): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium /\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "blanes-scotiabank-credito-go-15",
@@ -52474,7 +52474,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Blanes): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52523,7 +52523,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Portón): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium /\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-porton-scotiabank-credito-go-15",
@@ -52555,7 +52555,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Portón): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52607,7 +52607,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Zule | Panadería y Café): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium /\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "zule-panaderia-y-cafe-scotiabank-credito-go-15",
@@ -52639,7 +52639,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Zule | Panadería y Café): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52689,7 +52689,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bodega Bouza): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium /\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bodega-bouza-scotiabank-credito-go-15",
@@ -52721,7 +52721,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bodega Bouza): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52770,7 +52770,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rigor): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium /\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rigor-scotiabank-credito-go-15",
@@ -52802,7 +52802,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rigor): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52852,7 +52852,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Cantina Mexicana): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium. /\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-cantina-mexicana-scotiabank-credito-go-15",
@@ -52884,7 +52884,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Cantina Mexicana): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52934,7 +52934,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (maximstore): \"15% de ahorro con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -52984,7 +52984,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Moby Dick): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "moby-dick-scotiabank-credito-go-15",
@@ -53016,7 +53016,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Moby Dick): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53066,7 +53066,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tres 36 Atlántida): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tres-36-atlantida-scotiabank-credito-go-15",
@@ -53098,7 +53098,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tres 36 Atlántida): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53149,7 +53149,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pura Vida Restó): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pura-vida-resto-scotiabank-credito-go-15",
@@ -53181,7 +53181,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pura Vida Restó): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53231,7 +53231,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cucina Di Strada): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cucina-di-strada-scotiabank-credito-go-15",
@@ -53263,7 +53263,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cucina Di Strada): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53313,7 +53313,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Abasto Bodegón): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "abasto-bodegon-scotiabank-credito-go-15",
@@ -53345,7 +53345,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Abasto Bodegón): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53395,7 +53395,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Chancho y la Coneja): \"25% de ahorro con tarjetas Platinum, Infinite, Gold y débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-chancho-y-la-coneja-scotiabank-credito-go-15",
@@ -53427,7 +53427,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Chancho y la Coneja): \"15% de ahorro tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53476,7 +53476,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Destino Sushi): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "destino-sushi-scotiabank-credito-go-15",
@@ -53508,7 +53508,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Destino Sushi): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53557,7 +53557,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Pasiva): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-pasiva-scotiabank-credito-go-15",
@@ -53589,7 +53589,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Pasiva): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53640,7 +53640,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Café Martinez): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafe-martinez-scotiabank-credito-go-15",
@@ -53672,7 +53672,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Café Martinez): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53721,7 +53721,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bar Arocena): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bar-arocena-scotiabank-credito-go-15",
@@ -53753,7 +53753,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bar Arocena): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53803,7 +53803,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Aquel Abrazo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "aquel-abrazo-scotiabank-credito-go-15",
@@ -53835,7 +53835,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Aquel Abrazo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53884,7 +53884,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mojito): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "mojito-scotiabank-credito-go-15",
@@ -53916,7 +53916,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mojito): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -53965,7 +53965,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Antojos): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "antojos-scotiabank-credito-go-15",
@@ -53997,7 +53997,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Antojos): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54048,7 +54048,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bouza Vinos & Tapas): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bouza-vinos-y-tapas-scotiabank-credito-go-15",
@@ -54080,7 +54080,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bouza Vinos & Tapas): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54129,7 +54129,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Patagonia): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "patagonia-scotiabank-credito-go-15",
@@ -54161,7 +54161,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Patagonia): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54210,7 +54210,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Soleada): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-soleada-scotiabank-credito-go-15",
@@ -54242,7 +54242,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Soleada): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54293,7 +54293,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pizzería Rodelú): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pizzeria-rodelu-scotiabank-credito-go-15",
@@ -54325,7 +54325,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pizzería Rodelú): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54375,7 +54375,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Almacen de Pizzas): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "almacen-de-pizzas-scotiabank-credito-go-15",
@@ -54407,7 +54407,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Almacen de Pizzas): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54457,7 +54457,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (MEAT BOSS): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "meat-boss-scotiabank-credito-go-15",
@@ -54489,7 +54489,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (MEAT BOSS): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54538,7 +54538,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Semilla): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "semilla-scotiabank-credito-go-15",
@@ -54570,7 +54570,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Semilla): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54619,7 +54619,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tatijuana): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tatijuana-scotiabank-credito-go-15",
@@ -54651,7 +54651,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tatijuana): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54700,7 +54700,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (No me olvides): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "no-me-olvides-scotiabank-credito-go-15",
@@ -54732,7 +54732,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (No me olvides): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54781,7 +54781,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tres): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tres-scotiabank-credito-go-15",
@@ -54813,7 +54813,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tres): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54862,7 +54862,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Upalala): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "upalala-scotiabank-credito-go-15",
@@ -54894,7 +54894,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Upalala): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -54944,7 +54944,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Arrecife - La Paloma): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "arrecife-la-paloma-scotiabank-credito-go-15",
@@ -54976,7 +54976,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Arrecife - La Paloma): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55025,7 +55025,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Petisco): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "petisco-scotiabank-credito-go-15",
@@ -55057,7 +55057,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Petisco): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55106,7 +55106,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Lajau): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "lajau-scotiabank-credito-go-15",
@@ -55138,7 +55138,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Lajau): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55188,7 +55188,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pura Vida): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pura-vida-scotiabank-credito-go-15",
@@ -55220,7 +55220,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pura Vida): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55270,7 +55270,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Casa Dulce): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "casa-dulce-scotiabank-credito-go-15",
@@ -55302,7 +55302,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Casa Dulce): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55351,7 +55351,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Maula): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "maula-scotiabank-credito-go-15",
@@ -55383,7 +55383,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Maula): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55433,7 +55433,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Jardín cervecero): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "jardin-cervecero-scotiabank-credito-go-15",
@@ -55465,7 +55465,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Jardín cervecero): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55514,7 +55514,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Brujona): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "brujona-scotiabank-credito-go-15",
@@ -55546,7 +55546,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Brujona): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55595,7 +55595,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (QuitaPenas): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "quitapenas-scotiabank-credito-go-15",
@@ -55627,7 +55627,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (QuitaPenas): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55680,7 +55680,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Juan Perez - Parrilla Punta del Este): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "juan-perez-parrilla-punta-del-este-scotiabank-credito-go-15",
@@ -55712,7 +55712,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Juan Perez - Parrilla Punta del Este): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55761,7 +55761,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Panda Bar): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "panda-bar-scotiabank-credito-go-15",
@@ -55793,7 +55793,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Panda Bar): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55843,7 +55843,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oso Pardo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "oso-pardo-scotiabank-credito-go-15",
@@ -55875,7 +55875,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Oso Pardo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -55924,7 +55924,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bar Rodo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "bar-rodo-scotiabank-credito-go-15",
@@ -55956,7 +55956,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Bar Rodo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56006,7 +56006,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Viejo Sosa): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-viejo-sosa-scotiabank-credito-go-15",
@@ -56038,7 +56038,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Viejo Sosa): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56091,7 +56091,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Hard Rock Cafe Montevideo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "hard-rock-cafe-montevideo-scotiabank-credito-go-15",
@@ -56123,7 +56123,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Hard Rock Cafe Montevideo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56172,7 +56172,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pellegrin): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "pellegrin-scotiabank-credito-go-15",
@@ -56203,7 +56203,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pellegrin): \"15% de ahorro con tarjetas de crédito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56254,7 +56254,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Francis Restaurant - Parrilla Gourmet): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "francis-restaurant-parrilla-gourmet-scotiabank-credito-go-15",
@@ -56286,7 +56286,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Francis Restaurant - Parrilla Gourmet): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56335,7 +56335,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rosa): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "rosa-scotiabank-credito-go-15",
@@ -56367,7 +56367,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rosa): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56417,7 +56417,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Negroni Montevideo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "negroni-montevideo-scotiabank-credito-go-15",
@@ -56449,7 +56449,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Negroni Montevideo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56498,7 +56498,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Vaca): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-vaca-scotiabank-credito-go-15",
@@ -56530,7 +56530,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Vaca): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56582,7 +56582,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Plantado - Hyatt Centric Montevideo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "plantado-hyatt-centric-montevideo-scotiabank-credito-go-15",
@@ -56614,7 +56614,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Plantado - Hyatt Centric Montevideo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56668,7 +56668,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cafetería Deli - Hyatt Centric Montevideo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cafeteria-deli-hyatt-centric-montevideo-scotiabank-credito-go-15",
@@ -56700,7 +56700,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cafetería Deli - Hyatt Centric Montevideo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56752,7 +56752,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Moderno Bar - Hyatt Centric Montevideo): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "moderno-bar-hyatt-centric-montevideo-scotiabank-credito-go-15",
@@ -56784,7 +56784,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Moderno Bar - Hyatt Centric Montevideo): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56833,7 +56833,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Jacinta): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "jacinta-scotiabank-credito-go-15",
@@ -56865,7 +56865,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Jacinta): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56917,7 +56917,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tostado Café Club): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "tostado-cafe-club-scotiabank-credito-go-15",
@@ -56949,7 +56949,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Tostado Café Club): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -56999,7 +56999,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Don Peperone): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "don-peperone-scotiabank-credito-go-15",
@@ -57031,7 +57031,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Don Peperone): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57081,7 +57081,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Mesón de la Plaza): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "el-meson-de-la-plaza-scotiabank-credito-go-15",
@@ -57113,7 +57113,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (El Mesón de la Plaza): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57165,7 +57165,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cantinas Militares): \"10% de ahorro con tarjetas de débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57219,7 +57219,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Club del Lago - Golf): \"25% de ahorro en la cuota anual con Tarjetas Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57264,7 +57264,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Farmacia Ibiza): \"15% de ahorro el primer y último domingo de cada mes, con Tarjetas de Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57316,7 +57316,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Peluquería Jimena Nogueira): \"15% de ahorro con Tarjetas de Crédito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57367,7 +57367,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Peluquería Lamor): \"15% de ahorro con Tarjetas de Crédito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57418,7 +57418,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Barbería Alvaro Roman): \"25% de ahorro con Tarjetas de Crédito Platinum, Infinite y Gold\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "barberia-alvaro-roman-scotiabank-credito-go-15",
@@ -57449,7 +57449,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Barbería Alvaro Roman): \"15% de ahorro con Tarjetas de Crédito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57500,7 +57500,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Farmacia Silva): \"15% de ahorro para todas las tarjetas de crédito y débito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57551,7 +57551,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Atenea): \"10% de ahorro Todos los días 10% de ahorro con Tarjetas de Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57603,7 +57603,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rey Clothes & Shoes): \"15% de ahorro con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57654,7 +57654,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Allie): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57704,7 +57704,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cherichetto Uniformes): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cherichetto-uniformes-scotiabank-credito-go-15",
@@ -57736,7 +57736,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Cherichetto Uniformes): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57787,7 +57787,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Paddock): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57838,7 +57838,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Opera): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57889,7 +57889,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Legacy): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57940,7 +57940,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Lolita): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -57991,7 +57991,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Otherside): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58043,7 +58043,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Piece of Cake): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58094,7 +58094,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Rusty): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58143,7 +58143,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (School): \"25% de ahorro con tarjetas de crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "school-scotiabank-credito-go-15",
@@ -58175,7 +58175,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (School): \"15% de ahorro con tarjetas de crédito y débito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58226,7 +58226,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Symphorine): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58278,7 +58278,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (MVD Kids): \"15% Todos los días con Tarjetas de Crédito y Débito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58327,7 +58327,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Feltrinelli): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "feltrinelli-scotiabank-credito-go-15",
@@ -58359,7 +58359,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Feltrinelli): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58409,7 +58409,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Mikangaroo): \"15% de ahorro con Tarjetas de Crédito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58458,7 +58458,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (3 Musas): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "3-musas-scotiabank-credito-go-15",
@@ -58490,7 +58490,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (3 Musas): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58539,7 +58539,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (DBD): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "dbd-scotiabank-credito-go-15",
@@ -58571,7 +58571,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (DBD): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58620,7 +58620,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Libros Libros): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "libros-libros-scotiabank-credito-go-15",
@@ -58652,7 +58652,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Libros Libros): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58702,7 +58702,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Grupo Libros): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "grupo-libros-scotiabank-credito-go-15",
@@ -58734,7 +58734,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Grupo Libros): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58784,7 +58784,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Perdiz - Rivera): \"25% con tarjetas de crédito Platinum, Infinite y Gold\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-perdiz-rivera-scotiabank-credito-go-15",
@@ -58815,7 +58815,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (La Perdiz - Rivera): \"15% con tarjetas de crédito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58867,7 +58867,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Salón Ocre - Treinta y Tres): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "salon-ocre-treinta-y-tres-scotiabank-credito-go-15",
@@ -58899,7 +58899,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Salón Ocre - Treinta y Tres): \"15% de ahorro con tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -58951,7 +58951,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Hoteles en Uruguay): \"25% de ahorro con Tarjetas de Crédito: Visa, MasterCard y American Express Tarjetas de Débito Scotiabank\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59003,7 +59003,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Pinturería Ulbrika): \"15% de ahorro con tarjetas de crédito y débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59055,7 +59055,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
         "legalTextHash": "a0a190aa89ac6fd4d8575a45a38e1e924564561a2ddabd2c49cf3e2cb3beb49b",
         "evidence": "Scotiabank (Joyería Revello): \"15% de ahorro con Tarjetas de Crédito y Débito\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59098,7 +59098,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (TaTa TC): \"20% de dto de lunes a viernes en categorías seleccionadas — 20% de descuento sobre los rubros detallados a continuación, de lunes a viernes, para compras realizadas en sucursales y web de TaTa, con tarjetas de crédito OCA. El descuento se r\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59145,7 +59145,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Cines del Este - TC): \"2x1 en entradas — 2x1 en entradas todos los días, pagando con tu tarjeta de crédito Master o VISA de OCA, y OCA Blue. El tope de la promoción es de cuatro entradas por tarjeta, por compra realizada \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "cines-del-este-oca-blue-50",
@@ -59175,7 +59175,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Cines del Este - Blue): \"2x1 en entradas — 2x1 en entradas todos los días, pagando con tu tarjeta de crédito Master o VISA de OCA, y OCA Blue. El tope de la promoción es de cuatro entradas por tarjeta, por compra realizada \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59214,7 +59214,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Macromercado - Blue): \"10% de dto. + la mejor escala de precios — 10% de descuento en tus compras todos los viernes pagando con OCA Blue. Tope de devolución $1.000 por cuenta, por mes. El descuento se verá reflejado en los movimientos de la cuent\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59259,7 +59259,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Burger King TC): \"20% de dto. — Promoción válida de lunes a jueves, del 1 de enero al 30 de junio del 2027, para compras realizadas en locales físicos de Burger King con tarjetas de crédito. El descuento se reali\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59308,7 +59308,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Burger King Blue): \"10% de dto. — Promoción válida todos los días, del 1 de enero al 30 de junio del 2027, para todas las compras realizadas en locales físicos de Burger King con tarjetas OCA Blue. El descuento se \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59353,7 +59353,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (El club de la Papa Frita TC): \"20% de dto. — Promoción válida de lunes a jueves en compras realizadas en locales físicos de El Club de la Papa frita con tarjetas de crédito. El descuento se realiza en el momento de la compra \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59399,7 +59399,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (El club de la Papa Frita Blue): \"10% de dto. — Promoción válida de lunes a jueves, hasta el 30 de junio del 2026, para compras realizadas en locales físicos de El Club de la Papa frita con tarjetas de crédito. El descuento se r\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59445,7 +59445,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Kentucky TC): \"20% de dto. — Promoción válida para compras realizadas en locales físicos de Kentucky con tarjetas de crédito. El descuento se realiza en el momento de la compra . No aplica para compras a travé\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59489,7 +59489,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Kentucky Blue): \"10% de dto. — Promoción válida de lunes a jueves, para compras realizadas en locales físicos de Kentucky con tarjetas de crédito. El descuento se realiza en el momento de la compra . No aplica p\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59534,7 +59534,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Gelatería del Club): \"20% de dto. de lunes a jueves en Gelatería del Club pagando con tarjeta de crédito. — Promoción válida de lunes a jueves, del 7 de mayo del 2026 al 30 de abril del 2027, para compras realizadas en locales físicos de Gelatería del Club con tarjetas de crédito. El des\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59583,7 +59583,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Gelatería del Club Blue): \"10% de dto. de lunes a jueves en Gelatería del Club con OCA Blue — Promoción válida todos los días, para todas las compras realizadas en locales físicos de Gelatería del Club con tarjetas OCA Blue. El descuento se realizará en el momento de la com\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59626,7 +59626,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Chajá): \"20% de dto. — 20% de descuento de lunes a jueves en Chajá. Promoción válida abonando con tarjetas de crédito de OCA. El descuento se realiza en el momento de la compra y es válido únicamente en \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59673,7 +59673,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Chajá Blue): \"10% de dto. — 10% de descuento todos los días en Chajá. Promoción válida abonando con OCA Blue. El descuento se realiza en el momento de la compra y es válido únicamente en locales físicos . No \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59714,7 +59714,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Óptica Florida TC): \"20% de dto. todos los viernes + 12 cuotas* con tarjetas de crédito — 20% de descuento todos los viernes en todos los locales Óptica Florida , pagando con tarjetas de crédito Mastercard y VISA de OCA. 12 cuotas válidas únicamente para Mastercard de O\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59754,7 +59754,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Bela TC): \"20% de dto. — Términos y Condiciones de la promoción . 20% de dto. todos los viernes en Bela, hasta el 31/12/2026 inclusive, pagando con tarjetas de crédito Mastercard y Visa. El descuento se re\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59795,7 +59795,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Homeopatía Alemana): \"20% de dto. — 20% de descuento todos los viernes en Homeopatía Alemana con tarjetas de crédito. Promoción válida hasta 31 de diciembre del 2026 inclusive. El descuento será realizado al momento \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "homeopatia-alemana-oca-blue-10",
@@ -59825,7 +59825,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Homeopatia Alemana - Blue): \"10% de dto. todos los días con OCA Blue — 10% de descuento todos los días en Homeopatía Alemana con OCA Blue. Promoción válida hasta 31 de diciembre del 2026 inclusive. El descuento será realizado al momento de la compra e\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59871,7 +59871,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Kroser): \"10% de dto. + 12 cuotas* — 10% de descuento todos los días en Kroser pagando con tarjetas de crédito, válido exclusivamente para compras en locales físicos. Promoción válida hasta el 31 de diciembre de 2026.\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59917,7 +59917,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Unifer): \"10% de dto. + 12 cuotas* — 10% de descuento + 12 cuotas* todos los días en Unifer, pagando con tarjetas de crédito (válido exclusivamente para compras en locales físicos). El tope de descuento es de $1.500 p\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -59963,7 +59963,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Herracor): \"10% de dto. + 12 cuotas* — 10% de descuento + 12 cuotas* todos los días en Herracor, pagando con tarjetas de crédito (válido exclusivamente para compras en locales físicos). El tope de descuento es de $1.500\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60009,7 +60009,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Briq): \"10% de dto. + 12 cuotas* — 10% de descuento + 12 cuotas* todos los días en Briq, pagando con tarjetas de crédito (válido exclusivamente para compras en locales físicos). Promoción válida hasta el 31 de dicie\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60055,7 +60055,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Mundocolor - TC): \"10% de dto. + 12 cuotas — 10% de descuento todos los días y 12 cuotas* en Mundocolor, con tarjetas de crédito Mastercard y VISA de OCA. Descuento aplicado en el punto de venta . Promoción válida hasta el 28\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60101,7 +60101,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Megal 10% - TC): \"10% de dto. productos seleccionados — 10% de descuento en productos seleccionados de Megal, pagando con OCA Blue o tus tarjetas de crédito OCA. Promoción válida desde el 1 de mayo al 31 de diciembre del 2027. El descue\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "megal-10-oca-blue-10",
@@ -60131,7 +60131,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Megal 10% - Blue): \"10% de dto. productos seleccionados — 10% de descuento en productos seleccionados de Megal, pagando con OCA Blue o tus tarjetas de crédito OCA. Promoción válida desde el 1 de mayo al 31 de diciembre del 2027. El descue\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60178,7 +60178,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Cabify Blue): \"30% de dto. en 3 viajes con el código del mes — 30% de descuento en 3 viajes al mes en Cabify pagando con OCA Blue usando el código \" OCAOCT30 \". Es necesario ingresar el cupón en la App de Cabify previo a realizar el viaje. Una\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60224,7 +60224,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://oca.uy/beneficios/",
         "legalTextHash": "5b2960667b1e809a2fa7bfc174e0095527738c7605c2f1e2664006e5cc5236fa",
         "evidence": "OCA (Educación - Blue): \"Hasta 40% de dto. en las mejores instituciones educativas — \"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60277,7 +60277,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Optica Estela Jinchuk): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60329,7 +60329,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mónaco Calzados): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60377,7 +60377,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Nora Rey): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60425,7 +60425,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Parador El Paso): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60476,7 +60476,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Suóptica): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60527,7 +60527,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Merrell): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60574,7 +60574,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Nona): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60626,7 +60626,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Tienda Ezquerra): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60678,7 +60678,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Kave Home): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60730,7 +60730,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Renart Libros): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60782,7 +60782,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Extreme Force): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60834,7 +60834,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Balcony Shop): \"15% todos los dias\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60881,7 +60881,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Rural): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60933,7 +60933,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Optica Lombardi): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -60984,7 +60984,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Smart): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61036,7 +61036,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Shoe Express): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61084,7 +61084,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Crepas (Montevideo)): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61135,7 +61135,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Fivisa): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61183,7 +61183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Isidora Restaurant): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61231,7 +61231,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Restaurante Oscar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61282,7 +61282,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Savia): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61333,7 +61333,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (De Arcos): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61382,7 +61382,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Principes del Sur): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61429,7 +61429,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Oriundo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61480,7 +61480,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (ML Center): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61527,7 +61527,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Posto 5): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61576,7 +61576,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cafe del Sol): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61624,7 +61624,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Los Leños): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61671,7 +61671,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Trattoria): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61720,7 +61720,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pizzorno Family States): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61771,7 +61771,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Nicolini): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61822,7 +61822,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Viasono): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61874,7 +61874,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Las Nazarenas): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61926,7 +61926,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mis Petates): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -61973,7 +61973,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Late): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62024,7 +62024,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Deco Hogar): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62071,7 +62071,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Provaca): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62120,7 +62120,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Naru Sushi Bar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62171,7 +62171,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Infantozzi): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62222,7 +62222,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Tranquera): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62271,7 +62271,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Artico Sea Food): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62318,7 +62318,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Toledo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62369,7 +62369,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (SiSi): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62420,7 +62420,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Royce): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62471,7 +62471,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cat): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62520,7 +62520,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (BBC Burger & Sushi): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62572,7 +62572,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Jugetería Avellana): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62619,7 +62619,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Marea): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62667,7 +62667,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (481 Gourmet): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62715,7 +62715,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Panadería Brava): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62766,7 +62766,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Limite): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62818,7 +62818,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (No se lo Digas a Nadie): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62869,7 +62869,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Rockford): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62921,7 +62921,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Bagno & Company): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -62973,7 +62973,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Baby City): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63020,7 +63020,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mision): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63068,7 +63068,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Duciana Cafetería): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63116,7 +63116,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Gelatería Il Porto): \"50% con tarjeta Infinite, Black y débito Select, 30% de descuento con tarjetas de crédito y débito todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63164,7 +63164,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Shark Club): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63215,7 +63215,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Sucan): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63266,7 +63266,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Isla): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63318,7 +63318,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Chiarino Uniformes): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63365,7 +63365,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (SushiAPP): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63416,7 +63416,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Desigual): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63467,7 +63467,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Peekaboo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63518,7 +63518,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (JP Uniformes): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63570,7 +63570,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cayetana Calzados): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63622,7 +63622,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mundo Mac): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63674,7 +63674,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ositos & Cia): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63721,7 +63721,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Gouda): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63772,7 +63772,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Uniform & Co): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63824,7 +63824,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Petit Baby): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63875,7 +63875,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Baquiano): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63926,7 +63926,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pintelux): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -63978,7 +63978,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Reina Urbana): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64025,7 +64025,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Lavender): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64076,7 +64076,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Calabaza): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64123,7 +64123,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Soho): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64171,7 +64171,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Meat House): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64222,7 +64222,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Asterisco): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64273,7 +64273,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cymaco): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64320,7 +64320,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ramona): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64371,7 +64371,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Dhouse): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64423,7 +64423,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Vidriería BIA): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64475,7 +64475,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Fuel Oil): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64527,7 +64527,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Óptica Meerhoff): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64574,7 +64574,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (I’Marangatú): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64623,7 +64623,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Finca Boutique de Carnes): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64675,7 +64675,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mónaco Athletic): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64726,7 +64726,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cloé): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64773,7 +64773,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Bar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64824,7 +64824,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mango): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64875,7 +64875,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pasqualini): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64927,7 +64927,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Margo Baridon): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -64979,7 +64979,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Indoor Padel): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65030,7 +65030,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Asturiana): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65081,7 +65081,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Minimon): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65132,7 +65132,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ecoflex): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65183,7 +65183,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Bersal): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65231,7 +65231,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cafetto Prado): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65283,7 +65283,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Boss Padel): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65334,7 +65334,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ai Haus): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65383,7 +65383,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pellicer Parrilla Gourmet): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65436,7 +65436,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Walnut - Home & Deco): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65485,7 +65485,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Otero (By Rotunda)): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65534,7 +65534,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Dilema Café & Restobar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65583,7 +65583,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Charo Cocina y Café): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65634,7 +65634,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Adoré): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65682,7 +65682,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Pasiva 26 de Marzo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65734,7 +65734,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Cabeza Ferretería): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65785,7 +65785,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cienta): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65832,7 +65832,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Mingus): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65883,7 +65883,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Inside): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65934,7 +65934,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mikenpacking): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -65985,7 +65985,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Matilda): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66038,7 +66038,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Para Tus Bajitos): \"15% todos los días con tarjetas Santander\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66090,7 +66090,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Cabeza Mueblería): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66141,7 +66141,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Venancio): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66189,7 +66189,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Las Pavas): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66237,7 +66237,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cafe Julisa): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66285,7 +66285,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Café Salvo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66336,7 +66336,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pekemundo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66387,7 +66387,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Aire): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66439,7 +66439,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ferretería la Hogareña): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66487,7 +66487,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Tato Pescador): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66539,7 +66539,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Las Marías): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66590,7 +66590,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Luxo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66643,7 +66643,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cali Cafe): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66695,7 +66695,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Indian Home): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66742,7 +66742,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Innato): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66796,7 +66796,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Oh Jacinta! - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66850,7 +66850,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Baleine - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66904,7 +66904,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Macushop - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -66952,7 +66952,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Bodega Spinoglio): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67005,7 +67005,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Café Butiá): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67058,7 +67058,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67109,7 +67109,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Gocco): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67161,7 +67161,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Librería Difusión): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67208,7 +67208,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Sintel): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67260,7 +67260,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Imprenta La Canasta): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67308,7 +67308,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Medialunas Calentitas): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67355,7 +67355,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Popei): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67406,7 +67406,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (OrderEat): \"10% con tarjetas de débito Santander\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67454,7 +67454,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ocho Nudos): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67502,7 +67502,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Felix Caffè): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67554,7 +67554,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Fresa y Lima): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67606,7 +67606,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Veterinaria Cavia): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67657,7 +67657,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pencil): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67705,7 +67705,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (City Winery): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67756,7 +67756,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Coppelia): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67809,7 +67809,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Alma Mía Boutique): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67857,7 +67857,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (De Diez Burger): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67911,7 +67911,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Will B - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -67963,7 +67963,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Flavia Donatti): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68011,7 +68011,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Empanadas Calentitas): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68058,7 +68058,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Lolo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68106,7 +68106,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cresta Cafe): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68153,7 +68153,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Delirio): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68200,7 +68200,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Laferre): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68248,7 +68248,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Life Bistro): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68295,7 +68295,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Papirosen): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68346,7 +68346,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Edusil): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68397,7 +68397,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Todomoda): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68448,7 +68448,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Isadora): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68500,7 +68500,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Campera Almacen): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68548,7 +68548,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Manantiales Point): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68600,7 +68600,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (By Vero Melo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68652,7 +68652,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Jump Club): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68699,7 +68699,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Gabbs): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68750,7 +68750,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Mariapasión): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68797,7 +68797,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Almar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68849,7 +68849,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Top Ten): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68896,7 +68896,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Vuelta): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68945,7 +68945,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (The Beer House): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -68992,7 +68992,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Gryk): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69040,7 +69040,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Bravo Restó): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69087,7 +69087,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Fondin): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69134,7 +69134,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Perrera): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69181,7 +69181,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Arraí): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69229,7 +69229,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cafetería Ferran): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69276,7 +69276,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Franca): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69323,7 +69323,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Genuina): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69370,7 +69370,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Irisarri): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69418,7 +69418,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Boutique de Carnes): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69466,7 +69466,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Casita by Cari): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69513,7 +69513,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Legua): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69560,7 +69560,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Lincanto): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69607,7 +69607,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Manon): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69655,7 +69655,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Menos Mal): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69703,7 +69703,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Sushi Meshi): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69751,7 +69751,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Tommy Bistro): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69800,7 +69800,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Las Tres Marias): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69847,7 +69847,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Da Haus): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69895,7 +69895,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Nihon Sushi): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69942,7 +69942,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Berretin): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -69989,7 +69989,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Bardo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70037,7 +70037,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Burger Point): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70085,7 +70085,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Autoría Café): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70136,7 +70136,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Azu): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70187,7 +70187,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Brownie): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70239,7 +70239,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (By Pass Padel): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70287,7 +70287,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Café a la Antigua): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70338,7 +70338,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Felix): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70391,7 +70391,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (The Mood House): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70439,7 +70439,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Viasono Jardín): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70487,7 +70487,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Refugio de Mailhos): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70535,7 +70535,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Restaurante VyB): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70583,7 +70583,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Santo Café): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70635,7 +70635,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Velas de la Ballena): \"15% con todas las tarjetas\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70689,7 +70689,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Dropz - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70744,7 +70744,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Especie Humana - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70798,7 +70798,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Manu.be - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70852,7 +70852,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Vang - The Kul Store): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70903,7 +70903,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Buhardilla): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -70950,7 +70950,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Hacienda): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71004,7 +71004,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Marian la que Cocina - Cookies): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71056,7 +71056,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Adoré Dolores): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71107,7 +71107,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Aimée): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71155,7 +71155,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Caramora - Restaurante): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71203,7 +71203,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Doña Maruja): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71250,7 +71250,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Gozar): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71299,7 +71299,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Las Dos Reinas): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71351,7 +71351,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Life Zonamérica): \"25% con tarjetas de crédito y débito Santander\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71399,7 +71399,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Individuo Pastas): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71452,7 +71452,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Pando Pádel Club): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71503,7 +71503,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Periplo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71550,7 +71550,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Ronda): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71598,7 +71598,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Sweetly Cafeteria): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71646,7 +71646,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Esquina Café): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       },
       {
         "id": "la-esquina-santander-credito-15",
@@ -71679,7 +71679,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (La Esquina): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71726,7 +71726,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Lo de Marcos): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71774,7 +71774,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Cafetería Paulette): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71822,7 +71822,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Burger Time): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71873,7 +71873,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Vanitas): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71924,7 +71924,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Kiricocho): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -71976,7 +71976,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (Indra Veo Veo): \"15% todos los días\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   },
@@ -72023,7 +72023,7 @@ export const MERCHANTS_DATA: Merchant[] = [
         "sourceCatalogUrl": "https://www.santander.com.uy/beneficios",
         "legalTextHash": "aacc53669ed727841893e464d3b3421fa6516649c84d974034a1e603172b5f16",
         "evidence": "Santander (El Naranjo): \"25% con Platinum, Select y Private Banking\"",
-        "verifiedAtISO": "2026-10-30T11:43:46.223Z"
+        "verifiedAtISO": "2026-10-30T13:45:25.184Z"
       }
     ]
   }
