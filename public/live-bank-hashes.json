@@ -2262,5 +2262,109 @@
     "bytes": 18400,
     "latencyMs": 95,
     "checkedAtISO": "2026-10-29T16:27:39.398Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/panalera-mily.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "79e781c5df470cb25e79697f14f875fc25d772569dd555a59c96277001a2ec2e",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-machado.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "7aeb554ec6c0f16e82f195468d8033f0fcbf51397ad9df6acb5d75cf3eb1b895",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-ldisc.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "99b0babc8f6b55dc70dc7f0a419e405453261a4b1c57553140a5cb88957dbc62",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/a-brillar-mi-amor.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "c2567581fa3695ea9102417ad170aff9a09ca98ff132f19d74dce5e02b3d5de7",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/casa-y-cosas.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "2ffcd311607904387480238db0bba1ec422a4d379e24a6eb5ec386e8c26fa3a8",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/minot.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "a08cfbe3150ccbd4a7b84232a4d19602230d823203c1aff8a5eabdd0db9c5dc7",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-otra-parrilla.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "2a4b54bde75b76f1642ebf2445189f02a21ea31ca4a36b46f91ec566f89f3232",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-charrua.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "9550b3178f48b47b9f0dccf08694bc5984dfa2c1d29ee0edcaacde00f710e584",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/porterhouse.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "5c815c8cf799853dcef2339e7a87f60c7ccc16f8bdfd453913b28e34cccba7a6",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/midland.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "d27a0d4ff156272598c0d0f9dacf1c2e3f853d75a7868afb7bc544686c842ea0",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-refugio.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "e1f23378707adec49383d5a2a93b174288a9231df5b4cfe4505c269f4f5fb05c",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/contigo-sueno-cafe.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "910947421a0ce323b5ef6285f30a1365382408f1b2c15a216374c622f197011a",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/riggo-uniformes.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "5b457ee16a8a1ea9469fca91f1540abb158523b3b7966b44f1eba3200d13fbd3",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-10-31T13:14:18.351Z"
   }
 }

@@ -1,16 +1,16 @@
 {
-  "auditedAtISO": "2026-10-30T13:45:25.184Z",
-  "candidateRules": 1775,
-  "verifiedRules": 1775,
+  "auditedAtISO": "2026-10-31T13:14:18.351Z",
+  "candidateRules": 1808,
+  "verifiedRules": 1808,
   "droppedRules": 0,
-  "merchants": 1033,
+  "merchants": 1050,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 36,
-    "BBVA": 406,
+    "BBVA": 431,
     "MIDINERO": 2,
     "ITAU": 647,
-    "SCOTIA": 379,
+    "SCOTIA": 387,
     "SANTANDER": 277
   },
   "rules": [
@@ -9293,7 +9293,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-otro-es-mercat.html",
       "ok": true,
-      "evidence": "BBVA (El Otro Es Mercat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (El Otro Es Mercat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "El Otro Es Mercat",
@@ -9306,7 +9306,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-otro-es-mercat.html",
       "ok": true,
-      "evidence": "BBVA (El Otro Es Mercat): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (El Otro Es Mercat): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Pelokitos",
@@ -9781,7 +9781,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amado.html",
       "ok": true,
-      "evidence": "BBVA (Amado): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Amado): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Amado",
@@ -9794,7 +9794,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/amado.html",
       "ok": true,
-      "evidence": "BBVA (Amado): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Amado): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "A Brillar Café",
@@ -10154,7 +10154,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/es-mercat.html",
       "ok": true,
-      "evidence": "BBVA (Es Mercat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Es Mercat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Es Mercat",
@@ -10167,7 +10167,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/es-mercat.html",
       "ok": true,
-      "evidence": "BBVA (Es Mercat): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Es Mercat): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Bodeguita de Carnes",
@@ -11250,7 +11250,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/figari-bistro.html",
       "ok": true,
-      "evidence": "BBVA (Figari Bistró): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Figari Bistró): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Figari Bistró",
@@ -11263,7 +11263,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/figari-bistro.html",
       "ok": true,
-      "evidence": "BBVA (Figari Bistró): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Figari Bistró): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Café Suárez",
@@ -12668,7 +12668,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/guilad-joyas.html",
       "ok": true,
-      "evidence": "BBVA (Guilad Joyas): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Guilad Joyas): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Grace",
@@ -12743,7 +12743,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/pet.html",
       "ok": true,
-      "evidence": "BBVA (PET+): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (PET+): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "PET+",
@@ -12755,7 +12755,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/mascotas/pet.html",
       "ok": true,
-      "evidence": "BBVA (PET+): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (PET+): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Farmacia Albisu",
@@ -13351,7 +13351,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/nagasaki.html",
       "ok": true,
-      "evidence": "BBVA (Nagasaki): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Nagasaki): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Nagasaki",
@@ -13364,7 +13364,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/nagasaki.html",
       "ok": true,
-      "evidence": "BBVA (Nagasaki): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Nagasaki): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "Consolid Turismo Internacional y Nacional",
@@ -13835,7 +13835,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/viajes/midland-hotel.html",
       "ok": true,
-      "evidence": "BBVA (Midland Hotel): \"15% Off con con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Midland Hotel): \"15% Off con con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "AquaPark",
@@ -14043,7 +14043,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/autos/dourado-motors.html",
       "ok": true,
-      "evidence": "BBVA (Dourado Motors): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2026-10-31)\""
+      "evidence": "BBVA (Dourado Motors): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "CAMS",
@@ -22133,6 +22133,417 @@
       "url": "https://www.santander.com.uy/beneficios",
       "ok": true,
       "evidence": "Santander (El Naranjo): \"25% con Platinum, Select y Private Banking\""
+    },
+    {
+      "merchant": "Pañalera Mily",
+      "ruleId": "panalera-mily-bbva-debito-15",
+      "percentage": 15,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold",
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/panalera-mily.html",
+      "ok": true,
+      "evidence": "BBVA (Pañalera Mily): \"15% Off con Tarjetas de Débito · 15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Farmacia Machado",
+      "ruleId": "farmacia-machado-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-machado.html",
+      "ok": true,
+      "evidence": "BBVA (Farmacia Machado): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Farmacia Machado",
+      "ruleId": "farmacia-machado-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-machado.html",
+      "ok": true,
+      "evidence": "BBVA (Farmacia Machado): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Farmacia L´Disc",
+      "ruleId": "farmacia-l-disc-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-ldisc.html",
+      "ok": true,
+      "evidence": "BBVA (Farmacia L´Disc): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Farmacia L´Disc",
+      "ruleId": "farmacia-l-disc-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/cuidado-personal/farmacia-ldisc.html",
+      "ok": true,
+      "evidence": "BBVA (Farmacia L´Disc): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "A Brillar mi Amor",
+      "ruleId": "a-brillar-mi-amor-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/a-brillar-mi-amor.html",
+      "ok": true,
+      "evidence": "BBVA (A Brillar mi Amor): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "A Brillar mi Amor",
+      "ruleId": "a-brillar-mi-amor-bbva-credito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/a-brillar-mi-amor.html",
+      "ok": true,
+      "evidence": "BBVA (A Brillar mi Amor): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Casa y Cosas",
+      "ruleId": "casa-y-cosas-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/casa-y-cosas.html",
+      "ok": true,
+      "evidence": "BBVA (Casa y Cosas): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Casa y Cosas",
+      "ruleId": "casa-y-cosas-bbva-credito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/hogar-y-decoracion/casa-y-cosas.html",
+      "ok": true,
+      "evidence": "BBVA (Casa y Cosas): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Minot",
+      "ruleId": "minot-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/minot.html",
+      "ok": true,
+      "evidence": "BBVA (Minot): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Minot",
+      "ruleId": "minot-bbva-credito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/minot.html",
+      "ok": true,
+      "evidence": "BBVA (Minot): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "La otra parrilla",
+      "ruleId": "la-otra-parrilla-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-otra-parrilla.html",
+      "ok": true,
+      "evidence": "BBVA (La otra parrilla): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "La otra parrilla",
+      "ruleId": "la-otra-parrilla-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/la-otra-parrilla.html",
+      "ok": true,
+      "evidence": "BBVA (La otra parrilla): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Restaurante Charrúa",
+      "ruleId": "restaurante-charrua-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-charrua.html",
+      "ok": true,
+      "evidence": "BBVA (Restaurante Charrúa): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Restaurante Charrúa",
+      "ruleId": "restaurante-charrua-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/restaurante-charrua.html",
+      "ok": true,
+      "evidence": "BBVA (Restaurante Charrúa): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Porterhouse",
+      "ruleId": "porterhouse-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/porterhouse.html",
+      "ok": true,
+      "evidence": "BBVA (Porterhouse): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Porterhouse",
+      "ruleId": "porterhouse-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/porterhouse.html",
+      "ok": true,
+      "evidence": "BBVA (Porterhouse): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Midland",
+      "ruleId": "midland-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/midland.html",
+      "ok": true,
+      "evidence": "BBVA (Midland): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Midland",
+      "ruleId": "midland-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/midland.html",
+      "ok": true,
+      "evidence": "BBVA (Midland): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Restaurante El Refugio",
+      "ruleId": "restaurante-el-refugio-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-refugio.html",
+      "ok": true,
+      "evidence": "BBVA (Restaurante El Refugio): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Restaurante El Refugio",
+      "ruleId": "restaurante-el-refugio-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/el-refugio.html",
+      "ok": true,
+      "evidence": "BBVA (Restaurante El Refugio): \"20% Off con Tarjetas de Debito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Contigo Sueño Café",
+      "ruleId": "contigo-sueno-cafe-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/contigo-sueno-cafe.html",
+      "ok": true,
+      "evidence": "BBVA (Contigo Sueño Café): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Contigo Sueño Café",
+      "ruleId": "contigo-sueno-cafe-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/contigo-sueno-cafe.html",
+      "ok": true,
+      "evidence": "BBVA (Contigo Sueño Café): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Riggo Uniformes",
+      "ruleId": "riggo-uniformes-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/riggo-uniformes.html",
+      "ok": true,
+      "evidence": "BBVA (Riggo Uniformes): \"30% Off con Tarjetas de Crédito Infinite, Platinum y Black (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Riggo Uniformes",
+      "ruleId": "riggo-uniformes-bbva-credito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/moda/riggo-uniformes.html",
+      "ok": true,
+      "evidence": "BBVA (Riggo Uniformes): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "ALVAREZ",
+      "ruleId": "alvarez-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (ALVAREZ): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "ALVAREZ",
+      "ruleId": "alvarez-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (ALVAREZ): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "NOA NOA",
+      "ruleId": "noa-noa-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (NOA NOA): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "NOA NOA",
+      "ruleId": "noa-noa-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (NOA NOA): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "FEDERACIÓN",
+      "ruleId": "federacion-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (FEDERACIÓN): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "FEDERACIÓN",
+      "ruleId": "federacion-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (FEDERACIÓN): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "VERMUTERIA",
+      "ruleId": "vermuteria-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (VERMUTERIA): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "VERMUTERIA",
+      "ruleId": "vermuteria-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (VERMUTERIA): \"15% de ahorro con tarjetas de Crédito y Débito\""
     }
   ]
 }
