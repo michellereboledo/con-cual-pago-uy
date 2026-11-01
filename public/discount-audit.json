@@ -1,12 +1,12 @@
 {
-  "auditedAtISO": "2026-10-31T13:14:18.351Z",
-  "candidateRules": 1808,
-  "verifiedRules": 1808,
+  "auditedAtISO": "2026-11-01T13:57:43.848Z",
+  "candidateRules": 1814,
+  "verifiedRules": 1814,
   "droppedRules": 0,
-  "merchants": 1050,
+  "merchants": 1056,
   "rulesByBank": {
     "BROU": 28,
-    "OCA": 36,
+    "OCA": 42,
     "BBVA": 431,
     "MIDINERO": 2,
     "ITAU": 647,
@@ -22544,6 +22544,72 @@
       "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
       "ok": true,
       "evidence": "Scotiabank (VERMUTERIA): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "Ciberlunes - NOV26",
+      "ruleId": "ciberlunes-nov26-oca-credito-10",
+      "percentage": 10,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Ciberlunes - NOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en los comercios adheridos, del 2 al 9 de noviembre del 2026 . El descuento es exclusivo para compras web, tiene un tope de $3\""
+    },
+    {
+      "merchant": "LOi - CiberlunesNOV26",
+      "ruleId": "loi-ciberlunesnov26-oca-credito-10",
+      "percentage": 10,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (LOi - CiberlunesNOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en LOI, del 2 al 9 de noviembre del 2026 . El descuento es exclusivo para compras web, tiene un tope de $3.000 por cuenta y se\""
+    },
+    {
+      "merchant": "Emporio del Hogar  - CiberlunesNOV26",
+      "ruleId": "emporio-del-hogar-ciberlunesnov26-oca-credito-10",
+      "percentage": 10,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Emporio del Hogar  - CiberlunesNOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en El Emporio del Hogar, del 2 al 9 de noviembre del 2026.El descuento es exclusivo para compras web, tiene un tope de $3.000 \""
+    },
+    {
+      "merchant": "Buho Store - CiberlunesNOV26",
+      "ruleId": "buho-store-ciberlunesnov26-oca-credito-10",
+      "percentage": 10,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Buho Store - CiberlunesNOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en Búho Store, del 2 al 9 de noviembre del 2026 . El descuento es exclusivo para compras web, tiene un tope de $3.000 por cuen\""
+    },
+    {
+      "merchant": "Electroventas  - CiberlunesNOV26",
+      "ruleId": "electroventas-ciberlunesnov26-oca-credito-10",
+      "percentage": 10,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Electroventas  - CiberlunesNOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en Electroventas, del 2 al 9 de noviembre del 2026 . El descuento es exclusivo para compras web, tiene un tope de $3.000 por c\""
+    },
+    {
+      "merchant": "Mi Belleza - CiberlunesNOV26",
+      "ruleId": "mi-belleza-ciberlunesnov26-oca-credito-10",
+      "percentage": 10,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Mi Belleza - CiberlunesNOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en Mi Belleza, del 2 al 9 de noviembre del 2026 . El descuento es exclusivo para compras web, tiene un tope de $3.000 por cuen\""
     }
   ]
 }
