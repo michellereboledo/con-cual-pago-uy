@@ -1,16 +1,16 @@
 {
-  "auditedAtISO": "2026-11-02T16:44:57.634Z",
-  "candidateRules": 1814,
-  "verifiedRules": 1814,
+  "auditedAtISO": "2026-11-03T14:48:24.154Z",
+  "candidateRules": 1815,
+  "verifiedRules": 1815,
   "droppedRules": 0,
-  "merchants": 1056,
+  "merchants": 1057,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 42,
     "BBVA": 431,
     "MIDINERO": 2,
     "ITAU": 647,
-    "SCOTIA": 387,
+    "SCOTIA": 388,
     "SANTANDER": 277
   },
   "rules": [
@@ -9119,7 +9119,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/tecnologia/xiaomi.html",
       "ok": true,
-      "evidence": "BBVA (Xiaomi Uruguay): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2026-11-01)\""
+      "evidence": "BBVA (Xiaomi Uruguay): \"15% Off con Tarjetas de Crédito Internacional, Oro, Pymes, Corporativas, Infinite, Platinum y Black (Vigencia: 2026-11-08)\""
     },
     {
       "merchant": "Clementine Natural",
@@ -22610,6 +22610,20 @@
       "url": "https://oca.uy/beneficios/",
       "ok": true,
       "evidence": "OCA (Mi Belleza - CiberlunesNOV26 - TC): \"10% de dto. + 12 cuotas* en compras web — 10% de descuento con tarjetas de crédito + 12 cuotas* en Mi Belleza, del 2 al 9 de noviembre del 2026 . El descuento es exclusivo para compras web, tiene un tope de $3.000 por cuen\""
+    },
+    {
+      "merchant": "PedidosYA MARKET y FARMACIAS",
+      "ruleId": "pedidosya-market-y-farmacias-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (PedidosYA MARKET y FARMACIAS): \"15% de ahorro con tarjetas de crédito\""
     }
   ]
 }
