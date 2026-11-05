@@ -2366,5 +2366,21 @@
     "bytes": 18400,
     "latencyMs": 95,
     "checkedAtISO": "2026-10-31T13:14:18.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/Bodega_Braco_Bosca.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "6cf512a48f9766baf6adcc940dfa0b13d489f8ada0f2e5b1a11b03594f4ae8cb",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-11-05T15:05:47.214Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/La_Vuelta.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "ab76d0ed579e406e35ab0b7e74dc69e04e35ef75dfb794ff726f45e5033b31ba",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-11-05T15:05:47.214Z"
   }
 }

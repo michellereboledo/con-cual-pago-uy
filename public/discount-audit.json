@@ -1,13 +1,13 @@
 {
-  "auditedAtISO": "2026-11-04T15:00:07.707Z",
-  "candidateRules": 1815,
-  "verifiedRules": 1815,
+  "auditedAtISO": "2026-11-05T15:05:47.214Z",
+  "candidateRules": 1820,
+  "verifiedRules": 1820,
   "droppedRules": 0,
-  "merchants": 1057,
+  "merchants": 1059,
   "rulesByBank": {
     "BROU": 28,
-    "OCA": 42,
-    "BBVA": 431,
+    "OCA": 43,
+    "BBVA": 435,
     "MIDINERO": 2,
     "ITAU": 647,
     "SCOTIA": 388,
@@ -21295,6 +21295,18 @@
     },
     {
       "merchant": "La Vuelta",
+      "ruleId": "la-vuelta-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/La_Vuelta.html",
+      "ok": true,
+      "evidence": "BBVA (La Vuelta): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "La Vuelta",
       "ruleId": "la-vuelta-santander-platinum-25",
       "percentage": 25,
       "cards": [
@@ -21304,6 +21316,19 @@
       "url": "https://www.santander.com.uy/beneficios",
       "ok": true,
       "evidence": "Santander (La Vuelta): \"25% con Platinum, Select y Private Banking\""
+    },
+    {
+      "merchant": "La Vuelta",
+      "ruleId": "la-vuelta-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/La_Vuelta.html",
+      "ok": true,
+      "evidence": "BBVA (La Vuelta): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
     },
     {
       "merchant": "The Beer House",
@@ -22624,6 +22649,42 @@
       "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
       "ok": true,
       "evidence": "Scotiabank (PedidosYA MARKET y FARMACIAS): \"15% de ahorro con tarjetas de crédito\""
+    },
+    {
+      "merchant": "Bodega Bracco Bosca",
+      "ruleId": "bodega-bracco-bosca-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/Bodega_Braco_Bosca.html",
+      "ok": true,
+      "evidence": "BBVA (Bodega Bracco Bosca): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Bodega Bracco Bosca",
+      "ruleId": "bodega-bracco-bosca-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/Bodega_Braco_Bosca.html",
+      "ok": true,
+      "evidence": "BBVA (Bodega Bracco Bosca): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-10-31)\""
+    },
+    {
+      "merchant": "Kroser 20% TC",
+      "ruleId": "kroser-20-tc-oca-credito-20",
+      "percentage": 20,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Kroser 20% TC): \"20% dto. con tarjetas de crédito hasta el 9 de noviembre — 20% de descuento con tarjetas de crédito Master y VISA, en Kroser, del 2 al 9 de noviembre del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 po\""
     }
   ]
 }
