@@ -1,15 +1,15 @@
 {
-  "auditedAtISO": "2026-11-05T15:05:47.214Z",
-  "candidateRules": 1820,
-  "verifiedRules": 1820,
+  "auditedAtISO": "2026-11-06T14:44:12.723Z",
+  "candidateRules": 1827,
+  "verifiedRules": 1827,
   "droppedRules": 0,
-  "merchants": 1059,
+  "merchants": 1062,
   "rulesByBank": {
     "BROU": 28,
-    "OCA": 43,
+    "OCA": 44,
     "BBVA": 435,
     "MIDINERO": 2,
-    "ITAU": 647,
+    "ITAU": 653,
     "SCOTIA": 388,
     "SANTANDER": 277
   },
@@ -22685,6 +22685,87 @@
       "url": "https://oca.uy/beneficios/",
       "ok": true,
       "evidence": "OCA (Kroser 20% TC): \"20% dto. con tarjetas de crédito hasta el 9 de noviembre — 20% de descuento con tarjetas de crédito Master y VISA, en Kroser, del 2 al 9 de noviembre del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 po\""
+    },
+    {
+      "merchant": "Panini",
+      "ruleId": "panini-itau-personal-bank-25",
+      "percentage": 25,
+      "cards": [
+        "itau-personal-bank",
+        "itau-black"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
+      "ok": true,
+      "evidence": "Itaú lista \"Panini\" bajo \"25% menos\" en restaurantespersonalbank.html"
+    },
+    {
+      "merchant": "Panini",
+      "ruleId": "panini-itau-platinum-20",
+      "percentage": 20,
+      "cards": [
+        "itau-platinum"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
+      "ok": true,
+      "evidence": "Itaú lista \"Panini\" bajo \"20% menos\" en restaurantesplatinum.html"
+    },
+    {
+      "merchant": "Panini",
+      "ruleId": "panini-itau-volar-credito-15",
+      "percentage": 15,
+      "cards": [
+        "itau-volar-credito",
+        "itau-gold"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantes.html",
+      "ok": true,
+      "evidence": "Itaú lista \"Panini\" bajo \"15% menos\" en restaurantes.html"
+    },
+    {
+      "merchant": "Mar de Verdes",
+      "ruleId": "mar-de-verdes-itau-personal-bank-25",
+      "percentage": 25,
+      "cards": [
+        "itau-personal-bank",
+        "itau-black"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
+      "ok": true,
+      "evidence": "Itaú lista \"Mar de Verdes\" bajo \"25% menos\" en restaurantespersonalbank.html"
+    },
+    {
+      "merchant": "Mar de Verdes",
+      "ruleId": "mar-de-verdes-itau-platinum-20",
+      "percentage": 20,
+      "cards": [
+        "itau-platinum"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
+      "ok": true,
+      "evidence": "Itaú lista \"Mar de Verdes\" bajo \"20% menos\" en restaurantesplatinum.html"
+    },
+    {
+      "merchant": "Mar de Verdes",
+      "ruleId": "mar-de-verdes-itau-volar-credito-15",
+      "percentage": 15,
+      "cards": [
+        "itau-volar-credito",
+        "itau-gold"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantes.html",
+      "ok": true,
+      "evidence": "Itaú lista \"Mar de Verdes\" bajo \"15% menos\" en restaurantes.html"
+    },
+    {
+      "merchant": "Cabify Blue - TC/Master - 50%",
+      "ruleId": "cabify-blue-tc-master-50-oca-credito-50",
+      "percentage": 50,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Cabify Blue - TC/Master - 50%): \"50% de dto. en 5 viajes usando el código — Promoción válida todos los días, para viajes realizados en Uruguay desde el 21 de octubre hasta el 30 de noviembre. La Promoción es aplicable para nuevos usuarios que se registren \""
     }
   ]
 }
