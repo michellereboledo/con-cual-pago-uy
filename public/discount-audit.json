@@ -1,13 +1,13 @@
 {
-  "auditedAtISO": "2026-11-06T14:44:12.723Z",
-  "candidateRules": 1827,
-  "verifiedRules": 1827,
+  "auditedAtISO": "2026-11-07T13:42:24.351Z",
+  "candidateRules": 1834,
+  "verifiedRules": 1834,
   "droppedRules": 0,
-  "merchants": 1062,
+  "merchants": 1066,
   "rulesByBank": {
     "BROU": 28,
-    "OCA": 44,
-    "BBVA": 435,
+    "OCA": 45,
+    "BBVA": 441,
     "MIDINERO": 2,
     "ITAU": 653,
     "SCOTIA": 388,
@@ -11275,7 +11275,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/cafe_suarez.html",
       "ok": true,
-      "evidence": "BBVA (Café Suárez): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2026-12-31)\""
+      "evidence": "BBVA (Café Suárez): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-12-31)\""
     },
     {
       "merchant": "Café Suárez",
@@ -11288,7 +11288,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/cafe_suarez.html",
       "ok": true,
-      "evidence": "BBVA (Café Suárez): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2026-12-31)\""
+      "evidence": "BBVA (Café Suárez): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-12-31)\""
     },
     {
       "merchant": "A la Par",
@@ -22766,6 +22766,91 @@
       "url": "https://oca.uy/beneficios/",
       "ok": true,
       "evidence": "OCA (Cabify Blue - TC/Master - 50%): \"50% de dto. en 5 viajes usando el código — Promoción válida todos los días, para viajes realizados en Uruguay desde el 21 de octubre hasta el 30 de noviembre. La Promoción es aplicable para nuevos usuarios que se registren \""
+    },
+    {
+      "merchant": "Zazú",
+      "ruleId": "zazu-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/zazu.html",
+      "ok": true,
+      "evidence": "BBVA (Zazú): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-12-31)\""
+    },
+    {
+      "merchant": "Zazú",
+      "ruleId": "zazu-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/zazu.html",
+      "ok": true,
+      "evidence": "BBVA (Zazú): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-12-31)\""
+    },
+    {
+      "merchant": "Lo de Tere",
+      "ruleId": "lo-de-tere-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/lo-de-tere.html",
+      "ok": true,
+      "evidence": "BBVA (Lo de Tere): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-12-31)\""
+    },
+    {
+      "merchant": "Lo de Tere",
+      "ruleId": "lo-de-tere-bbva-credito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/lo-de-tere.html",
+      "ok": true,
+      "evidence": "BBVA (Lo de Tere): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-12-31)\""
+    },
+    {
+      "merchant": "Lo de Jaime",
+      "ruleId": "lo-de-jaime-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/lo-de-jaime.html",
+      "ok": true,
+      "evidence": "BBVA (Lo de Jaime): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-12-31)\""
+    },
+    {
+      "merchant": "Lo de Jaime",
+      "ruleId": "lo-de-jaime-bbva-debito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-debito",
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/lo-de-jaime.html",
+      "ok": true,
+      "evidence": "BBVA (Lo de Jaime): \"20% Off con Tarjetas de Débito · 20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-12-31)\""
+    },
+    {
+      "merchant": "Días OCA de la Moda",
+      "ruleId": "dias-oca-de-la-moda-oca-credito-20",
+      "percentage": 20,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Días OCA de la Moda - TC): \"20% de dto. — \""
     }
   ]
 }

@@ -2382,5 +2382,29 @@
     "bytes": 18400,
     "latencyMs": 95,
     "checkedAtISO": "2026-11-05T15:05:47.214Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/zazu.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "f584f962c77db22700096388a9b6d6c0be785e43e44fbd81f967153206b04011",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-11-07T13:42:24.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/lo-de-tere.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "6245bf1cd76bba64e04a6a038d81d1e5fffe2d386fb1cd6515ad2b38026e066e",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-11-07T13:42:24.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/gastronomia/lo-de-jaime.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "524a769274024019f61780ded8d433fe5fc1009001193b7db92132124dee85f3",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-11-07T13:42:24.351Z"
   }
 }
