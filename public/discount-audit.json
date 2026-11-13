@@ -1,15 +1,15 @@
 {
-  "auditedAtISO": "2026-11-12T15:43:37.922Z",
-  "candidateRules": 1834,
-  "verifiedRules": 1834,
+  "auditedAtISO": "2026-11-13T15:02:11.133Z",
+  "candidateRules": 1837,
+  "verifiedRules": 1837,
   "droppedRules": 0,
-  "merchants": 1066,
+  "merchants": 1067,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 45,
     "BBVA": 441,
     "MIDINERO": 2,
-    "ITAU": 653,
+    "ITAU": 656,
     "SCOTIA": 388,
     "SANTANDER": 277
   },
@@ -22851,6 +22851,41 @@
       "url": "https://oca.uy/beneficios/",
       "ok": true,
       "evidence": "OCA (Días OCA de la Moda - TC): \"20% de dto. — \""
+    },
+    {
+      "merchant": "by Luli",
+      "ruleId": "by-luli-itau-personal-bank-15",
+      "percentage": 15,
+      "cards": [
+        "itau-personal-bank",
+        "itau-black"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
+      "ok": true,
+      "evidence": "Itaú lista \"by Luli\" bajo \"15% menos\" en restaurantespersonalbank.html"
+    },
+    {
+      "merchant": "by Luli",
+      "ruleId": "by-luli-itau-platinum-15",
+      "percentage": 15,
+      "cards": [
+        "itau-platinum"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
+      "ok": true,
+      "evidence": "Itaú lista \"by Luli\" bajo \"15% menos\" en restaurantesplatinum.html"
+    },
+    {
+      "merchant": "by Luli",
+      "ruleId": "by-luli-itau-volar-credito-15",
+      "percentage": 15,
+      "cards": [
+        "itau-volar-credito",
+        "itau-gold"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantes.html",
+      "ok": true,
+      "evidence": "Itaú lista \"by Luli\" bajo \"15% menos\" en restaurantes.html"
     }
   ]
 }
