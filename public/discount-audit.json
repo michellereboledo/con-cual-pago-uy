@@ -1,17 +1,17 @@
 {
-  "auditedAtISO": "2026-11-13T15:02:11.133Z",
-  "candidateRules": 1837,
-  "verifiedRules": 1837,
+  "auditedAtISO": "2026-11-14T13:54:12.338Z",
+  "candidateRules": 1842,
+  "verifiedRules": 1842,
   "droppedRules": 0,
-  "merchants": 1067,
+  "merchants": 1070,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 45,
     "BBVA": 441,
     "MIDINERO": 2,
     "ITAU": 656,
-    "SCOTIA": 388,
-    "SANTANDER": 277
+    "SCOTIA": 392,
+    "SANTANDER": 278
   },
   "rules": [
     {
@@ -22886,6 +22886,68 @@
       "url": "https://www.itau.com.uy/inst/restaurantes.html",
       "ok": true,
       "evidence": "Itaú lista \"by Luli\" bajo \"15% menos\" en restaurantes.html"
+    },
+    {
+      "merchant": "Popa Pastelería & Café",
+      "ruleId": "popa-pasteleria-y-cafe-santander-platinum-25",
+      "percentage": 25,
+      "cards": [
+        "santander-platinum",
+        "santander-select"
+      ],
+      "url": "https://www.santander.com.uy/beneficios",
+      "ok": true,
+      "evidence": "Santander (Popa Pastelería & Café): \"25% con Platinum, Select y Private Banking\""
+    },
+    {
+      "merchant": "Floreal - Punta del Este",
+      "ruleId": "floreal-punta-del-este-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Floreal - Punta del Este): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "Floreal - Punta del Este",
+      "ruleId": "floreal-punta-del-este-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Floreal - Punta del Este): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "Juan Perez - Punta del Este",
+      "ruleId": "juan-perez-punta-del-este-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Juan Perez - Punta del Este): \"25% de ahorro con Tarjetas Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "Juan Perez - Punta del Este",
+      "ruleId": "juan-perez-punta-del-este-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Juan Perez - Punta del Este): \"15% de ahorro con Tarjetas de Crédito y Débito\""
     }
   ]
 }
