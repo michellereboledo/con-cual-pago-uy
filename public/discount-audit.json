@@ -1,13 +1,13 @@
 {
-  "auditedAtISO": "2026-11-15T14:27:28.860Z",
-  "candidateRules": 1842,
-  "verifiedRules": 1842,
+  "auditedAtISO": "2026-11-16T16:40:21.338Z",
+  "candidateRules": 1844,
+  "verifiedRules": 1844,
   "droppedRules": 0,
-  "merchants": 1070,
+  "merchants": 1071,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 45,
-    "BBVA": 441,
+    "BBVA": 443,
     "MIDINERO": 2,
     "ITAU": 656,
     "SCOTIA": 392,
@@ -22948,6 +22948,30 @@
       "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
       "ok": true,
       "evidence": "Scotiabank (Juan Perez - Punta del Este): \"15% de ahorro con Tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "Babolat",
+      "ruleId": "babolat-bbva-platinum-30",
+      "percentage": 30,
+      "cards": [
+        "bbva-platinum",
+        "bbva-platinum-black"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Babolat.html",
+      "ok": true,
+      "evidence": "BBVA (Babolat): \"30% Off con Tarjetas de Crédito Platinum, Black e Infinite (Vigencia: 2027-11-30)\""
+    },
+    {
+      "merchant": "Babolat",
+      "ruleId": "babolat-bbva-credito-20",
+      "percentage": 20,
+      "cards": [
+        "bbva-credito",
+        "bbva-gold"
+      ],
+      "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Babolat.html",
+      "ok": true,
+      "evidence": "BBVA (Babolat): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-11-30)\""
     }
   ]
 }

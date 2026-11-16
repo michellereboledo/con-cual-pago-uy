@@ -2406,5 +2406,13 @@
     "bytes": 18400,
     "latencyMs": 95,
     "checkedAtISO": "2026-11-07T13:42:24.351Z"
+  },
+  "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Babolat.html": {
+    "status": 200,
+    "httpStatus": 200,
+    "sha256": "3eefdc0fc05eea51a5dd57d42a13893ede3441a24d0874755046847133a2bf22",
+    "bytes": 18400,
+    "latencyMs": 95,
+    "checkedAtISO": "2026-11-16T16:40:21.338Z"
   }
 }
