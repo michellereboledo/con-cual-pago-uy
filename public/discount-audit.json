@@ -1,12 +1,12 @@
 {
-  "auditedAtISO": "2026-11-17T16:38:02.037Z",
-  "candidateRules": 1844,
-  "verifiedRules": 1844,
+  "auditedAtISO": "2026-11-18T16:15:54.629Z",
+  "candidateRules": 1845,
+  "verifiedRules": 1845,
   "droppedRules": 0,
-  "merchants": 1071,
+  "merchants": 1072,
   "rulesByBank": {
     "BROU": 28,
-    "OCA": 45,
+    "OCA": 46,
     "BBVA": 443,
     "MIDINERO": 2,
     "ITAU": 656,
@@ -2021,7 +2021,7 @@
       ],
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/experiencias/Life_Cinemas.html",
       "ok": true,
-      "evidence": "BBVA (Life Cinemas): \"50% Off con Tarjetas de Débito en la compra de entradas para películas 2D y 3D · 50% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas en la compra de entradas para películas 2D, 3D y en la compra de packs de pop y · 50% Off con Tarjetas de Crédito Platinum, Black e Infinite en la compra de entradas para películas 2D, 3D (Vigencia: 2029-07-26)\""
+      "evidence": "BBVA (Life Cinemas): \"50% Off con Tarjetas de Débito en la compra de entradas para películas 2D y 3D · 50% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas en la compra de entradas para películas 2D, 3D y en la compra de packs de pop y · 50% Off con Tarjetas de Crédito Platinum, Black e Infinite en (Vigencia: 2029-07-26)\""
     },
     {
       "merchant": "Cinemateca Uruguaya",
@@ -22765,7 +22765,7 @@
       ],
       "url": "https://oca.uy/beneficios/",
       "ok": true,
-      "evidence": "OCA (Cabify Blue - TC/Master - 50%): \"50% de dto. en 5 viajes usando el código — Promoción válida todos los días, para viajes realizados en Uruguay desde el 21 de octubre hasta el 30 de noviembre. La Promoción es aplicable para nuevos usuarios que se registren \""
+      "evidence": "OCA (Cabify Blue - TC/Master - 50%): \"50% de dto. en 5 viajes usando el código — Promoción válida todos los días, para viajes realizados en Uruguay desde el 21 de octubre hasta el 31 de diciembre. La Promoción es aplicable para nuevos usuarios que se registren \""
     },
     {
       "merchant": "Zazú",
@@ -22972,6 +22972,17 @@
       "url": "https://www.bbva.com.uy/personas/productos/tarjetas/descuentos/vida-activa/Babolat.html",
       "ok": true,
       "evidence": "BBVA (Babolat): \"20% Off con Tarjetas de Crédito Internacional, Oro, Pymes y Corporativas (Vigencia: 2027-11-30)\""
+    },
+    {
+      "merchant": "Antel Arena - TC Master",
+      "ruleId": "antel-arena-tc-master-oca-credito-50",
+      "percentage": 50,
+      "cards": [
+        "oca-credito"
+      ],
+      "url": "https://oca.uy/beneficios/",
+      "ok": true,
+      "evidence": "OCA (Antel Arena - TC Master): \"2x1 en refrescos, aguas y cervezas en la previa y durante el show — La promoción consiste en un beneficio de 2x1 en refrescos, aguas y/o cervezas adquiridas en el estadio Antel Arena en los días indicados . Válida únicamente para pagos realizados c\""
     }
   ]
 }
