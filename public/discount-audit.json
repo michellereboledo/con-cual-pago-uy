@@ -1,15 +1,15 @@
 {
-  "auditedAtISO": "2026-11-24T18:32:49.988Z",
-  "candidateRules": 1854,
-  "verifiedRules": 1854,
+  "auditedAtISO": "2026-11-25T17:44:25.869Z",
+  "candidateRules": 1857,
+  "verifiedRules": 1857,
   "droppedRules": 0,
-  "merchants": 1075,
+  "merchants": 1076,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 46,
     "BBVA": 443,
     "MIDINERO": 2,
-    "ITAU": 665,
+    "ITAU": 668,
     "SCOTIA": 392,
     "SANTANDER": 278
   },
@@ -23088,6 +23088,41 @@
       "url": "https://www.itau.com.uy/inst/restaurantes.html",
       "ok": true,
       "evidence": "Itaú lista \"Toro Negro\" bajo \"15% menos\" en restaurantes.html"
+    },
+    {
+      "merchant": "El Popu",
+      "ruleId": "el-popu-itau-personal-bank-25",
+      "percentage": 25,
+      "cards": [
+        "itau-personal-bank",
+        "itau-black"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
+      "ok": true,
+      "evidence": "Itaú lista \"El Popu\" bajo \"25% menos\" en restaurantespersonalbank.html"
+    },
+    {
+      "merchant": "El Popu",
+      "ruleId": "el-popu-itau-platinum-20",
+      "percentage": 20,
+      "cards": [
+        "itau-platinum"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
+      "ok": true,
+      "evidence": "Itaú lista \"El Popu\" bajo \"20% menos\" en restaurantesplatinum.html"
+    },
+    {
+      "merchant": "El Popu",
+      "ruleId": "el-popu-itau-volar-credito-15",
+      "percentage": 15,
+      "cards": [
+        "itau-volar-credito",
+        "itau-gold"
+      ],
+      "url": "https://www.itau.com.uy/inst/restaurantes.html",
+      "ok": true,
+      "evidence": "Itaú lista \"El Popu\" bajo \"15% menos\" en restaurantes.html"
     }
   ]
 }
