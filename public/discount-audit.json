@@ -1,16 +1,16 @@
 {
-  "auditedAtISO": "2026-11-26T17:29:11.630Z",
-  "candidateRules": 1857,
-  "verifiedRules": 1857,
+  "auditedAtISO": "2026-11-27T17:07:53.260Z",
+  "candidateRules": 1861,
+  "verifiedRules": 1861,
   "droppedRules": 0,
-  "merchants": 1076,
+  "merchants": 1078,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 46,
     "BBVA": 443,
     "MIDINERO": 2,
     "ITAU": 668,
-    "SCOTIA": 392,
+    "SCOTIA": 396,
     "SANTANDER": 278
   },
   "rules": [
@@ -23123,6 +23123,56 @@
       "url": "https://www.itau.com.uy/inst/restaurantes.html",
       "ok": true,
       "evidence": "Itaú lista \"El Popu\" bajo \"15% menos\" en restaurantes.html"
+    },
+    {
+      "merchant": "Culto",
+      "ruleId": "culto-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Culto): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "Culto",
+      "ruleId": "culto-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Culto): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "ARCHIE´S PIZZA & BURGUERS",
+      "ruleId": "archie-s-pizza-y-burguers-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (ARCHIE´S PIZZA & BURGUERS): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "ARCHIE´S PIZZA & BURGUERS",
+      "ruleId": "archie-s-pizza-y-burguers-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (ARCHIE´S PIZZA & BURGUERS): \"15% de ahorro con tarjetas de Crédito y Débito\""
     }
   ]
 }
