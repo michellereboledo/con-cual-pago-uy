@@ -1,16 +1,16 @@
 {
-  "auditedAtISO": "2026-11-27T17:07:53.260Z",
-  "candidateRules": 1861,
-  "verifiedRules": 1861,
+  "auditedAtISO": "2026-11-28T15:55:35.838Z",
+  "candidateRules": 1865,
+  "verifiedRules": 1865,
   "droppedRules": 0,
-  "merchants": 1078,
+  "merchants": 1080,
   "rulesByBank": {
     "BROU": 28,
     "OCA": 46,
     "BBVA": 443,
     "MIDINERO": 2,
     "ITAU": 668,
-    "SCOTIA": 396,
+    "SCOTIA": 400,
     "SANTANDER": 278
   },
   "rules": [
@@ -23173,6 +23173,56 @@
       "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
       "ok": true,
       "evidence": "Scotiabank (ARCHIE´S PIZZA & BURGUERS): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "Surco",
+      "ruleId": "surco-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Surco): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "Surco",
+      "ruleId": "surco-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Surco): \"15% de ahorro con tarjetas de Crédito y Débito\""
+    },
+    {
+      "merchant": "Pura",
+      "ruleId": "pura-scotiabank-gold-25",
+      "percentage": 25,
+      "cards": [
+        "scotia-gold",
+        "scotia-platinum",
+        "scotia-platinum-infinite"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Pura): \"25% de ahorro con tarjetas de Crédito Platinum, Infinite, Gold y Débito Premium\""
+    },
+    {
+      "merchant": "Pura",
+      "ruleId": "pura-scotiabank-credito-go-15",
+      "percentage": 15,
+      "cards": [
+        "scotia-credito-go",
+        "scotia-debito"
+      ],
+      "url": "https://www.scotiabank.com.uy/Personas/Tarjetas/Beneficios/default",
+      "ok": true,
+      "evidence": "Scotiabank (Pura): \"15% de ahorro con tarjetas de Crédito y Débito\""
     }
   ]
 }
